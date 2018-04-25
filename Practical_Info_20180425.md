@@ -4,6 +4,8 @@
 [https://newdevprojects.github.io/S2/Practical_Info_20180425.html](https://newdevprojects.github.io/S2/Practical_Info_20180425.html)
 # Café / Coffie
 
+	25.04.2018
+
 ## &#9888; &#10173; Bruxelles (*Atrium*) Brussel
 
 ![](header.jpg)
