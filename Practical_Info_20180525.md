@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://newdevprojects.github.io/S2/S2.css>
+<link rel="stylesheet" href="https://newdevprojects.github.io/S2/S2.css">
 
 # Café / Coffie
 
@@ -9,3 +9,6 @@
 | Vous l'avez peut-être déjà remarqué : le distributeur de boissons chaudes a été retiré. | &nbsp; |
 
 
+    Permalink 
+
+https://newdevprojects.github.io/S2/Practical_Info_20180525.html
