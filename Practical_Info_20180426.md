@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://newdevprojects.github.io/S2/S2.css">
 
 #### Permalink: 
-[https://newdevprojects.github.io/S2/Practical_Info_20180425.html](https://newdevprojects.github.io/S2/Practical_Info_20180425.html)
+[https://newdevprojects.github.io/S2/Practical_Info_20180426.html](https://newdevprojects.github.io/S2/Practical_Info_20180426.html)
 # Café / Koffie
 
 	26.04.2018
