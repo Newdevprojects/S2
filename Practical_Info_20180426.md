@@ -24,6 +24,7 @@
 | Des thermos supplémentaires seront également mis à disposition aux secrétariats pour répondre aux besoins exceptionnels des DG/S. | Voor speciale behoeften bij de AD/S zullen de secretariaten ook extra thermos krijgen. | 
 | **Quand ?** | **Wanneer?** |
 | Mettre en place efficacement ce système dans les deux bâtiments nécessite un temps d'adaptation pour Sodexo. Un peu de patience, donc ... | Het efficiënt implementeren van dit systeem in beide gebouwen vereist een aanpassingstijd voor Sodexo. Een beetje geduld, dus... |
+| **Encore des questions ?** | **Nog vragen?** |
+| Robert Dumoulin (par mail, SVP) | Robert Dumoulin (per mail, AUB) |
 
-	Des questions ? Nog vragen? 
 
