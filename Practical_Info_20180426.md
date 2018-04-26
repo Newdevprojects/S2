@@ -23,7 +23,7 @@
 | L'approvisionnement des kitchenettes à tous les étages de l'Atrium et du North Gate sera mis en place dès que possible. | Koffievoorziening in de kitchenettes op alle verdiepingen van het Atrium en NG wordt zo snel mogelijk verzekerd. | 
 | Des thermos supplémentaires seront également mis à disposition aux secrétariats pour répondre aux besoins exceptionnels des DG/S. | Voor speciale behoeften bij de AD/S zullen de secretariaten ook extra thermos krijgen. | 
 | **Quand ?** | **Wanneer?** |
-| Mettre en place efficacement ce système dans les deux bâtiments nécessite un temps d'adaptation pour Sodexo. Un peu de patience, donc ... | Het efficiënt implementeren van dit systeem in beide gebouwen vereist een aanpassingstijd voor Sodexo. Een beetje geduld, dus... |
+| Mettre en place efficacement ce système dans les deux bâtiments nécessite cependant un temps d'adaptation pour Sodexo. Un peu de patience, donc ... | Het efficiënt implementeren van dit systeem in beide gebouwen vereist dan toch een aanpassingstijd voor Sodexo. Een beetje geduld, dus... |
 | **D'autres questions... ?** | **Nog vragen...?** |
 |&#10173; R. Dumoulin (par mail, SVP) | &#10173; R. Dumoulin (per mail, AUB) |
 
