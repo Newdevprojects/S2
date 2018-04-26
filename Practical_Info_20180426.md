@@ -7,7 +7,7 @@
 
 	26.04.2018
 
-## &#9888; &#10173; Bruxelles (*Atrium* & *North Gate*) Brussel
+## &#9888; &#10173; Bruxelles (*Atrium* & <u>*North Gate*</u>) Brussel
 
 ![](header.jpg)
 
