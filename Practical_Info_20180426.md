@@ -25,6 +25,6 @@
 | **Quand ?** | **Wanneer?** |
 | Mettre en place efficacement ce système dans les deux bâtiments nécessite un temps d'adaptation pour Sodexo. Un peu de patience, donc ... | Het efficiënt implementeren van dit systeem in beide gebouwen vereist een aanpassingstijd voor Sodexo. Een beetje geduld, dus... |
 | **Encore des questions ?** | **Nog vragen?** |
-| Robert Dumoulin (par mail, SVP) | Robert Dumoulin (per mail, AUB) |
+|&#10173; R. Dumoulin (par mail, SVP) | &#10173; R. Dumoulin (per mail, AUB) |
 
 
