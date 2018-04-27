@@ -3,7 +3,7 @@
 #### Permalink: 
 [https://newdevprojects.github.io/S2/Collecte.html](https://newdevprojects.github.io/S2/Collecte.html)
 
-| ![](https://newdevprojects.github.io/S2/Elize1.PNG) | ![](https://newdevprojects.github.io/S2/Elize2.PNG) |
+| ![](https://newdevprojects.github.io/S2/Elize1.PNG) Bienvenue, Elize ! | ![](https://newdevprojects.github.io/S2/Elize2.PNG) Welkom Elize! |
 | --- | --- | 
 | Bonjour à tous | Dag iedereen |
 | Le 19 avril, notre collegue Peter est devenu l'heureux papa de la petite Elize. | Op 19 april is onze collega Peter vader geworden van de kleine Elize. |
