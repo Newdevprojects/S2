@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="S2.css">
 
-[![](Moebius_micro.png)](S2_Menu.md)
+[![](Moebius_micro.png)](S2_Menu.html)
 
 # Practical Info
 
