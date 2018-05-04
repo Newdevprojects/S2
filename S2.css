@@ -170,3 +170,7 @@ code {
     color: limegreen;
     font-size: 1.2em;
 }
+
+a:visited {
+    color: #0000ff;
+}
