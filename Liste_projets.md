@@ -1,6 +1,18 @@
 <link rel="stylesheet" href="https://newdevprojects.github.io/S2/S2.css">
 <link rel="stylesheet" href="S2.css">
 
+<link rel="stylesheet" href="https://newdevprojects.github.io/S2/S2.css">
+
+#### Permalink: 
+[https://newdevprojects.github.io/S2/Liste_projets.html](https://newdevprojects.github.io/S2/Liste_projets.html)
+
+#### Next Step: 
+
+* Vergadering met projectleiders: vrijdag 18 mei 2018 - 14u
+* Zaal: *Atrium* 6/A07
+
+# Actieplan S2
+
 | projecten | deelprojecten / acties | 
 | --- | --- |
 | **01** [link](http://workplaces2010.internal.economie.fgov.be/sites/support/PMO/ProjectenActies/1.%20Optimalisatie%20van%20de%20S2%20rapportering/Projectdocumenten/20180321_Actieprogramma2018_Project1_Projectfiche.doc) | ( Edward Bruyère ) |
