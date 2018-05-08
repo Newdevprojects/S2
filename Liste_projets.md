@@ -11,6 +11,12 @@
 * Vergadering met projectleiders: vrijdag 18 mei 2018 - 14u
 * Zaal: *Atrium* 6/A07
 
+#### Agenda : 
+
+* Methodologie projectmanagement
+* Overzicht projecten 1-13
+* Overleg
+
 # Actieplan S2
 
 | projecten | deelprojecten / acties | 
