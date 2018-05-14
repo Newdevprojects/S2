@@ -22,8 +22,7 @@
 | LAUREYS | &#9744; | (&#10026;) |
 | BODI WOLA | &#9746; | 14.05 (13:45) |
 | CHRISTIAENS | &#9746; | 14.05 (13:31) |
-| NOBEN | &#9744; | . |
-| BAUWENS | &#9744; | . |
+| BAUWENS | &#9746; | 14.05 (14:38) |
 | DUVIVIER | &#9746; | 14.05 (14:00) |
 
 (&#10026;) = ouvert par Manuel MEYFROID
