@@ -7,6 +7,8 @@
 }
 
 p {
+    font-family: "Calibri";
+    font-size: 11pt;
     margin-bottom: 0.25cm;
     direction: ltr;
     line-height: 115%;
@@ -173,4 +175,25 @@ code {
 
 a:visited {
     color: #0000ff;
+}
+
+span {
+	border: 5px solid #e3e3e3;
+	background: #c7604e;
+	font-family: Verdana;
+	font-weight: bold;
+	font-size: 0.8em;
+	color: white;
+	margin: 20px;
+	padding: 5px;
+	text-align: center;
+}
+
+span a {
+    color: white;
+    text-decoration: underline;
+}
+
+span a:visited {
+    color: white;
 }
