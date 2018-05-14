@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="https://newdevprojects.github.io/S2/S2.css">
 
+<span>![](restricted.png)Status</span>
+
 #### Permalink:
 [https://newdevprojects.github.io/S2/Vac/Liste_A_Vac2380.html](https://newdevprojects.github.io/S2/Vac/Liste_A_Vac2380.html)
 
