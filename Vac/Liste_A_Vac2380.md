@@ -19,11 +19,11 @@
 | WEVERBERGH | &#9746; | 14.05 (13:39) |
 | ATMANE | &#9746; | 14.05 (14:02) |
 | AERTS | &#9746; | 14.05 (14:06) |
-| LAUREYS | &#9744; | (&star;) |
+| LAUREYS | &#9744; | (&#10026;) |
 | BODI WOLA | &#9746; | 14.05 (13:45) |
 | CHRISTIAENS | &#9746; | 14.05 (13:31) |
 | NOBEN | &#9744; | . |
 | BAUWENS | &#9744; | . |
 | DUVIVIER | &#9746; | 14.05 (14:00) |
 
-(&star;) = ouvert par Manuel MEYFROID
+(&#10026;) = ouvert par Manuel MEYFROID
