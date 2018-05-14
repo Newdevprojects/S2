@@ -1,7 +1,8 @@
 <link rel="stylesheet" href="https://newdevprojects.github.io/S2/S2.css">
 
 #### Permalink:
-[x]()
+[https://newdevprojects.github.io/S2/Vac/Liste_A_Vac2380.html](https://newdevprojects.github.io/S2/Vac/Liste_A_Vac2380.md)
+
 
 ## &Eacute;tat des accusés de réception
 
