@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://newdevprojects.github.io/S2/S2.css">
 
 #### Permalink:
-[https://newdevprojects.github.io/S2/Vac/Liste_A_Vac2380.html](https://newdevprojects.github.io/S2/Vac/Liste_A_Vac2380.md)
+[https://newdevprojects.github.io/S2/Vac/Liste_A_Vac2380.html](https://newdevprojects.github.io/S2/Vac/Liste_A_Vac2380.html)
 
 
 ## &Eacute;tat des accusés de réception
