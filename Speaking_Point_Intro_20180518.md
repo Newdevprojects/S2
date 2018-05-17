@@ -33,15 +33,11 @@ Overleg
 >  C'est ici, que vous Chefs de projet allez à partir d'aujourd'hui être le plus mis à contribution :
 > * "découpez" votre projet de façon `SMART` : des étapes qui vous semblent logiques, mesurables en termes de résultat, réalisables dans des délais raisonnables et qui vous permettent d'associer les collaborateurs les plus efficaces pour y arriver
 > * en d'autres termes : visez à ce que chacun, dans votre équipe de projet, sera sur la même ligne, comprendra la même chose, et saura ce qu'on attend de lui et dans quels délais
-
 * à un moment donné, l'étape est accompagné d'un rendez-vous, une décision *go/no go* où on se pose les questions :
     * <b>(a)</b> a-t-on avancé suffisamment ? faut-il allonger les délais des étapes suivantes ?
     * <b>(b)</b> y arrivera-t-on avec les personnes & moyens qui avaient été imaginés au départ ? faut-il impliquer d'autres personnes ? partager ou non les résultats obtenus par les autres projets qui ont avancé en parallèle ?
-
 * le rôle du Staff est de vous accompagner dès lors qui vous avez une difficulté à réaliser l'étape, que les choses ne vont pas dans le bon sens, mais aussi pour faire en sorte que deux ou plusieurs projets aient des résultats qui constituent des `plus` (des synergies entre équipes de projet)
-
 * à la fin du projet, la rédaction des rapports se limite en fait à une chose très simple : on compare les résultats que vous Chefs de projets allez commencer à nous dire aujourd'hui et développer ces 2-3 prochaines semaines aux résultats qui auront été atteints à la fin de la dernière étape de votre projet ; et on effectue une `analyse des écarts` 
-
 * la réunion d'aujourd'hui consiste donc :
     1. à parcourir ensemble les fiches des 14 projets qui ont été élaborées par le Staff et à partager la manière dont vous Chefs de projets voyez les choses à ce stade ;
     2. à vous demander de fournir votre contribution sur les étapes, délais et personnes à associer d'ici au ..date.. sous la forme
@@ -49,7 +45,6 @@ Overleg
         * d'un schéma
         * d'un planning
     3. cela afin de permettre au Staff d'harmoniser vos contributions, d'organiser des réunions pour revenir vers chacun de vous, projet par projet, et suivre ainsi avec vous l'avancement
-
 * dans la pratique, vous vous serez certainement rendu compte que les intitulés de projet constituent ce que vous faites déjà au quotidien : le but est de le faire de manière plus organisée, plus systématique pour que S2 accomplisse ses tâches et missions de manière optimale
 
 ### Qui complète ? Annelies
