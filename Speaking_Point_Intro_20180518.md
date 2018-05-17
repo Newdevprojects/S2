@@ -27,14 +27,14 @@ Overleg
 
 * Si vous êtes ici, c'est parce que vous avez été désignés comme Chefs de projet pour les 14 projets
 * dans la pratique, vous vous serez certainement rendu compte que les intitulés de projet constituent la majeure partie de ce que vous faites déjà au quotidien : le but est donc de réfléchir ensemble pour le faire de manière plus organisée, plus systématique et pour qu'ainsi S2 accomplisse ses tâches et missions de manière optimale
-
 * la réunion d'aujourd'hui consiste donc :
     * <b>(1.)</b> à parcourir ensemble les fiches des 14 projets qui ont été élaborées par le Staff et à partager la manière dont vous Chefs de projets voyez les choses à ce stade ;
-    * <b>(2.)</b> à vous demander de fournir votre contribution sur les étapes, délais et personnes à associer d'ici au <b>lundi 4 juin 16h</b> sous la forme :
+    * <b>(2.)</b> à vous demander de fournir votre contribution sur les étapes, délais et personnes à associer d'ici au **lundi 4 juin 16h** sous la forme :
         * d'un plan d'approche (plan van aanpak)
         * d'un schéma des différentes étapes
         * d'un planning pour la réalisation des différentes étapes
-    * <b>(3.)</b> cela afin de permettre au Staff d'harmoniser vos contributions, de mettre des outils à votre disposition et d'organiser des réunions pour revenir vers chacun de vous, projet par projet, et `monitorer` ainsi avec vous l'avancement
+    * Concrètement, vous remplirez les rubriques des fiches - la validation de votre travail se fera au Staff du 7 juin 
+    * <b>(3.)</b> cela afin de permettre au Staff de valider vos contributions et d'organiser par la suite des réunions pour revenir vers chacun de vous, projet par projet, et `monitorer` ainsi avec vous l'avancement
 
 #### Méthologie de projet
 
