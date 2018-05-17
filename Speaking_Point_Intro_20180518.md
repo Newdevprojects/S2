@@ -58,6 +58,6 @@ Overleg
 
 * ne vous attachez pas encore pour l'instant aux Templates
 * envoyez vos contributions comme cela vous vient - exemple du texte déjà envoyé Rudy
-* c'est au Staff de veiller que toutes les contributions que vous enverrez soient remplis selon un même modèle, afin que l'exécution des projets puisse avancer de manière cohérente
+* c'est au Staff de veiller à ce que toutes les contributions que vous enverrez soient remplis selon un même modèle, afin que l'exécution des projets puisse avancer de manière cohérente
 
 
