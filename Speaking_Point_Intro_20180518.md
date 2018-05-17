@@ -10,7 +10,7 @@ Participants
 Overleg
 
 #### Permalink:
-[https://newdevprojects.github.io/S2/Speaking_Point_Intro_20180518.md](https://newdevprojects.github.io/S2/Speaking_Point_Intro_20180518.md)
+[https://newdevprojects.github.io/S2/Speaking_Point_Intro_20180518.html](https://newdevprojects.github.io/S2/Speaking_Point_Intro_20180518.html)
 
 ---
 
