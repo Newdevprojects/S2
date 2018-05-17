@@ -18,11 +18,6 @@ Overleg
 
 ## Exposé sur la méthodologie
 
-> &#9888; Ceci est une première prise de parole.  
-> Ne pas perdre les auditeurs par de la technicité.
-
-### Qui parle ? Regis
-
 #### Inleiding / Introduction 
 
 * Si vous êtes ici, c'est parce que vous avez été désignés comme Chefs de projet pour les 14 projets
@@ -40,9 +35,9 @@ Overleg
 
 > Voir PowerPoint adapté par Annelies
 
-Speaking Points
+> Quelques *Speaking Points* sur les rôles, en des termes non techniques (le *PowerPoint* reprend les termes corrects)
 
-* subdiviser le projet en étapes avec trois éléments :
+* subdiviser le projet en étapes avec, <u>pour chaque étape</u>, trois questions à se poser :
     * <b>(a)</b> qui fait quoi ? 
     * <b>(b)</b> pour quand ?
     * <b>(c)</b> à la fin de l'étape, quel est le résultat espéré ?
