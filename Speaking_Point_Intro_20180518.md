@@ -31,8 +31,8 @@ Overleg
     * <b>(c)</b> à la fin de l'étape, quel est le résultat espéré ?
 
 >  C'est ici, que vous Chefs de projet allez à partir d'aujourd'hui être le plus mis à contribution :
-> * "découpez" votre projet de façon `SMART` : des étapes qui vous semblent logiques, mesurables en termes de résultat, réalisables dans des délais raisonnables et qui vous permettent d'associer les collaborateurs les plus efficaces pour y arriver
-> * en d'autres termes : visez à ce que chacun, dans votre équipe de projet, sera sur la même ligne, comprendra la même chose, et saura ce qu'on attend de lui et dans quels délais
+* "découpez" votre projet de façon `SMART` : des étapes qui vous semblent logiques, mesurables en termes de résultat, réalisables dans des délais raisonnables et qui vous permettent d'associer les collaborateurs les plus efficaces pour y arriver
+* en d'autres termes : visez à ce que chacun, dans votre équipe de projet, sera sur la même ligne, comprendra la même chose, et saura ce qu'on attend de lui et dans quels délais
 * à un moment donné, l'étape est accompagné d'un rendez-vous, une décision *go/no go* où on se pose les questions :
     * <b>(a)</b> a-t-on avancé suffisamment ? faut-il allonger les délais des étapes suivantes ?
     * <b>(b)</b> y arrivera-t-on avec les personnes & moyens qui avaient été imaginés au départ ? faut-il impliquer d'autres personnes ? partager ou non les résultats obtenus par les autres projets qui ont avancé en parallèle ?
