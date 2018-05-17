@@ -23,7 +23,24 @@ Overleg
 
 ### Qui parle ? Regis
 
+#### Inleiding / Introduction 
 
+* Si vous êtes ici, c'est parce que vous avez été désignés comme Chefs de projet pour les 14 projets
+* dans la pratique, vous vous serez certainement rendu compte que les intitulés de projet constituent la majeure partie de ce que vous faites déjà au quotidien : le but est donc de réfléchir ensemble pour le faire de manière plus organisée, plus systématique et pour qu'ainsi S2 accomplisse ses tâches et missions de manière optimale
+
+* la réunion d'aujourd'hui consiste donc :
+    * <b>(1.)</b> à parcourir ensemble les fiches des 14 projets qui ont été élaborées par le Staff et à partager la manière dont vous Chefs de projets voyez les choses à ce stade ;
+    * <b>(2.)</b> à vous demander de fournir votre contribution sur les étapes, délais et personnes à associer d'ici au <b>lundi 4 juin 16h</b> sous la forme :
+        * d'un plan d'approche (plan van aanpak)
+        * d'un schéma des différentes étapes
+        * d'un planning pour la réalisation des différentes étapes
+    * <b>(3.)</b> cela afin de permettre au Staff d'harmoniser vos contributions, de mettre des outils à votre disposition et d'organiser des réunions pour revenir vers chacun de vous, projet par projet, et `monitorer` ainsi avec vous l'avancement
+
+#### Méthologie de projet
+
+> Voir PowerPoint adapté par Annelies
+
+Speaking Points
 
 * subdiviser le projet en étapes avec trois éléments :
     * <b>(a)</b> qui fait quoi ? 
@@ -38,26 +55,4 @@ Overleg
     * <b>(b)</b> y arrivera-t-on avec les personnes & moyens qui avaient été imaginés au départ ? faut-il impliquer d'autres personnes ? partager ou non les résultats obtenus par les autres projets qui ont avancé en parallèle ?
 * le rôle du Staff est de vous accompagner dès lors que vous avez une difficulté à réaliser l'étape, quand les choses ne vont pas dans le bon sens, mais aussi pour faire en sorte que deux ou plusieurs projets aient des résultats qui constituent des `plus` (des synergies entre équipes de projet)
 * à la fin du projet, la rédaction des rapports se limite en fait à une chose très simple : <u>on compare</u> les résultats que vous Chefs de projets allez commencer à envisager à partir d'aujourd'hui et allez développer ces 2-3 prochaines semaines <u>aux</u> résultats qui auront été atteints à la fin de la dernière étape de votre projet ; et on effectue une `analyse des écarts` (... s'il y a des écarts, bien sûr) 
-* la réunion d'aujourd'hui consiste donc :
-    * <b>(1.)</b> à parcourir ensemble les fiches des 14 projets qui ont été élaborées par le Staff et à partager la manière dont vous Chefs de projets voyez les choses à ce stade ;
-    * <b>(2.)</b> à vous demander de fournir votre contribution sur les étapes, délais et personnes à associer d'ici au <b>[..date..]</b> sous la forme :
-        * d'un plan d'approche (plan van aanpak)
-        * d'un schéma des différentes étapes
-        * d'un planning pour la réalisation des différentes étapes
-    * <b>(3.)</b> cela afin de permettre au Staff d'harmoniser vos contributions, de mettre des outils à votre disposition et d'organiser des réunions pour revenir vers chacun de vous, projet par projet, et `monitorer` ainsi avec vous l'avancement
-* dans la pratique, vous vous serez certainement rendu compte que les intitulés de projet constituent la majeure partie de ce que vous faites déjà au quotidien : le but est donc de réfléchir ensemble pour le faire de manière plus organisée, plus systématique et pour qu'ainsi S2 accomplisse ses tâches et missions de manière optimale
-
-### Qui complète l'introduction ?
-
-#### Annelies
-
-* une documentation est à votre disposition depuis mercredi sur le *Sharepoint*
-* cette documentation constitue la référence pour E6
-
-#### Robert
-
-* ne vous attachez pas encore pour l'instant aux Templates
-* envoyez vos contributions comme cela vous vient - exemple du texte déjà envoyé Rudy
-* c'est au Staff de veiller à ce que toutes les contributions que vous enverrez soient remplis selon un même modèle, afin que l'exécution des projets puisse avancer de manière cohérente
-
 
