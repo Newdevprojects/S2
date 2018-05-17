@@ -1,4 +1,6 @@
-<link rel="stylesheet" href="S2.css">
+<link rel="stylesheet" href="https://newdevprojects.github.io/S2/S2.css">
+
+<span>Briefing</span>
 
 # Plan d'Action S2 - Réunion avec les Chefs de Projets
 
@@ -53,7 +55,7 @@ Overleg
 ### Qui complète ? Annelies
 
 * une documentation est à votre disposition depuis mercredi sur le *Sharepoint*
-* cette documentation contitue la référence pour E6
+* cette documentation constitue la référence pour E6
 
 ### Qui complète ? Robert
 
