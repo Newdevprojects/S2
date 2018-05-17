@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="https://newdevprojects.github.io/S2/S2.css">
 
-<span>Briefing</span>
+Keywords: <span>Briefing</span>&middot;<span>Plan d'Action S2</span>
 
-# Plan d'Action S2 - Réunion avec les Chefs de Projets
+# Réunion avec les Chefs de Projets
 
 ## Vendredi 18 mai 2018 - 14h (Atrium 6/A07)
 
