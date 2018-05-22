@@ -5,9 +5,9 @@
 
 # Staff 20180524 - Agenda
 
-* Opvolging vorige staf: 08/05/2018 (PV + Opvolging To Do's en terugkerende dossiers: zie overzicht) 
+* Opvolging vorige staf: 08/05/2018 ([PV](20180508_Staff_PV.md) + Opvolging To Do's en terugkerende dossiers: zie overzicht) 
 * DC 
-	* Debriefing DC 15/05/2018 - ADM FR NL - THEM FR NL
+	* Debriefing DC 15/05/2018 - [ADM FR](20180515_Adm_FR.pd) NL - [THEM FR](20180515_Them_FR.pdf) NL
 	* Briefing volgend DC - Vraag D. Vervenne: deelname aan `Talent Exchange`?
 * Actieplan S2
 	* Debriefing vergadering 18/05 met projectleiders
