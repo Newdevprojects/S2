@@ -5,18 +5,19 @@
 
 # Staff 20180524 - Agenda
 
-* Opvolging vorige staf: 08/05/2018 ([PV](20180508_Staff_PV.md) + Opvolging To Do's en terugkerende dossiers: zie overzicht) 
-* DC 
+* (1) Opvolging vorige staf: 08/05/2018 ([PV](20180508_Staff_PV.md) + Opvolging To Do's en terugkerende dossiers: zie overzicht) 
+* (2) DC 
 	* Debriefing DC 15/05/2018 - [ADM FR](20180515_Adm_FR.pdf) NL - [THEM FR](20180515_Them_FR.pdf) NL
 	* Briefing volgend DC - Vraag D. Vervenne: deelname aan `Talent Exchange`?
-* Actieplan S2
+* (3) Actieplan S2
 	* Debriefing vergadering 18/05 met projectleiders
 	* Planning vergadering 07/06
-* Laadpalen elektrische wagen (E6)
-* Zennestraat
-* Aankoopprogramma S2
-* Haren - werken Regie
-* Delegatiebesluit "kleine kosten"
+* (4) Laadpalen elektrische wagen (E6)
+* (5) Zennestraat
+* (6) Aankoopprogramma S2
+* (7) Haren - werken Regie
+* (8) Delegatiebesluit "kleine kosten"
+* (9) GOP - [vraag S1](GOP_vraag_S1.pdf) - priorisering meerjarenGOP (Cf. GOP_Inventaris_S2)
 * Varia
  
 
