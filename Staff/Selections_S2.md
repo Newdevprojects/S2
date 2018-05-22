@@ -5,7 +5,8 @@
 
 # Selections (S2) - &Eacute;tat des lieux 15.05.2018
 
-Document : "20180515_Aperçu mouvements du personnel 2018.xlsx" (Chloé Campenaire)
+Document (Workplace DC) :  
+"`20180515_Aperçu mouvements du personnel 2018.xlsx`" (Chloé Campenaire)
 
 | Graad | Statuut | NR PP | Directie | Naam/profiel | SVZ | Taalrol |
 | --- | --- | --- | --- | --- | --- | --- |
