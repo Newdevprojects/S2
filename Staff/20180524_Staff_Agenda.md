@@ -17,7 +17,7 @@
 * (6) Aankoopprogramma S2
 * (7) Haren - werken Regie
 * (8) Delegatiebesluit "kleine kosten"
-* (9) GOP - [vraag S1](GOP_vraag_S1.pdf) - priorisering meerjarenGOP (Cf. GOP_Inventaris_S2)
+* (9) GOP - [vraag S1](GOP_vraag_S1.pdf) - priorisering meerjarenGOP (Cf. [GOP_Inventaris_S2](GOP_Inventaris_S2.md))
 * Varia
  
 
