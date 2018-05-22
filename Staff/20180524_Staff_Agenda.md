@@ -1,14 +1,22 @@
 <link rel="stylesheet" href="https://newdevprojects.github.io/S2/S2.css">
 
+#### Permalink: 
+[https://newdevprojects.github.io/S2/Staff/20180524_Staff_Agenda.html](https://newdevprojects.github.io/S2/Staff/20180524_Staff_Agenda.html)
+
 # Staff 20180524 - Agenda
 
 * Opvolging vorige staf: 08/05/2018 (PV + Opvolging To Do's en terugkerende dossiers: zie overzicht) 
 * DC 
-	* Debriefing DC 14/05/2018 - ADM FR NL - THEM FR NL
-	* Briefing DC xx/05/2018 (! nog geen dagorde op 24/05)
+	* Debriefing DC 15/05/2018 - ADM FR NL - THEM FR NL
+	* Briefing volgend DC - Vraag D. Vervenne: deelname aan `Talent Exchange`?
 * Actieplan S2
 	* Debriefing vergadering 18/05 met projectleiders
 	* Planning vergadering 07/06
+* Loodpole
+* Zennestraat
+* Aankooprogramma S2 (ruimpte voor GOP?)
+* Haren - werken Regie
+* Delegatiebesluit "kleine kosten"
 * Varia
  
 
