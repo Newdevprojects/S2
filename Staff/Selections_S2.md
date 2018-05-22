@@ -11,12 +11,8 @@ Document : "20180515_Aperçu mouvements du personnel 2018.xlsx" (Chloé Campenai
 | --- | --- | --- | --- | --- | --- | --- |
 | NA11 | S | 170000092 | Directie S2 | Assistent hoofdboekhouder | Entretiens terminés - 4 lauréats | FR |
 |  B1 | S | 170000123 | Directie S2 |  Financieel beheerder betalingsprocessen - Liesbeth Hollevoet  - 1/03/2018 | NL -
-
-
-
-	<tr><td>C1</td><td>S</td><td>180000026</td><td>Directie S2</td><td>Chauffeur</td><td>Détachement Réforme protection civile</td><td>NL/FR</td></tr>
-	<tr><td>NDT1</td><td>S</td><td>180000027</td><td>Directie S2</td><td>Onthaal</td><td>Mobilité interne Ingrid Peeterman de S4</td><td>NL</td></tr>
-	<tr><td>NDT1</td><td>S</td><td>180000028</td><td>Directie S2</td><td>Onthaal</td><td>Mobilité interne Greta D'Haen de S4</td><td>NL</td></tr>
-	<tr><td>NDT1</td><td>S</td><td>180000029</td><td>Directie S2</td><td>Kleine werken</td><td>Détachement Réforme protection civile</td><td>NL</td></tr>
-	<tr><td>NDT1</td><td>S</td><td>180000030</td><td>Directie S2</td><td>Kleine werken</td><td>Détachement Réforme protection civile</td><td>FR</td></tr>
-</table>
+| C1 | S | 180000026 | Directie S2 | Chauffeur | Détachement Réforme protection civile | NL/FR |
+| NDT1 | S | 180000027 | Directie S2 | Onthaal | Mobilité interne Ingrid Peeterman de S4 | NL |
+| NDT1 | S | 180000028 | Directie S2 | Onthaal | Mobilité interne Greta D'Haen de S4 | NL |
+| NDT1 | S | 180000029 | Directie S2 | Kleine werken | Détachement Réforme protection civile | NL |
+| NDT1 | S | 180000030 | Directie S2 | Kleine werken | Détachement Réforme protection civile | FR |
