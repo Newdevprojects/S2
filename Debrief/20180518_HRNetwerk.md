@@ -1,7 +1,5 @@
 <link rel="stylesheet" href="https://newdevprojects.github.io/S2/S2.css">
 
-> Projet pour l'intranet (via econews)
-
 #### Permalink: 
 [https://newdevprojects.github.io/S2/Debrief/20180518_HRNetwerk.html](https://newdevprojects.github.io/S2/Debrief/20180518_HRNetwerk.html)
 
