@@ -3,7 +3,7 @@
 > Projet pour l'intranet (via econews)
 
 #### Permalink: 
-[https://newdevprojects.github.io/S2/20180518_HRNetwerk.html](https://newdevprojects.github.io/S2/20180518_HRNetwerk.html)
+[https://newdevprojects.github.io/S2/Debrief/20180518_HRNetwerk.html](https://newdevprojects.github.io/S2/Debrief/20180518_HRNetwerk.html)
 
 # Réunion HR-Netwerk du 18.05.2018
 
