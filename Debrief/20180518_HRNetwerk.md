@@ -21,5 +21,6 @@ nieuwe tool Medex **(1)**
 | --- | --- | --- | --- |
 | Medex | <u>de juin</u> à décembre (?) :<br>accès en écriture au nouvel outil `MEDEX`, qui remplace l'outil `ABSENCE` | &nbsp; | **(1)** |
 | &nbsp; | <u>après</u> décembre (?)<br>>accès en lecture à l'outil `MEDEX`, sauf pour les demandes de contrôles de la part des services | Medex et Persopoint géreront le système des absences pour maladie sans plus d'intervention des SPF | &nbsp; |
+| Participation à `Talent Exchange` | il s'agit d'un programme de mobilité temporaire (&lt; 12 mois) entre SPF<br>D. Vervenne entend demander son accord de principe au <b>comité de direction du 29.05</b> | en discuter au Staff du 24.05 | **(2)** |
 
 
