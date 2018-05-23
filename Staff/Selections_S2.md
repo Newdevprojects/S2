@@ -11,7 +11,7 @@ Document (Workplace DC) :
 | Graad | Statuut | NR PP | Directie | Naam/profiel | SVZ | Taalrol |
 | --- | --- | --- | --- | --- | --- | --- |
 | NA11 | S | 170000092 | Directie S2 | Assistent hoofdboekhouder | Entretiens terminés - 4 lauréats | FR |
-|  B1 | S | 170000123 | Directie S2 |  Financieel beheerder betalingsprocessen - Liesbeth Hollevoet  - 1/03/2018 | NL -
+|  B1 | S | 170000123 | Directie S2 |  Financieel beheerder betalingsprocessen | Liesbeth Hollevoet  - 1/03/2018 | NL |
 | C1 | S | 180000026 | Directie S2 | Chauffeur | Détachement Réforme protection civile | NL/FR |
 | NDT1 | S | 180000027 | Directie S2 | Onthaal | Mobilité interne Ingrid Peeterman de S4 | NL |
 | NDT1 | S | 180000028 | Directie S2 | Onthaal | Mobilité interne Greta D'Haen de S4 | NL |
