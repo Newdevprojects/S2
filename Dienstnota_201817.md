@@ -4,7 +4,7 @@
 #### Permalink: 
 [https://newdevprojects.github.io/S2/Dienstnota_201817.html](https://newdevprojects.github.io/S2/Dienstnota_201817.html)
 
-# Note de service 201817 / Diensnota 201817
+# Note de service 201817 / Dienstnota 201817
 
 	25.04.2018
 
