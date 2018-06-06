@@ -25,7 +25,7 @@
 
 ## Projects
 
-- [] &nbsp; 07.06.2018 Aperçu global [&#9734;](/Projects/Overview.md)
+- [ ] &nbsp; 07.06.2018 Aperçu global [&#9734;](/Projects/Overview.md)
 
 
 
