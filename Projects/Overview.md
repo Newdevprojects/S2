@@ -1,5 +1,8 @@
 <link rel="stylesheet" href="S2.css">
 
+#### Permalink: 
+[https://newdevprojects.github.io/S2/Projects/Overview.html](https://newdevprojects.github.io/S2/Projects/Overview.html)
+
 # Plan d'Action S2 2018-2021
 
 | Vue d'ensemble | &nbsp; |
