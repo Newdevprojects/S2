@@ -10,7 +10,7 @@
 ## Drafts
 
 - [x] &nbsp; [24.05.2018](Practical_Info_20180524.md) : Café - solution définitive
-- [ ] &nbsp; xx.05.2018 : Prise en compte note de service 201817 (QPs)
+- [ ] &nbsp; 24.05.2018 : Prise en compte note de service 201817 (QPs) [&star;](Diensnota_201817.md)
 
 ## Debriefs
 
@@ -22,4 +22,9 @@
 - [x] &nbsp; [08.05.2018](Liste_projets.md) : Liens vers les projets du Plan d'Action S2
 - [x] &nbsp; [22.05.2018](/Staff/GOP_Inventaris_S2.md) : Formations du GOP 2019-2023 qui concernent S2
 - [x] &nbsp; [24.05.2018](/Staff/Selections_S2.md) : &Eacute;tat des lieux des procédures de recrutement S2 
+
+## Projects
+
+
+
 
