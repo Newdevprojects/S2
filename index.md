@@ -10,7 +10,7 @@
 ## Drafts
 
 - [x] &nbsp; [24.05.2018](Practical_Info_20180524.md) : Café - solution définitive
-- [ ] &nbsp; 24.05.2018 : Prise en compte note de service 201817 (QPs) [&star;](Diensnota_201817.md)
+- [ ] &nbsp; 24.05.2018 : Prise en compte note de service 201817 (QPs) [&#9734;](Diensnota_201817.md)
 
 ## Debriefs
 
