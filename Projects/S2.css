@@ -128,7 +128,6 @@ a:link {
 }
 
 table {
-    width: 500px;
 	font-size: 1.2em;
 	color:#333333;
     border: 3px #b9c9fe solid;
@@ -141,6 +140,7 @@ table th {
 	background-color: #b9c9fe;
 }
 table td {
+    width: 200px;
 	border-width: 1px;
 	padding: 8px;
 	border-style: solid;
