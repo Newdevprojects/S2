@@ -19,7 +19,7 @@
 
 > #### [**Projet 07**](07.md)
 
-> #### Projet 08
+> #### [**Projet 08**](08.md)
 
 > #### Projet 09
 
@@ -27,7 +27,7 @@
 
 > #### Projet 11
 
-> #### Projet 12
+> #### [**Projet 12**](12.md)
 
 > #### Projet 13
 
