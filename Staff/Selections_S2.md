@@ -29,8 +29,8 @@
 | A2 | <font color="red"><b>Vertrek naar S1</b></font> | <u>Mobilité interne</u> Annelies Laureys<br>start: 01.07.2018 | NL |
 | A3 | <font color="darkcyan"><b>Diensthoofd Facility Management</b></font> | <u>Promotion</u> (avril 2019)<br>Départ pension de Rudy Liekens | FR ou NL |
 | A3 | <font color="darkcyan"><b>Expert Facility Management Services</b></font> | <u>Recrutement</u> voir [fiche](http://nimb.ws/3OTHfC) | FR ou NL |
-| B | <font color="darkcyan"><b>Beheerder e-invoicing (Quality Control)</b></font> | <u>Recrutement</u> ou Mobilité interne<br>Validatie van de scans<br>Problèmes pour assurer le suivi <br>2 Niveaux C pensionnés en 2018-19 | FR ou NL |
-| A<br>(ev. B) | <font color="darkcyan"><b>Aankoper</b></font> | <u>Recrutement</u> ou Mobilité interne<br>Responsabilités &#10173; de plus en plus<br>vers l'interfédéral<br>=&gt; Besoin de &Delta;+ qualifications<br>2 Niveaux C pensionnés en 2018-19 | FR ou NL |
+| B1 | <font color="darkcyan"><b>Beheerder e-invoicing (Quality Control)</b></font> | <u>Recrutement</u> ou Mobilité interne<br>Validatie van de scans<br>Problèmes pour assurer le suivi <br>2 Niveaux C pensionnés en 2018-19 | FR ou NL |
+| A1<br>(ev. B1) | <font color="darkcyan"><b>Aankoper</b></font> | <u>Recrutement</u> ou Mobilité interne<br>Responsabilités &#10173; de plus en plus<br>vers l'interfédéral<br>=&gt; Besoin de &Delta;+ qualifications<br>2 Niveaux C pensionnés en 2018-19 | FR ou NL |
 | C1 | <font color="darkcyan"><b>Chauffeur</b></font> | <u>Recrutement</u> ou Détachement<br>Cf. Réforme de la Protection Civile<br>1 candidat - à interviewer | NL ou FR |
 | NDT1 | <font color="darkcyan"><b>Kleine werken</b></font> | <u>Recrutement</u> ou Détachement<br>Cf. Réforme de la Protection Civile<br>pas encore de candidat | FR |
 | NDT1 | <font color="darkcyan"><b>Kleine werken</b></font> | <u>Recrutement</u> ou Détachement<br>Cf. Réforme de la Protection Civile<br>pas encore de candidat | NL |
