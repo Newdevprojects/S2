@@ -20,12 +20,12 @@
 
 | Graad | Naam/profiel | Stand van Zaken | Taalrol |
 | --- | --- | --- | --- |
-| NA11 | Assistent hoofdboekhouder | Denis Mailleux<br>akkoord IF op 07.06.2018<br>start: 01.08.2018 of 01.09.2018 | FR |
-| A12 | Staff | Mobilité interne Robert Dumoulin de S4<br>start: 09.04.2018 | cadre bilingue F/N |
-|  B1 |  Financieel beheerder betalingsprocessen | Liesbeth Hollevoet<br>start: 01.03.2018 | NL |
-| NDT1 | Onthaal Atrium | Mobilité interne Ingrid Peeterman de S4<br>start: 01.09.2018 | NL |
-| NDT1 | Onthaal NG | Mobilité interne Greta D'Haen de S4<br>start: 01.09.2018 | NL |
-| C1 | Contact-bâtiment Liège | Mobilité interne Jean-François Falise de S4<br>start: 01.07.2018 | FR |
+| NA11 | Assistent hoofdboekhouder | <u>Aanwerving</u> Denis Mailleux<br>akkoord IF op 07.06.2018<br>start: 01.08.2018 of 01.09.2018 | FR |
+|  B1 |  Financieel beheerder betalingsprocessen | <u>Aanwerving</u> Liesbeth Hollevoet<br>start: 01.03.2018 | NL |
+| A12 | Staff | <u>Mobilité interne</u> Robert Dumoulin de S4<br>start: 09.04.2018 | cadre bilingue F/N |
+| C1 | Contact-bâtiment Liège | <u>Mobilité interne</u> Jean-François Falise de S4<br>start: 01.07.2018 | FR |
+| NDT1 | Onthaal Atrium | <u>Mobilité interne</u> Ingrid Peeterman de S4<br>start: 01.09.2018 | NL |
+| NDT1 | Onthaal NG | <u>Mobilité interne Greta D'Haen</u> de S4<br>start: 01.09.2018 | NL |
 | A2 | <font color="red"><b>Vertrek naar S1</b></font> | Mobilité interne Annelies Laureys<br>start: 01.07.2018 | NL |
 | A3 | <font color="darkcyan"><b>Expert Facility Management Services</b></font> | Marge SEPP | FR ou NL |
 | C1 | <font color="darkcyan"><b>Chauffeur</b></font> | Détachement Réforme protection civile<br>1 candidat - à interviewer | NL ou FR |
