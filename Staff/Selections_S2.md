@@ -27,7 +27,7 @@
 | NDT1 | Onthaal Atrium | <u>Mobilité interne</u><br>Ingrid Peeterman (S4)<br>start: 01.09.2018 | NL |
 | NDT1 | Onthaal NG | <u>Mobilité interne</u><br>Greta D'Haen (S4)<br>start: 01.09.2018 | NL |
 | A2 | <font color="red"><b>Vertrek naar S1</b></font> | <u>Mobilité interne</u> Annelies Laureys<br>start: 01.07.2018 | NL |
-| A3 | <font color="darkcyan"><b>Expert Facility Management Services</b></font> | <u>Promotion</u><br>(pension de Rudy Liekens - avril 2019) | FR ou NL |
+| A3 | <font color="darkcyan"><b>Expert Facility Management Services</b></font> | <u>Promotion</u> (avril 2019)<br>NB : départ pension: Rudy Liekens | FR ou NL |
 | C1 | <font color="darkcyan"><b>Chauffeur</b></font> | Détachement<br>Réforme de la Protection Civile<br>1 candidat - à interviewer | NL ou FR |
 | NDT1 | <font color="darkcyan"><b>Kleine werken</b></font> | Détachement<br>Réforme de la Protection Civile<br>pas encore de candidat | FR |
 | NDT1 | <font color="darkcyan"><b>Kleine werken</b></font> | Détachement<br>Réforme de la Protection Civile<br>pas encore de candidat | NL |
