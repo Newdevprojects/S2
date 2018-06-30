@@ -22,10 +22,10 @@
 | --- | --- | --- | --- |
 | NA11 | Assistent hoofdboekhouder | <u>Aanwerving</u> Denis Mailleux<br>akkoord IF op 07.06.2018<br>start: 01.08.2018 of 01.09.2018 | FR |
 |  B1 |  Financieel beheerder betalingsprocessen | <u>Aanwerving</u> Liesbeth Hollevoet<br>start: 01.03.2018 | NL |
-| A12 | Staff | <u>Mobilité interne</u> Robert Dumoulin de S4<br>start: 09.04.2018 | cadre bilingue F/N |
-| C1 | Contact-bâtiment Liège | <u>Mobilité interne</u> Jean-François Falise de S4<br>start: 01.07.2018 | FR |
-| NDT1 | Onthaal Atrium | <u>Mobilité interne</u> Ingrid Peeterman de S4<br>start: 01.09.2018 | NL |
-| NDT1 | Onthaal NG | <u>Mobilité interne</u> Greta D'Haen de S4<br>start: 01.09.2018 | NL |
+| A12 | Staff | <u>Mobilité interne</u> Robert Dumoulin (S4)<br>start: 09.04.2018 | cadre bilingue F/N |
+| C1 | Contact-bâtiment Liège | <u>Mobilité interne</u> Jean-François Falise (S4)<br>start: 01.07.2018 | FR |
+| NDT1 | Onthaal Atrium | <u>Mobilité interne</u> Ingrid Peeterman (S4)<br>start: 01.09.2018 | NL |
+| NDT1 | Onthaal NG | <u>Mobilité interne</u> Greta D'Haen (S4)<br>start: 01.09.2018 | NL |
 | A2 | <font color="red"><b>Vertrek naar S1</b></font> | <u>Mobilité interne</u> Annelies Laureys<br>start: 01.07.2018 | NL |
 | A3 | <font color="darkcyan"><b>Expert Facility Management Services</b></font> | <u>Promotion</u><br>(pension de Rudy Liekens - avril 2019) | FR ou NL |
 | C1 | <font color="darkcyan"><b>Chauffeur</b></font> | Détachement<br>Réforme de la Protection Civile<br>1 candidat - à interviewer | NL ou FR |
