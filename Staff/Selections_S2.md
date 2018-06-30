@@ -21,7 +21,7 @@
 | Graad | Naam/profiel | Stand van Zaken | Taalrol |
 | --- | --- | --- | --- |
 | NA11 | Assistent hoofdboekhouder | Denis Mailleux<br>akkoord IF op 07.06.2018<br>start: 01.08.2018 of 01.09.2018 | FR |
-| A12 | Staff | Mobilité interne Robert Dumoulin de S4<br>start: 09.04.2018 | bil. F/N |
+| A12 | Staff | Mobilité interne Robert Dumoulin de S4<br>start: 09.04.2018 | cadre bilingue F/N |
 |  B1 |  Financieel beheerder betalingsprocessen | Liesbeth Hollevoet<br>start: 01.03.2018 | NL |
 | NDT1 | Onthaal Atrium | Mobilité interne Ingrid Peeterman de S4<br>start: 01.09.2018 | NL |
 | NDT1 | Onthaal NG | Mobilité interne Greta D'Haen de S4<br>start: 01.09.2018 | NL |
