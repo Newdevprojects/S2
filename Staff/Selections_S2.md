@@ -35,7 +35,7 @@
 | A2 | <font color="darkcyan"><b>Facility Manager</b></font> | <u>Recrutement</u> ou Mobilité interne<br>voir <mark><a href="http://nimb.ws/YZ8LMl">Note (2)&nbsp; | FR ou NL |
 | B1 | <font color="darkcyan"><b>Beheerder e-invoicing (Quality Control)</b></font> | <u>Recrutement</u> ou Mobilité interne<br>Validatie van de scans<br>Problèmes pour assurer le suivi <br>2 Niveaux C pensionnés en 2018-19 | FR ou NL |
 | A1<br>(ev. B) | <font color="darkcyan"><b>Aankoper</b></font> | <u>Recrutement</u> ou Mobilité interne<br>Responsabilités se déplacent de plus en plus<br>vers l'interfédéral (Comité TOFA)<br>=&gt; Besoin de &Delta;+ qualifications<br>2 Niveaux C pensionnés en 2018-19 | FR ou NL |
-| C1 | <font color="darkcyan"><b>Chauffeur</b></font> | <u>Recrutement</u> ou Détachement<br>Cf. Réforme de la Protection Civile<br>1 candidat - à interviewer | NL ou FR |
-| NDT1 | <font color="darkcyan"><b>Kleine werken</b></font> | <u>Recrutement</u> ou Détachement<br>Cf. Réforme de la Protection Civile<br>pas encore de candidat | FR |
-| NDT1 | <font color="darkcyan"><b>Kleine werken</b></font> | <u>Recrutement</u> ou Détachement<br>Cf. Réforme de la Protection Civile<br>pas encore de candidat | NL |
+| C1 | <font color="darkcyan"><b>Chauffeur</b></font> <mark>&nbsp;Note (3)&nbsp; | <u>Recrutement</u> ou Détachement<br>Cf. Réforme de la Protection Civile<br>1 candidat - à interviewer | NL ou FR |
+| NDT1 | <font color="darkcyan"><b>Kleine werken</b></font> <mark>&nbsp;Note (3)&nbsp; | <u>Recrutement</u> ou Détachement<br>Cf. Réforme de la Protection Civile<br>pas encore de candidat | FR |
+| NDT1 | <font color="darkcyan"><b>Kleine werken</b></font> <mark>&nbsp;Note (3)&nbsp; | <u>Recrutement</u> ou Détachement<br>Cf. Réforme de la Protection Civile<br>pas encore de candidat | NL |
 
