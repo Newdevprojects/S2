@@ -18,17 +18,17 @@
 * Follow-up Staff S2 du 28.06.2018 (gebruik van SEPP-marge) : argumentation [A3 Expert Facility Management Services](http://nimb.ws/3OTHfC)
 * Demandes non satisfaites : argumentations utilisées précédemment - Cf. [Protection civile](http://nimb.ws/YZ8LMl)
 
-| Graad | Statuut | NR PP | Directie | Naam/profiel | SVZ | Taalrol |
-| --- | --- | --- | --- | --- | --- | --- |
-| A3 | S | &nbsp; | Directie S2 | <font color="darkcyan"><b>Expert Facility Management Services</b></font> | Marge SEPP | FR ou NL |
-| NA11 | S | 170000092 | Directie S2 | Assistent hoofdboekhouder | Denis Mailleux<br>akkoord IF op 07.06.2018<br>start: 01.08.2018 of 01.09.2018 | FR |
-| A12 | S | &nbsp; | Directie S2 | Staff | Mobilité interne Robert Dumoulin de S4<br>start: 09.04.2018 | FR/NL |
-|  B1 | S | 170000123 | Directie S2 |  Financieel beheerder betalingsprocessen | Liesbeth Hollevoet<br>start: 01.03.2018 | NL |
-| NDT1 | S | 180000027 | Directie S2 | Onthaal Atrium | Mobilité interne Ingrid Peeterman de S4<br>start: 01.09.2018 | NL |
-| NDT1 | S | 180000028 | Directie S2 | Onthaal NG | Mobilité interne Greta D'Haen de S4<br>start: 01.09.2018 | NL |
-| C1 | S | &nbsp; | Directie S2 | Contact-bâtiment Liège | Mobilité interne Jean-François Falise de S4<br>start: 01.07.2018 | FR |
-| C1 | S | 180000026 | Directie S2 | <font color="darkcyan"><b>Chauffeur</b></font> | Détachement Réforme protection civile<br>1 candidat - à interviewer | NL ou FR |
-| NDT1 | S | 180000030 | Directie S2 | <font color="darkcyan"><b>Kleine werken</b></font> | Détachement Réforme protection civile<br>pas encore de candidat | FR |
-| NDT1 | S | 180000029 | Directie S2 | <font color="darkcyan"><b>Kleine werken</b></font> | Détachement Réforme protection civile<br>pas encore de candidat | NL |
-| A2 | S | &nbsp; | <font color="red"><b>Vertrek</b></font> | <font color="red"><b>Naar S1</b></font> | Mobilité interne Annelies Laureys<br>start: 01.07.2018 | NL |
+| Graad | Naam/profiel | Stand van Zaken | Taalrol |
+| --- | --- | --- | --- |
+| A3 | <font color="darkcyan"><b>Expert Facility Management Services</b></font> | Marge SEPP | FR ou NL |
+| NA11 | Assistent hoofdboekhouder | Denis Mailleux<br>akkoord IF op 07.06.2018<br>start: 01.08.2018 of 01.09.2018 | FR |
+| A12 | Staff | Mobilité interne Robert Dumoulin de S4<br>start: 09.04.2018 | bil. F/N |
+|  B1 |  Financieel beheerder betalingsprocessen | Liesbeth Hollevoet<br>start: 01.03.2018 | NL |
+| NDT1 | Onthaal Atrium | Mobilité interne Ingrid Peeterman de S4<br>start: 01.09.2018 | NL |
+| NDT1 | Onthaal NG | Mobilité interne Greta D'Haen de S4<br>start: 01.09.2018 | NL |
+| C1 | Contact-bâtiment Liège | Mobilité interne Jean-François Falise de S4<br>start: 01.07.2018 | FR |
+| C1 | <font color="darkcyan"><b>Chauffeur</b></font> | Détachement Réforme protection civile<br>1 candidat - à interviewer | NL ou FR |
+| NDT1 | <font color="darkcyan"><b>Kleine werken</b></font> | Détachement Réforme protection civile<br>pas encore de candidat | FR |
+| NDT1 | <font color="darkcyan"><b>Kleine werken</b></font> | Détachement Réforme protection civile<br>pas encore de candidat | NL |
+| A2 | <font color="red"><b>Vertrek naar S1</b></font> | Mobilité interne Annelies Laureys<br>start: 01.07.2018 | NL |
 
