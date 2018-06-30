@@ -22,8 +22,8 @@
 | --- | --- | --- | --- |
 | NA11 | Assistent hoofdboekhouder | <u>Aanwerving</u> Denis Mailleux<br>akkoord IF op 07.06.2018<br>start: 01.08.2018 of 01.09.2018 | FR |
 |  B1 |  Financieel beheerder betalingsprocessen | <u>Aanwerving</u> Liesbeth Hollevoet<br>start: 01.03.2018 | NL |
-| A12 | Staff | <u>Mobilité interne</u> Robert Dumoulin (S4)<br>start: 09.04.2018 | cadre bilingue F/N |
-| C1 | Contact-bâtiment Liège | <u>Mobilité interne</u> J.-François Falise (S4)<br>start: 01.07.2018 | FR |
+| A12 | Staff | <u>Mobilité interne</u><br>Robert Dumoulin (S4)<br>start: 09.04.2018 | cadre bilingue F/N |
+| C1 | Contact-bâtiment Liège | <u>Mobilité interne</u>J.-François Falise (S4)<br>start: 01.07.2018 | FR |
 | NDT1 | Onthaal Atrium | <u>Mobilité interne</u> Ingrid Peeterman (S4)<br>start: 01.09.2018 | NL |
 | NDT1 | Onthaal NG | <u>Mobilité interne</u> Greta D'Haen (S4)<br>start: 01.09.2018 | NL |
 | A2 | <font color="red"><b>Vertrek naar S1</b></font> | <u>Mobilité interne</u> Annelies Laureys<br>start: 01.07.2018 | NL |
