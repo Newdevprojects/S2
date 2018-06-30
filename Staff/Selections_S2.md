@@ -16,7 +16,7 @@
 * Date probable de l'entrée en service [recrutement NA11](http://nimb.ws/jNcbgk) (accord obtenu de l'IF)
 * Protection civile : une seule candidature reçue le 29.06.2018<br><mark>status:</mark> [Candidature de M. F. Bisschop on hold](http://nimb.ws/oWt5fC) (sous réserve d'entrevue avec M. Liekens à planifier)
 * Follow-up Staff S2 du 28.06.2018 (gebruik van SEPP-marge) : argumentation [A3 Expert Facility Management Services](http://nimb.ws/3OTHfC)
-* Demandes non satisfaites : argumentations utilisées précédemment - Cf. [Protection civile](http://nimb.ws/YZ8LMl)
+* Demandes non satisfaites : argumentations utilisées précédemment - Cf. [Fichier Annelies](http://nimb.ws/YZ8LMl)
 
 | Graad | Naam/profiel | Stand van Zaken | Taalrol |
 | --- | --- | --- | --- |
@@ -31,7 +31,8 @@
 | Graad | Naam/profiel | Stand van Zaken | Taalrol |
 | --- | --- | --- | --- |
 | A3 | <font color="darkcyan"><b>Diensthoofd Facility Management</b></font> | <u>Promotion</u> (avril 2019)<br>Départ pension de Rudy Liekens | FR ou NL |
-| A3 | <font color="darkcyan"><b>Expert Facility Management Services</b></font> | <u>Recrutement</u> voir [fiche](http://nimb.ws/3OTHfC) | FR ou NL |
+| A3 | <font color="darkcyan"><b>Expert Facility Management Services</b></font> | <u>Recrutement</u> voir <mark>&nbsp;[Note (1)](http://nimb.ws/3OTHfC)&nbsp;</mark> | FR ou NL |
+| A2 | <font color="darkcyan"><b>Facility Manager</b></font> | <u>Recrutement</u> ou Mobilité interne<br>voir <mark>&nbsp;[Note (2)](http://nimb.ws/YZ8LMl)&nbsp;</mark> | FR ou NL |
 | B1 | <font color="darkcyan"><b>Beheerder e-invoicing (Quality Control)</b></font> | <u>Recrutement</u> ou Mobilité interne<br>Validatie van de scans<br>Problèmes pour assurer le suivi <br>2 Niveaux C pensionnés en 2018-19 | FR ou NL |
 | A1<br>(ev. B) | <font color="darkcyan"><b>Aankoper</b></font> | <u>Recrutement</u> ou Mobilité interne<br>Responsabilités se déplacent de plus en plus<br>vers l'interfédéral (Comité TOFA)<br>=&gt; Besoin de &Delta;+ qualifications<br>2 Niveaux C pensionnés en 2018-19 | FR ou NL |
 | C1 | <font color="darkcyan"><b>Chauffeur</b></font> | <u>Recrutement</u> ou Détachement<br>Cf. Réforme de la Protection Civile<br>1 candidat - à interviewer | NL ou FR |
