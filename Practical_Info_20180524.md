@@ -18,8 +18,13 @@
 
 | Pour vos réunions |
 | --- | 
-| Pour l'organisation des réunions, les consignes demeurent inchangées :<br>&#9673; voir les [instructions en vigueur](S4S2_Instructions-catering-evenements-fr.pdf) |
+| Pour l'organisation des réunions, les consignes demeurent inchangées :<br>&#9673; voir les [instructions en vigueur](S4S2_Instructions-catering-evenements-fr.pdf) (&#10026;) |
 | <u>Réunions &gt; 20 personnes</u><br>&#10173; Sodexo. |
 | <u>Réunions &lt; 20 personnes</u><br>&#10173; Secrétariats des DG/S.<br>Percolateurs (OK du SIPPT) dans les kitchenettes.<br>Lait, sucre, consommables... : &#10173; &Eacute;conomat. Les commandes seront faites et les frais seront imputés sur l'enveloppe de fonctionnement de la DG/S organisatrice de la réunion. |
 
+&nbsp;
 
+---
+
+
+(&#10026;) = lien sur l'intranet :   http://intranet.internal.economie.fgov.be/Communication/External/Exhibitions/catering/Documents/Instructions-catering-evenements-fr.pdf
