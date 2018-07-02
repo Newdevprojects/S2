@@ -27,4 +27,6 @@
 ---
 
 
-(&#10026;) = lien sur l'intranet :   http://intranet.internal.economie.fgov.be/Communication/External/Exhibitions/catering/Documents/Instructions-catering-evenements-fr.pdf
+(&#10026;) = lien à prévoir :   
+FR : http://intranet.internal.economie.fgov.be/Communication/External/Exhibitions/catering/Documents/Instructions-catering-evenements-fr.pdf  
+NL : http://intranet.internal.economie.fgov.be/Communication/External/Exhibitions/catering/Documents/Instructions-catering-evenements-nl.pdf
