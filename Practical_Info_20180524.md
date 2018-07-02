@@ -14,7 +14,7 @@
 | Pour le personnel au quotidien |
 | --- | 
 | Dans l'econews du 27 avril 2018, nous vous avons fait part d'une solution temporaire pour le café :<br>&#9673; les appareils de la firme "Pelican Rouge" (0,15&euro;/tasse) ont été enlevés ;<br>&#9673; du café a été mis à disposition dans les kitchenettes. |
-| Depuis lors, une négociation a pu être menée à bon port avec la firme Sodexo.<br>&#9673; Sodexo équipe donc les bâtiments Atrium et North Gate et vise à une mise en fonctionnement de nouvelles machines aux alentours du 16 juillet.<br>&#9673; le café sera <b><u>gratuit</u></b> pour le personnel | 
+| Depuis lors, une négociation a pu être menée à bon port avec la firme Sodexo.<br>&#9673; Sodexo équipe donc les bâtiments Atrium et North Gate de percolateurs.<br>&#9673; Les nouvelles machines devraient là pour le 16 juillet.<br>&#9673; le café sera <b><u>gratuit</u></b> pour le personnel | 
 
 | Pour vos réunions |
 | --- | 
