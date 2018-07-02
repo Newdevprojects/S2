@@ -30,14 +30,14 @@
 
 | Graad | Naam/profiel | Stand van Zaken | Taalrol |
 | --- | --- | --- | --- |
-| A3 | <font color="darkcyan"><b>Diensthoofd Facility Management</b></font> | <u>Promotion</u> (avril 2019)<br>Départ pension de Rudy Liekens | FR ou NL |
-| A3 | <font color="darkcyan"><b>Expert Facility Management Services</b></font> | <u>Promotion</u> voir <mark>&nbsp;<a href="http://nimb.ws/3OTHfC">Note (1)&nbsp; | FR ou NL |
-| A3<br>(ev. B) | <font color="darkcyan"><b>Expert Aankoper</b></font> | <u>Promotion</u><br>Augmentation de la collaboration interdépartementale<br>en matière d' achats, ce qui réclame davantage<br>de concertation avec les autres départements<br>et sens de la négociation afin de préserver<br>les intérêts du SPF<br>Valorisation de l'expertise actuellement déjà présente<br> dans le Service Achats | FR ou NL |
-| A2 | <font color="darkcyan"><b>Facility Manager</b></font> | <u>Recrutement</u> ou Mobilité interne<br>voir <mark><a href="http://nimb.ws/YZ8LMl">Note (2)&nbsp; | FR ou NL |
-| A2 | <font color="darkcyan"><b>Contrôleur Subventions publiques</b></font> | <u>Promotion</u><br>Augmentation de la complexité des dossiers<br>Valorisation de l'expertise actuellement déjà présente<br>dans le Service Financier | FR ou NL |
-| B1 | <font color="darkcyan"><b>Beheerder e-invoicing (Quality Control)</b></font> | <u>Recrutement</u> ou Mobilité interne<br>Validatie van de scans<br>Problèmes pour assurer le suivi <br>2 Niveaux C pensionnés en 2018-19 | FR ou NL |
-| A1<br>(ev. B) | <font color="darkcyan"><b>Aankoper</b></font> | <u>Recrutement</u> ou Mobilité interne<br>Responsabilités se déplacent de plus en plus<br>vers l'interfédéral (Comité TOFA)<br>=&gt; Besoin de &Delta;+ qualifications<br>2 Niveaux C pensionnés en 2018-19 | FR ou NL |
-| C1 | <font color="darkcyan"><b>Chauffeur</b></font> <mark>&nbsp;Note (3)&nbsp; | <u>Recrutement</u> ou Détachement<br>Cf. Réforme de la Protection Civile<br>1 candidat - à interviewer | NL ou FR |
+| A3 | <font color="darkcyan"><b>Diensthoofd Facility Management</b></font> | <u>Promotion</u> (avril 2019)<br>Départ pension de Rudy Liekens | FR<br>ou NL |
+| A3 | <font color="darkcyan"><b>Expert Facility Management Services</b></font> | <u>Promotion</u> voir <mark>&nbsp;<a href="http://nimb.ws/3OTHfC">Note (1)&nbsp; | FR<br>ou NL |
+| A3<br>(ev. B) | <font color="darkcyan"><b>Expert Aankoper</b></font> | <u>Promotion</u><br>Augmentation de la collaboration interdépartementale<br>en matière d' achats, ce qui réclame davantage<br>de concertation avec les autres départements<br>et sens de la négociation afin de préserver<br>les intérêts du SPF<br>Valorisation de l'expertise actuellement déjà présente<br> dans le Service Achats | FR<br>ou NL |
+| A2 | <font color="darkcyan"><b>Facility Manager</b></font> | <u>Recrutement</u> ou Mobilité interne<br>voir <mark><a href="http://nimb.ws/YZ8LMl">Note (2)&nbsp; | FR<br>ou NL |
+| A2 | <font color="darkcyan"><b>Contrôleur Subventions publiques</b></font> | <u>Promotion</u><br>Augmentation de la complexité des dossiers<br>Valorisation de l'expertise actuellement déjà présente dans le Service Financier | FR ou NL |
+| B1 | <font color="darkcyan"><b>Beheerder e-invoicing (Quality Control)</b></font> | <u>Recrutement</u> ou Mobilité interne<br>Validatie van de scans<br>Problèmes pour assurer le suivi <br>2 Niveaux C pensionnés en 2018-19 | FR<br>ou NL |
+| A1<br>(ev. B) | <font color="darkcyan"><b>Aankoper</b></font> | <u>Recrutement</u> ou Mobilité interne<br>Responsabilités se déplacent de plus en plus<br>vers l'interfédéral (Comité TOFA)<br>=&gt; Besoin de &Delta;+ qualifications<br>2 Niveaux C pensionnés en 2018-19 | FR<br>ou NL |
+| C1 | <font color="darkcyan"><b>Chauffeur</b></font> <mark>&nbsp;Note (3)&nbsp; | <u>Recrutement</u> ou Détachement<br>Cf. Réforme de la Protection Civile<br>1 candidat - à interviewer | FR<br>ou NL |
 | NDT1 | <font color="darkcyan"><b>Kleine werken</b></font> <mark>&nbsp;Note (3)&nbsp; | <u>Recrutement</u> ou Détachement<br>Cf. Réforme de la Protection Civile<br>pas encore de candidat | FR |
 | NDT1 | <font color="darkcyan"><b>Kleine werken</b></font> <mark>&nbsp;Note (3)&nbsp; | <u>Recrutement</u> ou Détachement<br>Cf. Réforme de la Protection Civile<br>pas encore de candidat | NL |
 
