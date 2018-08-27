@@ -18,3 +18,16 @@
 
 ## &#10173; Absences / Afwezigheden
 
+| Que devez-vous signaler avant 9h ? | Wat moet u v&oacute;&oacute;r 9u aanmelden? |
+| --- | --- |
+| &oplus; la durée de votre absence | &oplus; voor hoeveel dagen u afwezig bent |
+| &oplus; l'adresse à laquelle vous passerez votre congé de maladie | &oplus; op welk adres u uw ziekteverlof doorbrengt |
+
+---
+
+| &Agrave; qui ? / Comment ? | Tegen wie? Hoe? |
+| --- | --- |
+| &otimes; &phone; 02/277.70.00 | &otimes; &phone; 02/277.70.00 |
+| &otimes; &#9993; [secr_S2@economie.fgov.be](secr_S2@economie.fgov.be) | &otimes; &#9993; [secr_S2@economie.fgov.be](secr_S2@economie.fgov.be) |
+| &otimes; **<u>AVANT</u> &#9716; 9h** | **<u>V&Oacute;&Oacute;R</u> &#9716; 9u** |
+
