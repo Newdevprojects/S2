@@ -9,9 +9,11 @@
 
 	28.08.2018
 
-| Télétravail | Telewerk |
+## &#10173; Télétravail / Telewerk
+
+| Procédure de demande | Aanvraagsprocedure |
 | --- | --- |
-| <u>Rappel</u><br>Toute demande de journée de télétravail doit se faire via *ESS Time*<br>https://scope.belgium.be | <u>Herinnering</u><br>Alle aanvragen van telewerkdagen moeten via *ESS Time* worden ingediend<br>https://scope.belgium.be
+| <u>Rappel</u><br>Toute demande de journée de télétravail doit se faire via *ESS Time*<br>[https://scope.belgium.be](https://scope.belgium.be) | <u>Herinnering</u><br>Alle aanvragen van telewerkdagen moeten via *ESS Time* worden ingediend<br>[https://scope.belgium.be](https://scope.belgium.be)
 | [En savoir plus...](http://intranet.internal.economie.fgov.be/employees/Teleworking/Teleworking/Pages/default_fr.aspx) | [Meer weten...](http://intranet.internal.economie.fgov.be/employees/Teleworking/Teleworking/Pages/default_nl.aspx) |
 
 ## &#10173; Absences / Afwezigheden
