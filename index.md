@@ -11,6 +11,7 @@
 
 - [x] &nbsp; [24.05.2018](Practical_Info_20180524.md) : Café - solution définitive
 - [ ] &nbsp; 24.05.2018 : Prise en compte note de service 201817 (QPs) [&#9734;](Dienstnota_201817.md)
+- [ ] &nbsp; [28.08.2018](Practical_Info_20180828.md) : Télétravail / Absences
 
 ## Debriefs
 
