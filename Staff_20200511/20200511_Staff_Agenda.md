@@ -36,7 +36,7 @@
 	* pensionnés :
 		* Angelo CELLAMARE : licencié pour inaptitude au 18.02.2020
 		* Patricia LORENT : au 01.05.2020
-		* Martine MEDART : pensionnée au 01.05.2020
+		* Martine MEDART : au 01.05.2020
 	* prochains pensionnés :
 		* Alain DENIS au 01.06.2020
 		* Patricia DUBOIS au 01.06.2020
