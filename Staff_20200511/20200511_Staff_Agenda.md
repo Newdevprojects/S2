@@ -15,7 +15,8 @@
 	* Briefing DC 12.05.2020
 	* Invulling fase 1 terugkeer FOD Economie
 		* documentatie [FR](Roadmap_terugkeer_FR.pdf) - [NL](Roadmap_terugkeer_NL.pdf)
-		* [projet pour S2]() ![](excel.png)<font color="crimson" size="4px">&#9993;</font> - <b>à compléter/modifier &rarr; version DEF à renvoyer de <font color="crimson">Mathias</font> à Robert <u>pour 12h30</u></b>
+		* [Méthode](methode.md) utilisée par Robert
+		* [projet pour S2](S2_terugkeer_invulling_FASE1.xlsx) ![](excel.png)<font color="crimson" size="4px">&#9993;</font> - <b>à compléter/modifier &rarr; version DEF à renvoyer de <font color="crimson">Mathias</font> à Robert <u>pour 12h30</u></b>
 			* Deadline : 11.05.2020 (*Bedoeling is dat we de lijst tegen ten laatste maandag 11 mei terug krijgen zodat er op het directiecomité van 12 mei over een concrete datum voor fase 1 kan worden gesproken.*)
 * (3) Point demandé par Peter
 	* Er moet toch nog een extra communicatie volgen om misbruik met het gebruik van het kilometercontingent tegen te gaan.
@@ -45,8 +46,9 @@
 		* au 01.05.2020 : Frankie BISSCHOP (à mi-temps)
 	* fin du stage et nomination :
 		* au 15.06.2020 : Dita USLU
-		* NB : Hubert SAMSON (01.09.2019) et Andy NUNES (16.03.2020) ne doivent pas faire de stage, car ils ont accédé au Niveau B en étant affecté à S2
+		* NB : Hubert SAMSON (01.09.2019) et Andy NUNES (16.03.2020) ne doivent pas faire de stage, car ils ont accédé au Niveau B au moment de leur affectation à S2
 	* accession au Niveau A :
 		* au 01.02.2020 : Astrid DE SPIEGELEER
+	* Graziano LIROUX est décédé le 03.05.2020 
 
 	
