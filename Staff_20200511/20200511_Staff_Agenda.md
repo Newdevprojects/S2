@@ -28,7 +28,7 @@
 		* aucun entretien ne peut de même être organisé (pour Selor) par S1 (les entretiens interrompus pour les contrôleurs en subventions publiques sont en suspens - 3 lauréats, certes, mais d'autres candidats n'ont pu être entendus par le jury le 13.03 et le 18.03)
 		* proposition de S1 pour le recrutement (septembre?)  de l'expert A1 budget liaison BOSA:
 			* FR : consultation de la réserve des contrôleurs subventions publiques
-			* : publication avant l'été (en fonction de l'évolution de la situation) - car il n'y avait pas de réserve
+			* NL : publication avant l'été (en fonction de l'évolution de la situation) - car il n'y avait pas de réserve
 	* également en *stand-by* :<br>entrées en service de Julie Delvigne et Vanessa Folo - *<font color="crimson">Rosetta's</font>* pour l'accueil
 	* entrée en service au 01.06.2020<br>Vincent Zakowski (Niv. B - SPF Fin.) - *<font color="crimson">Talent Exchange</font>* pour EMAS 
 		* en attente de Annelies Laureys : contrat négocié par S1 avec Vincent Zakowski<br><u>objectif :</u> que Mathias puisse réellement déterminer ses tâches et les critères d'évaluation

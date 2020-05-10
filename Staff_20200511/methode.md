@@ -9,7 +9,7 @@
 J'ai également retiré les noms de : 
 
 * Lourdes AYRO GUERRERO, dont - personnellement - j'avoue ne pas savoir très bien si elle travaille au NG ou à Gand
-Alain DENIS, qui sera pensionné le 01.06.2020
+* Alain DENIS, qui sera pensionné le 01.06.2020
 * Patricia GIEBENS, qui sera pensionnée le 01.06.2020
 * Martine MEDART, qui a été pensionnée le 01.05.2020
 
