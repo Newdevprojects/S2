@@ -19,7 +19,7 @@ Les fichiers Excel se téléchargent en cliquant sur le lien.
 	* Debriefing DC 12.05.2020 + [contact met de vakbonden](PV_reunion_syndicats_20200513.pdf) ![](pdf.png) (ontwerp Cl.Denis)
 * (3) EWOW - stand van zaken
 	* vergadering met Regie - [04.07.2019](20190704_Economie_vergadering_Regie.xlsx) ![](excel.png)
-	* berekening FOD - [input Jaarverlag S2](20200420_Mogelijke_scenario-s_input_jaarverslag_S2.xlsx) ![](excel.png)
+	* berekening FOD - [input Jaarverslag S2](20200420_Mogelijke_scenario-s_input_jaarverslag_S2.xlsx) ![](excel.png)
 * (4) Quid date entrée en service de Julie Delvigne et Vanessa Folo ? - *<font color="crimson">Rosetta's</font>* pour l'accueil
 	* [15.06 ou 01.07 ?](Date_entree_service_Rosettas.pdf)  ![](pdf.png) (approche recommandée par Robert)
 * (5) HR-nieuws :
