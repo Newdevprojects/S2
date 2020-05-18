@@ -14,7 +14,7 @@ Les fichiers Excel se téléchargent en cliquant sur le lien.
 * (1) Opvolging vorige stafvergadering:
 	* PV Stafvergadering [11.05.2020](20200511_Staff_PV.pdf) ![](pdf.png)
 		* les remarques d'Edward du 11.05 sur le projet ont été intégrées
-		* fonctions supérieures - toujours pas de suivi donné par S1 à la [note 000251 du 26.02.2020](Staff_20200520\Note_000251_Fonctions_superieures.pdf) ![](pdf.png)
+		* fonctions supérieures - toujours pas de suivi donné par S1 à la [note 000251 du 26.02.2020](Note_000251_Fonctions_superieures.pdf) ![](pdf.png)
 * (2) DC 
 	* Debriefing DC 12.05.2020 + [contact met de vakbonden](PV_reunion_syndicats_20200513.pdf) ![](pdf.png) (ontwerp Cl.Denis)
 * (3) EWOW - stand van zaken
