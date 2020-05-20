@@ -19,7 +19,7 @@ Les fichiers Excel se téléchargent en cliquant sur le lien.
 		* <mark>&nbsp;new&nbsp;</mark> [arguments pour une prolongation](Fx_superieures_Sandra_Smets.pdf) ![](pdf.png) des fonctions supérieures de Sandra Smets
 * (2) DC 
 	* Debriefing DC 12.05.2020 + [contact met de vakbonden](PV_reunion_syndicats_20200513.pdf) ![](pdf.png) (ontwerp Cl.Denis)
-	* <mark>&nbsp;new&nbsp;</mark> personnel S2 à temps partiel pour [raisons médicales](C:\Users\RDumoulin\Documents\GitHub\Newdevprojects\S2\Staff_20200520\tps_partiel_medic.pdf) ![](pdf.png) 
+	* <mark>&nbsp;new&nbsp;</mark> personnel S2 à temps partiel pour [raisons médicales](tps_partiel_medic.pdf) ![](pdf.png) 
 * (3) EWOW - stand van zaken
 	* vergadering met Regie - [04.07.2019](20190704_Economie_vergadering_Regie.xlsx) ![](excel.png)
 	* berekening FOD - [input Jaarverslag S2](20200420_Mogelijke_scenario-s_input_jaarverslag_S2.xlsx) ![](excel.png)
