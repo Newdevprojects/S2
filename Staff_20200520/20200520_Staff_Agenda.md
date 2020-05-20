@@ -30,6 +30,7 @@ Les fichiers Excel se téléchargent en cliquant sur le lien.
 		* aucune sélection n'est organisée par Selor <del>avant le 18.05</del> avant le 25.05, et sous réserve que les [locaux](https://www.selor.be/nl/nieuws/2020/05/we-hernemen-onze-activiteiten-geleidelijk-aan/) soient rendus sûrs
 		* aucun entretien ne peut de même être organisé (pour Selor) par S1
 	* OK pour entrée en service au 01.06.2020<br>Vincent Zakowski (Niv. B - SPF Fin.) - *<font color="crimson">Talent Exchange</font>* pour EMAS 
+		* Mathias l'accueillera le 2 juin à 9h30
 * (6) Varia
 	* Voorstel extra communicatie - [ontwerp Peter](communication_econews_Peter.pdf) ![](pdf.png)
 	* Choix des valeurs fédérales - communiqué par le SPF BOSA au réseau RIEF le 14.05
