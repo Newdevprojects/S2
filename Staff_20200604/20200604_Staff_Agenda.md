@@ -4,6 +4,8 @@
 <u><b>NB:</b></u>  
 Les PDF ont été transmis en pièces jointes avec la communication de l'ordre du jour.  
 
+<mark>Les fichiers Word (formulaires 'new look' S1 de demandes de fonctions supérieures) seront envoyées par mail dans le courant de la journée du 03.06</mark>
+
 | Permalink |
 | :--- |
 | [https://newdevprojects.github.io/S2/Staff_20200604/20200604_Staff_Agenda.html](https://newdevprojects.github.io/S2/Staff_20200604/20200604_Staff_Agenda.html) | 
@@ -21,10 +23,10 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 * (4) Nomination
 	* le stage d'un an de Dita Uslu se termine le 15.06 - il est important que Dirk fasse et clôture les entretiens dans *Crescendo*
 * (5) Fonctions supérieures
-	* Sandra Smets - proposition
-	* Nadine Weverbergh - proposition
-	* Mathias Lenaerts - proposition
-	* Yassine Atmane - proposition
+	* Sandra Smets - proposition ([note](Note_000374_fxsup_Sandra_Smets.pdf) ![](pdf.png) + <mark>formulaire</mark> ![](word.jpg))
+	* Nadine Weverbergh - proposition ([note](Note_000375_fxsup_Nadine_Weverbergh.pdf) ![](pdf.png) + <mark>formulaire</mark> ![](word.jpg))
+	* Mathias Lenaerts - proposition ([note](Note_000376_fxsup_Mathias_Lenaerts.pdf) ![](pdf.png) + <mark>formulaire</mark> ![](word.jpg))
+	* Yassine Atmane - proposition ([note](Note_000377_fxsup_Yassine_Atmane.pdf) ![](pdf.png) + <mark>formulaire</mark> ![](word.jpg))
 * (6) HR-nieuws (sinds 20.05) :
 	* recrutements 
 		* des contacts sont pris en ce moment par S1 avec les candidats des sélections pour voir si leur entretien peut se faire à l'Atrium
