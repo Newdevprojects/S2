@@ -17,14 +17,14 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* Debriefing DC 26.05.2020 
 * (3) Analyse kernprocessen - Stand van zaken (Cf. Varia d) [PV vorige Staff](20200520_Staff_PV.pdf))
 * (3) Statutarisation
-	* [Nicolas Rugolo]() a réussi le screening Selor - proposition de l'intégrer dans son poste actuel (`BICDIB` Expert en TIC - `S2626`- Support de proximité (ICT))
+	* Nicolas Rugolo a réussi le [screening Selor](Nicolas_Rugolo_Selor.pdf) ![](pdf.png) - proposition de l'intégrer dans son poste actuel<br>(`BICDIB` Expert en TIC - `S2626`- Support de proximité (ICT))
 * (4) Nomination
-	* le stage d'un an de Dita Uslu se termine le 15.06 - il est important que Dirk fasse tous ces entretiens dans Crescendo
+	* le stage d'un an de Dita Uslu se termine le 15.06 - il est important que Dirk fasse et clôture les entretiens dans *Crescendo*
 * (5) Fonctions supérieures
-	* Sandra Smets
-	* Nadine Weverbergh
-	* Mathias Lenaerts
-	* Yassine Atmane
+	* Sandra Smets - proposition
+	* Nadine Weverbergh - proposition
+	* Mathias Lenaerts - proposition
+	* Yassine Atmane - proposition
 * (6) HR-nieuws (sinds 20.05) :
 	* recrutements 
 		* des contacts sont pris en ce moment par S1 avec les candidats des sélections pour voir si leur entretien peut se faire à l'Atrium
