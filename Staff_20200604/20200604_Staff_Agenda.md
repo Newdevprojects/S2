@@ -36,7 +36,9 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 		* des contacts sont pris en ce moment par S1 avec les candidats des sélections pour voir si leur entretien peut se faire à l'Atrium
 			* Contrôleur subventions publiques : les 6 et 7 juillet (Edward + Robert)
 			* Analyste en comptabilité : les 8 et 9 juillet (Edward + Robert)
-* (6) Varia
+	* demande de départ à la pension anticipée de Martine Van Herzele (61 ans au 01.05.2021)
+		* Robert peut-il la faire suivre à S1 et Persopoint ?
+* (7) Varia
 
 
 	
