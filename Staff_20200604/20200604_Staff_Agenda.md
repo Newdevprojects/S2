@@ -22,23 +22,23 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 * (2) DC 
 	* Debriefing DC 26.05.2020 
 * (3) Analyse kernprocessen - Stand van zaken (Cf. Varia d) [PV vorige Staff](20200520_Staff_PV.pdf))
-* (3) Statutarisation
+* (4) Statutarisation
 	* Nicolas Rugolo a réussi le [screening Selor](Nicolas_Rugolo_Selor.pdf) ![](pdf.png) - proposition de l'intégrer dans son poste actuel<br>(`BICDIB` Expert en TIC - `S2626`- Support de proximité (ICT))
-* (4) Nomination
+* (5) Nomination
 	* le stage d'un an de Dita Uslu se termine le 15.06 - il est important que Dirk fasse et clôture les entretiens dans *Crescendo*
-* (5) Fonctions supérieures
+* (6) Fonctions supérieures
 	* Sandra Smets - proposition ([note](Note_000374_fxsup_Sandra_Smets.pdf) ![](pdf.png) + <mark>formulaire</mark> ![](word.jpg))
 	* Nadine Weverbergh - proposition ([note](Note_000375_fxsup_Nadine_Weverbergh.pdf) ![](pdf.png) + <mark>formulaire</mark> ![](word.jpg))
 	* Mathias Lenaerts - proposition ([note](Note_000376_fxsup_Mathias_Lenaerts.pdf) ![](pdf.png) + <mark>formulaire</mark> ![](word.jpg))
 	* Yassine Atmane - proposition ([note](Note_000377_fxsup_Yassine_Atmane.pdf) ![](pdf.png) + <mark>formulaire</mark> ![](word.jpg))
-* (6) HR-nieuws (sinds 20.05) :
+* (7) HR-nieuws (sinds 20.05) :
 	* recrutements 
 		* des contacts sont pris en ce moment par S1 avec les candidats des sélections pour voir si leur entretien peut se faire à l'Atrium
 			* Contrôleur subventions publiques : les 6 et 7 juillet (Edward + Robert)
 			* Analyste en comptabilité : les 8 et 9 juillet (Edward + Robert)
 	* demande de départ à la pension anticipée de Martine Van Herzele (61 ans au 01.05.2021)
 		* Robert peut-il la faire suivre à S1 et Persopoint ?
-* (7) Varia
+* (8) Varia
 
 
 	
