@@ -21,6 +21,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 		* les remarques de Peter du 20.05 sur le projet ont été intégrées
 * (2) DC 
 	* Debriefing DC 26.05.2020 
+	* Briefing DC 09.06.2020
 * (3) Analyse kernprocessen - Stand van zaken (Cf. Varia d) [PV vorige Staff](20200520_Staff_PV.pdf))
 * (4) Statutarisation
 	* Nicolas Rugolo a réussi le [screening Selor](Nicolas_Rugolo_Selor.pdf) ![](pdf.png) - proposition de l'intégrer dans son poste actuel<br>(`BICDIB` Expert en TIC - `S2626`- Support de proximité (ICT))
