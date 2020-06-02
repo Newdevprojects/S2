@@ -4,7 +4,11 @@
 <u><b>NB:</b></u>  
 Les PDF ont été transmis en pièces jointes avec la communication de l'ordre du jour.  
 
-<mark>Les fichiers Word (formulaires 'new look' S1 de demandes de fonctions supérieures) seront envoyées par mail dans le courant de la journée du 03.06</mark>
+<mark>Les fichiers Word (formulaires 'new look' S1 de demandes de fonctions supérieures) seront envoyés par mail dans le courant de la journée du 03.06</mark>
+
+&nbsp;
+
+&nbsp;
 
 | Permalink |
 | :--- |
