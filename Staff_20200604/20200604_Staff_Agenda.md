@@ -28,7 +28,7 @@ Les fichiers Word (formulaires 'new look' S1 de demandes de fonctions supérieur
 	* le stage d'un an de Dita Uslu se termine le 15.06 - il est important que Dirk fasse et clôture les entretiens dans *Crescendo*
 * (6) Fonctions supérieures
 	* <b>ACTUALIT&Eacute; : </b> avis de l'[Inspecteur des Finances](Avis_IF.pdf)
-	* Sandra Smets - proposition ([note](Note_000374_fxsup_Sandra_Smets.pdf) ![](pdf.png) + formulaire ![](word.jpg))
+	* Sandra Smets - proposition ([note](Note_000374_fxsup_Sandra_Smets.pdf) ![](pdf.png) + [formulaire](Formulaire_Sandra_Smets.doc) ![](word.jpg))
 	* Nadine Weverbergh - proposition ([note](Note_000375_fxsup_Nadine_Weverbergh.pdf) ![](pdf.png) + [formulaire](Formulaire_Nadine_Weverbergh.doc) ![](word.jpg))
 	* Mathias Lenaerts - proposition ([note](Note_000376_fxsup_Mathias_Lenaerts.pdf) ![](pdf.png) + [formulaire](Formulaire_Mathias_Lenaerts.doc) ![](word.jpg))
 	* Yassine Atmane - proposition ([note](Note_000377_fxsup_Yassine_Atmane.pdf) ![](pdf.png) + [formulaire](Formulaire_Yassine_Atmane.doc) ![](word.jpg))
