@@ -3,8 +3,7 @@
 
 <u><b>NB:</b></u>  
 Les PDF ont été transmis en pièces jointes avec la communication de l'ordre du jour.  
-
-<mark>Les fichiers Word (formulaires 'new look' S1 de demandes de fonctions supérieures) seront envoyés par mail dans le courant de la journée du 03.06</mark>
+Les fichiers Word (formulaires 'new look' S1 de demandes de fonctions supérieures) seront envoyés par mail dans le courant de la journée du 03.06
 
 &nbsp;
 
@@ -28,10 +27,11 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 * (5) Nomination
 	* le stage d'un an de Dita Uslu se termine le 15.06 - il est important que Dirk fasse et clôture les entretiens dans *Crescendo*
 * (6) Fonctions supérieures
+	* <b>ACTUALIT&Eacute; : </b> avis de l'[Inspecteur des Finances](Avis_IF.pdf)
 	* Sandra Smets - proposition ([note](Note_000374_fxsup_Sandra_Smets.pdf) ![](pdf.png) + <mark>formulaire</mark> ![](word.jpg))
 	* Nadine Weverbergh - proposition ([note](Note_000375_fxsup_Nadine_Weverbergh.pdf) ![](pdf.png) + <mark>formulaire</mark> ![](word.jpg))
-	* Mathias Lenaerts - proposition ([note](Note_000376_fxsup_Mathias_Lenaerts.pdf) ![](pdf.png) + <mark>formulaire</mark> ![](word.jpg))
-	* Yassine Atmane - proposition ([note](Note_000377_fxsup_Yassine_Atmane.pdf) ![](pdf.png) + <mark>formulaire</mark> ![](word.jpg))
+	* Mathias Lenaerts - proposition ([note](Note_000376_fxsup_Mathias_Lenaerts.pdf) ![](pdf.png) + [formulaire](Formulaire_Mathias_Lenaerts.doc) ![](word.jpg))
+	* Yassine Atmane - proposition ([note](Note_000377_fxsup_Yassine_Atmane.pdf) ![](pdf.png) + [formulaire](Formulaire_Yassine_Atmane) ![](word.jpg))
 * (7) HR-nieuws (sinds 20.05) :
 	* recrutements 
 		* des contacts sont pris en ce moment par S1 avec les candidats des sélections pour voir si leur entretien peut se faire à l'Atrium
