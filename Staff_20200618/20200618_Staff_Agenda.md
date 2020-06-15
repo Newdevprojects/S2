@@ -44,10 +44,10 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 			* voir <font color="crimson"><b>tableau</b> en dessous de l'agenda</font> &dArr;&dArr;&dArr;
 * (5) Varia
 	* point de situation de la pyramide d'âge S2 (en vue de <font color="crimson">nourrir la réflexion</font>/discussion sur les besoins futurs)
-		* ![](pdf.png) [S22000 - Support Staff](S22000.pdf) - [commentaires]()
-		* ![](pdf.png) [S24000 - Financiële Dienst](S24000.pdf) - [commentaires]()
-		* ![](pdf.png) [S25000 - Aankoop Dienst](S25000.pdf) - [commentaires]()
-		* ![](pdf.png) [S26000 - Facility Management](S26000.pdf) - [commentaires]()
+		* ![](pdf.png) [S22000 - Support Staff](S22000.pdf) + légende et [commentaires]()
+		* ![](pdf.png) [S24000 - Financiële Dienst](S24000.pdf) + légende et [commentaires]()
+		* ![](pdf.png) [S25000 - Aankoop Dienst](S25000.pdf) + légende et [commentaires]()
+		* ![](pdf.png) [S26000 - Facility Management](S26000.pdf) + légende et [commentaires]()
 
 ---
 
