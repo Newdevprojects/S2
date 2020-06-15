@@ -18,7 +18,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* PV Stafvergadering [04.06.2020](20200604_Staff_PV.pdf) ![](pdf.png)
 * (2) DC 
 	* Debriefing DC 09.06.2020 
-	* Briefing DC 23.06.2020
+	* Debriefing DC 23.06.2020
 * (3) Aanpassingen [tool vergoedingen](Aanpassingen_tool_vergoedingen.pdf) ![](pdf.png)
 * (4) HR-nieuws (sinds 04.06) :
 	* recrutements dont les sélections ont été relancées
