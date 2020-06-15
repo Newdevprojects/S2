@@ -30,7 +30,8 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 			* le cas a été fourni par Peter
 	* accession de Vincent DANCKAERT au Niveau B - il a communiqué sa réussite au Screening Selor
 	* nouveaux besoins / marge restant sur plan antérieur
-		* un Rosetta de Niveau C - Cf. [page 2 du point de situation](20200609_Rosetta_point_situation.pdf) ![](pdf.png) de Robert
+		* un Rosetta de Niveau C - Cf. [page 2 du point de situation](20200609_Rosetta_point_situation.pdf) ![](pdf.png)
+		* suggestion de [Mathias](Rosetta_Reaction_Mathias.pdf) ![](pdf.png)
 * (5) Varia
 
 
