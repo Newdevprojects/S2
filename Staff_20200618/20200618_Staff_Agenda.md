@@ -12,7 +12,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 | :--- |
 | [https://newdevprojects.github.io/S2/Staff_20200618/20200618_Staff_Agenda.html](https://newdevprojects.github.io/S2/Staff_20200618/20200618_Staff_Agenda.html) | 
 
-# Staff 20200618 - Agenda
+# Staff 20200624 - Agenda
 
 * (1) Opvolging vorige stafvergadering:
 	* PV Stafvergadering [04.06.2020](20200604_Staff_PV.pdf) ![](pdf.png)
