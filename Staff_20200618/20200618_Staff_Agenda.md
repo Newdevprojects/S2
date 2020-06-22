@@ -48,6 +48,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 		* ![](pdf.png) [S24000 - Financiële Dienst](S24000.pdf) + légende et [commentaires](S24000.md)
 		* ![](pdf.png) [S25000 - Aankoop Dienst](S25000.pdf) + légende et [commentaires](S25000.md)
 		* ![](pdf.png) [S26000 - Facility Management](S26000.pdf) + légende et [commentaires](S26000.md)
+			* Réflexion préliminaire (19.06.2020) [behoeften](20200619_behoeften_Facility.pdf) - [Synthese](20200619_Synthese_Facility.pdf)
 
 ---
 
