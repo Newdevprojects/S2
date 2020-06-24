@@ -5,11 +5,9 @@
 
 ## Actions pour S2 (promotion)
 
-<body>
-    <table>
-        <tr><td>NA31</td><td>Adviseur Aankoopprocedures (expert)</td><td>NL / FR</td><td>VAC2487</td><td>(Golf maart 2020 - Dienstnota 30/03/2020)</td><td><font color="crimson"><b>OK - à l'agenda d'un prochain DC</b></font></td></></tr>
-    </table>
-</body>
+<table>
+    <tr><td>NA31</td><td>Adviseur Aankoopprocedures (expert)</td><td>NL / FR</td><td>VAC2487</td><td>(Golf maart 2020 - Dienstnota 30/03/2020)</td><td><font color="crimson"><b>OK - à l'agenda d'un prochain DC</b></font></td></></tr>
+</table>
 
 ## Actions pour S2 (recrutements)
 
