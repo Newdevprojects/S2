@@ -20,12 +20,12 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* Debriefing DC 09.06.2020 
 	* Debriefing DC 23.06.2020
 * (3) Aanpassingen [tool vergoedingen](Aanpassingen_tool_vergoedingen.pdf) ![](pdf.png)
-* (4) HR-nieuws (sinds 04.06) :
 
-| Tableau d'ensemble présenté par S1 au comité de direction |
+| POINT 4 (HR-nieuws) : Tableau d'ensemble présenté par S1 au comité de direction |
 | :--- |
-| [Mes commentaires et questions à arbitrer en Staff S2 sont <font color="crimson"><b>en bordeaux et gras</b></font>](Staff_20200618\Rapport_S1_au_CD_20200630.md) |
+| [Mes commentaires et questions à arbitrer en Staff S2 sont <font color="crimson"><b>en bordeaux et gras</b></font>](Rapport_S1_au_CD_20200630.md) |
 
+* (4) HR-nieuws (sinds 04.06) :
 	* recrutements dont les sélections ont été relancées
 		* Contrôleur subventions publiques : interview les 6 et 7 juillet (Edward + Robert) Atrium, 4/A12
 			* 5 lauréats en mars
