@@ -27,7 +27,7 @@
             <td>NL/FR</td>
             <td>PUB: 03/02/2020</td>
             <td>(Nieuwe behoefte NA21/NA11 overgeheveld van S3 naar S2)</td>
-            <td>Testen uitgesteld <font color="crimson"><b>CORONA</b></td>
+            <td>Testen uitgesteld <font color="crimson"><b>CORONA</td>
         </tr>
         <tr>
             <td>NA11</td>
@@ -43,7 +43,7 @@
             <td><font color="crimson"><b>NL - CHECK par Staff 24.06</td>
             <td><font color="crimson"><b>Quid définition précise des tâches ?</td>
             <td>&nbsp;</td>
-            <td>Publicatie uitgesteld <font color="crimson"><b>CORONA</b></td>
+            <td>Publicatie uitgesteld <font color="crimson"><b>CORONA</td>
         </tr>
         <tr>
             <td>NA11</td>
@@ -123,7 +123,7 @@
             <td>NL</td>
             <td>ROSETTA</td>
             <td>&nbsp;</td>
-            <td><font color="crimson"><b>Interviews prochainement organisés (sept?)</b></td>
+            <td><font color="crimson"><b>Interviews prochainement organisés (sept?)</td>
         </tr>
 </table>
 
