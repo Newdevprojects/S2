@@ -16,6 +16,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 
 * (1) Opvolging vorige stafvergadering:
 	* PV Stafvergadering [24.06.2020](20200624_Staff_PV.pdf) ![](pdf.png)
+		* document consolidé (= avec les remarques d'Edward et Peter)
 	* [Nouvelles demandes S2](Bilan_demandes_S2_20200701.pdf) (recrutements/promotion) - ont été communiquées par Robert le 01.07.2020
 * (2) DC 
 	* Debriefing DC 23.06.2020
