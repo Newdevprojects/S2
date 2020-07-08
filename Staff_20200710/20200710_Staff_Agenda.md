@@ -20,7 +20,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* [Nouvelles demandes S2](Bilan_demandes_S2_20200701.pdf) (recrutements/promotion)<br>
 	les demandes ont été communiquées par Robert le 01.07.2020 (Cf. mail 14h18)
 * (2) DC 
-	* Debriefing DC 23.06.2020
+	* Debriefing DC 23.06.2020 - [ADM](20200623_Adm_FR.pdf) - [THEM](20200623_Them_FR.pdf)
 	* Briefing DC 14.07.2020
 * (3) [Openstaande vorderingen](Openstaande_vorderingen_algemene_ontvangsten.pdf) ![](pdf.png) algemene ontvangsten
 * (4) [NMBS-abonnementen](Abonnementen_openbaar_vervoer.pdf) ![](pdf.png)
