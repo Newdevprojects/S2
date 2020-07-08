@@ -22,6 +22,6 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* Debriefing DC 23.06.2020
 	* Briefing DC 14.07.2020
 * (3) [Openstaande vorderingen](Openstaande_vorderingen_algemene_ontvangsten.pdf) ![](pdf.png) algemene ontvangsten
-* (4) [NMBS-abonnementen](C:\Users\RDumoulin\Documents\GitHub\Newdevprojects\S2\Staff_20200710\Abonnementen_openbaar_vervoer.pdf) ![](pdf.png)
+* (4) [NMBS-abonnementen](Abonnementen_openbaar_vervoer.pdf) ![](pdf.png)
 * (5) Varia
 	* Bilan S2 des demandes de [formations de groupes](ecademy_for_groups_20200401_20200630.pdf) ![](pdf.png) *eCademy* (2<sup>ème</sup> trimestre 2020)
