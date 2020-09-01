@@ -26,7 +26,9 @@ Les PDF et Excel ont été transmis en pièces jointes avec la communication de 
 * (5) Attitude de Chantal LUYTEN
 * (6) Varia
 	* Migration vers *Windows10*
+	* *Mailroom* : envois recommandés et présences des secrétariats
 	* *Digiconnect*: formation et accès pour le Secrétariat S2
+		* [liste des utilisateurs](20200807_Lijst_Digiconnect_users.pdf) au 07.08.2020 ![](pdf.png)
 	* Christian BASTAERTS est pensionné depuis le 01.09.2020
 	* Sophie PEUSKENS est entrée en service le 01.09.2020 (A1 Contrôleur en subventions)
 	* (*pour info*)<br>pas de lauréat sélection '*cascade*' A2 Facility Manager adjoint
