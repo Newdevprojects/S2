@@ -37,8 +37,8 @@ Les PDF et Excel ont été transmis en pièces jointes avec la communication de 
 	* Sophie PEUSKENS est entrée en service le 01.09.2020 (A1 Contrôleur en subventions)
 	* (*pour info*)<br>pas de lauréat sélection '*cascade*' A2 Facility Manager adjoint
 	* Nieuwe wagen Mvw Dir. D. Vervenne
-		* [Einde contract]() ![](pdf.png)
-		* [Ontwerpnota]() ![](word.jpg)
+		* [Einde contract](Belfius_AL_einde_contract_1UQF378.pdf) ![](pdf.png)
+		* [Ontwerpnota](20200902_Nieuwe_dienstwagen_Daisy_VERVENNE.docx) ![](word.jpg)
 
 <a name="todo"> </a>
 
