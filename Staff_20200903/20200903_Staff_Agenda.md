@@ -36,6 +36,9 @@ Les PDF et Excel ont été transmis en pièces jointes avec la communication de 
 	* Christian BASTAERTS est pensionné depuis le 01.09.2020
 	* Sophie PEUSKENS est entrée en service le 01.09.2020 (A1 Contrôleur en subventions)
 	* (*pour info*)<br>pas de lauréat sélection '*cascade*' A2 Facility Manager adjoint
+	* Nieuwe wagen Mvw Dir. D. Vervenne
+		* [Einde contract]() ![](pdf.png)
+		* [Ontwerpnota]() ![](word.jpg)
 
 <a name="todo"> </a>
 
