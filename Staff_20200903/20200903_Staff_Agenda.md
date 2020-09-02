@@ -45,11 +45,11 @@ Les PDF et Excel ont été transmis en pièces jointes avec la communication de 
 
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
-| EWOW | Mathias | récurrent | &Eacute;tat des lieux &#8592;&#8593; Phases 2,3,4 ? |
+| EWOW | Mathias | récurrent | &Eacute;tat des lieux &#8592;&#8594; Phases 2,3,4 ? |
 | beCEPS | Dirk | Staff 09.01.2020 | *on hold*<br>&Eacute;lément neuf ? |
 | RGPD | Yassine | récurrent | &Eacute;tat des lieux |
 | Gestion des archives | Mathias | récurrent | &Eacute;tat des lieux |
-| Kritische processen | Peter | récurrent<br>Staff 16.04.2020 | éEacute;tat des lieux<br><u>RMass:</u> De FIA is ook bezig om te bekijken of zij op basis van onze procescartografie hun auditplan voor onze FOD kunnen opstellen. |
+| Kritische processen | Peter | récurrent<br>Staff 16.04.2020 | &Eacute;tat des lieux<br><u>RMass:</u> De FIA is ook bezig om te bekijken of zij op basis van onze procescartografie hun auditplan voor onze FOD kunnen opstellen. |
 | &nbsp; | &nbsp; | Staff 04.06.2020 | Peter heeft vorige week het geactualiseerde overzicht doorgestuurd.<br>Er is nog wat werk voor de risico-analyses en actieplannen, timing blijft december 2020.<br>Vanaf juli zal er een werkgroep opgericht worden om wat praktische ondersteuning te bieden. De processen en risicoanalyses zullen afgetoetst worden tussen de diensten onderling om de overlapping te bekijken en deze af te toetsen met een andere visie. |
 
 ## &#10103; Tâches davantage ponctuelles
