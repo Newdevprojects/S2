@@ -18,7 +18,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* [PV Staff 03.09.2020](https://newdevprojects.github.io/S2/Staff_20200903/20200903_Staff_PV.html)
 	* To Do's en terugkerende dossiers - [Overzicht maart-augustus 2020](#todo)
 * (2) DC 
-	* Debriefing DC 14.07.2020
+	* Debriefing DC 08.09.2020
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20200908_Adm_FR.pdf) ![](pdf.png) - [THEM](https://newdevprojects.github.io/S2/Staff/20200908_Them_FR.pdf) ![](pdf.png)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20200908_Adm_NL.pdf) ![](pdf.png) - [THEM](https://newdevprojects.github.io/S2/Staff/20200908_Them_NL.pdf) ![](pdf.png)
 	* Briefing DC 22.09.2020
