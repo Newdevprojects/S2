@@ -26,6 +26,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* Migration vers *Windows10*
 	* *Mailroom* : envois recommandés et présences des secrétariats
 	* Chantal LUYTEN : licenciée au xx.09.2020
+	* Julie DELVIGNE : [reprise d'études](Demission_Julie_Delvigne.pdf) ![](pdf.png) - fin de contrat le 20.09.2020
 	* Nieuwe wagen Mvw Dir. D. Vervenne
 		* [Einde contract](Belfius_AL_einde_contract_1UQF378.pdf) ![](pdf.png)
 		* [Ontwerpnota](20200902_Nieuwe_dienstwagen_Daisy_VERVENNE.docx) ![](word.jpg)
