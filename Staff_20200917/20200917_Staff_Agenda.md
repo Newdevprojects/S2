@@ -16,15 +16,19 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 
 * (1) Opvolging vorige stafvergaderingen:
 	* [PV Staff 03.09.2020](https://newdevprojects.github.io/S2/Staff_20200903/20200903_Staff_PV.html)
-	* To Do's en terugkerende dossiers - [Overzicht maart-augustus 2020](#todo)
+	* [To Do's](#todo) en terugkerende dossiers
 * (2) DC 
 	* Debriefing DC 08.09.2020
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20200908_Adm_FR.pdf) ![](pdf.png) - [THEM](https://newdevprojects.github.io/S2/Staff/20200908_Them_FR.pdf) ![](pdf.png)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20200908_Adm_NL.pdf) ![](pdf.png) - [THEM](https://newdevprojects.github.io/S2/Staff/20200908_Them_NL.pdf) ![](pdf.png)
 	* Briefing DC 22.09.2020
-* (3) Varia
-	* Chantal LUYTEN : licenciée au xx.09.2020
+* (3) Perspectives RH
+	* Entrée en service de Yvonne KALINDA le 01.10.2020
+	* Interview le 18.09 pour l'&Eacute;conomat (candidature spontanée *Rosetta*) 
+* (4) Varia
+	* Chantal LUYTEN : fin de contrat (Cf. [PV Staff](https://newdevprojects.github.io/S2/Staff_20200903/20200903_Staff_PV.html#chantal))
 	* Julie DELVIGNE : [reprise d'études](Demission_Julie_Delvigne.pdf) ![](pdf.png) - fin de contrat le 20.09.2020
+	* Annick NEUCKERMANS : sera pensionnée le 01.09.2021
 
 <a name="todo"> </a>
 
