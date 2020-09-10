@@ -23,7 +23,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20200908_Adm_NL.pdf) ![](pdf.png) - [THEM](https://newdevprojects.github.io/S2/Staff/20200908_Them_NL.pdf) ![](pdf.png)
 	* Briefing DC 22.09.2020
 * (3) Perspectives RH
-	* Entrée en service de Yvonne KALINDA le 01.10.2020
+	* Yvonne KALINDA : indiensttreding op 01.10.2020 + bepaling takenpakket
 	* Interview le 18.09 pour l'&Eacute;conomat (candidature spontanée *Rosetta*) 
 * (4) Varia
 	* Chantal LUYTEN : fin de contrat (Cf. [PV Staff](https://newdevprojects.github.io/S2/Staff_20200903/20200903_Staff_PV.html#chantal))
