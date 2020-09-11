@@ -28,7 +28,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 * (4) Varia
 	* Chantal LUYTEN : fin de contrat (Cf. [PV Staff](https://newdevprojects.github.io/S2/Staff_20200903/20200903_Staff_PV.html#chantal))
 	* Julie DELVIGNE : [reprise d'études](Demission_Julie_Delvigne.pdf) ![](pdf.png) - fin de contrat le 20.09.2020
-	* Annick NEUCKERMANS : sera pensionnée le 01.09.2021
+	* Annick NEUCKERMANS : sera [pensionnée](Demande_pension_ANeuckermans.pdf) ![](pdf.png) le 01.09.2021
 
 <a name="todo"> </a>
 
