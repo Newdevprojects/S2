@@ -19,11 +19,11 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* [To Do's](#todo) en terugkerende dossiers
 * (2) DC 
 	* Debriefing DC 08.09.2020
-		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20200908_Adm_FR.pdf) ![](pdf.png) - [THEM](https://newdevprojects.github.io/S2/Staff/20200908_Them_FR.pdf) ![](pdf.png)
-		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20200908_Adm_NL.pdf) ![](pdf.png) - [THEM](https://newdevprojects.github.io/S2/Staff/20200908_Them_NL.pdf) ![](pdf.png)
+		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20200908_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20200908_Them_FR.pdf)
+		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20200908_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20200908_Them_NL.pdf)
 	* Debriefing DC 22.09.2020
-		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20200922_Adm_FR.pdf) ![](pdf.png) - [THEM](https://newdevprojects.github.io/S2/Staff/20200922_Them_FR.pdf) ![](pdf.png)
-		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20200922_Adm_NL.pdf) ![](pdf.png) - [THEM](https://newdevprojects.github.io/S2/Staff/20200922_Them_NL.pdf) ![](pdf.png)
+		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20200922_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20200922_Them_FR.pdf)
+		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20200922_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20200922_Them_NL.pdf)
 	* Briefing DC 06.10.2020
 * (3) [Réponse à la QP n° 568](QP_568_Freilich.pdf) ![](pdf.png) (Affectation première tranche provision corona)
 * (4) Structure du [budget](Structure_budget.pdf) ![](pdf.png)
@@ -36,12 +36,12 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* Maria VAN ESSCHE : sera [pensionnée](Demande_pension_MVan-Essche.pdf) ![](pdf.png) le 01.05.2021 (statutaire - aura 61 ans)
 	* Annick NEUCKERMANS : sera [pensionnée](Demande_pension_ANeuckermans.pdf) ![](pdf.png) le 01.09.2021 (statutaire - aura 61 ans)
 	* Yvonne KALINDA entre en service le 01.10.2020
-	* Absents de longue durée `S27000`: [point de situation](20200921_malades_longue_duree.pdf) ![](pdf.png)
+	* Absents de longue durée `S27000` : [point de situation](20200921_malades_longue_duree.pdf) ![](pdf.png)
 
 
 <a name="todo"> </a>
 
-## ToDo Items (Overzicht maart-augustus 2020)
+## ToDo Items
 
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
