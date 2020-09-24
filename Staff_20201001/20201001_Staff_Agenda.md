@@ -33,6 +33,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* &Eacute;chec de la sélection A2 Facility Manager adjoint &#8592; Cf. Debriefing DC (ADM) 22.09.2020<br>&#8594; [Possibilités](Selection_cascade_A2_ass_Facility_Manager.pdf) ![](pdf.png) envisageables
 * (6) Varia
 	* [Presentatie S2](presentatieS2september2020.pdf) ![](pdf.png) voor de nieuwe minister
+	* Nouveau véhicule E6
 	* Chantal LUYTEN : fin de contrat (Cf. [PV Staff](https://newdevprojects.github.io/S2/Staff_20200903/20200903_Staff_PV.html#chantal))
 	* Maria VAN ESSCHE : sera [pensionnée](Demande_pension_MVan-Essche.pdf) ![](pdf.png) le 01.05.2021 (statutaire - aura 61 ans)
 	* Annick NEUCKERMANS : sera [pensionnée](Demande_pension_ANeuckermans.pdf) ![](pdf.png) le 01.09.2021 (statutaire - aura 61 ans)
