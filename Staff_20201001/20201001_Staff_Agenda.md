@@ -38,6 +38,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* Maria VAN ESSCHE : sera [pensionnée](Demande_pension_MVan-Essche.pdf) ![](pdf.png) le 01.05.2021 (statutaire - aura 61 ans)
 	* Annick NEUCKERMANS : sera [pensionnée](Demande_pension_ANeuckermans.pdf) ![](pdf.png) le 01.09.2021 (statutaire - aura 61 ans)
 	* Yvonne KALINDA entre en service le 01.10.2020
+	* [Gestion des 06A](Note_000501_Bilan_06A_01-03_15-09.pdf) ![](pdf.png) - Bilan de la période du 01.03.2020 au 15.09.2020
 	* Absents de longue durée `S27000` : [point de situation](20200921_malades_longue_duree.pdf) ![](pdf.png)
 
 
