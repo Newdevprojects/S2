@@ -42,6 +42,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 		* Crise sanitaire - liste des <mark>exclusions</mark> ![](pdf.png)<sup>&nbsp;(à venir)</sup>
 		* [Gestion des 06A](Note_000501_Bilan_06A_01-03_15-09.pdf) ![](pdf.png) - Bilan de la période du 01.03.2020 au 15.09.2020
 		* Absents de longue durée `S27000` : [point de situation](20200921_malades_longue_duree.pdf) ![](pdf.png)
+		* formations [*ecademy for groups*](ecademy_for_groups_20200801_20200930.pdf) ![](pdf.png) - période du 01.08.2020 au 30.09.2020
 
 
 <a name="todo"> </a>
