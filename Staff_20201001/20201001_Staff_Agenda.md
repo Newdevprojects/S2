@@ -33,11 +33,11 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* &Eacute;chec de la sélection A2 Facility Manager adjoint &#8592; Cf. Debriefing DC (ADM) 22.09.2020<br>&#8594; [Possibilités](Selection_cascade_A2_ass_Facility_Manager.pdf) ![](pdf.png) envisageables
 * (6) Varia
 	* [Presentatie S2](presentatieS2september2020.pdf) ![](pdf.png) voor de nieuwe minister
-	* Nouveau véhicule E6
 	* Chantal LUYTEN : fin de contrat (Cf. [PV Staff](https://newdevprojects.github.io/S2/Staff_20200903/20200903_Staff_PV.html#chantal))
 	* Maria VAN ESSCHE : sera [pensionnée](Demande_pension_MVan-Essche.pdf) ![](pdf.png) le 01.05.2021 (statutaire - aura 61 ans)
 	* Annick NEUCKERMANS : sera [pensionnée](Demande_pension_ANeuckermans.pdf) ![](pdf.png) le 01.09.2021 (statutaire - aura 61 ans)
 	* Yvonne KALINDA entre en service le 01.10.2020
+	* Nouveau véhicule E6
 	* Bilans d'étape
 		* Crise sanitaire - liste des <mark>exclusions</mark> ![](pdf.png)<sup>&nbsp;(à venir)</sup>
 		* [Gestion des 06A](Note_000501_Bilan_06A_01-03_15-09.pdf) ![](pdf.png) - Bilan de la période du 01.03.2020 au 15.09.2020
