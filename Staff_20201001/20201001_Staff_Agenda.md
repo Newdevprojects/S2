@@ -27,11 +27,12 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* Briefing DC 06.10.2020
 * (3) [Réponse à la QP n° 568](QP_568_Freilich.pdf) ![](pdf.png) (Affectation première tranche provision corona)
 * (4) Structure du [budget](Structure_budget.pdf) ![](pdf.png)
-* (5) Perspectives RH
+* (5) [Aankoopaanvraag](Aankoopaanvraag_ondersteuning_competentiedatabank.pdf) ![](pdf.png) ondersteuning competentiedatabank
+* (6) Perspectives RH
 	* Candidature spontanée *Rosetta* : interview positive de [Loïc Nicaise](20200918_interview_Loic_Nicaise.pdf) ![](pdf.png) le 18.09.2020 
 	* Julie DELVIGNE, (démission) n'est plus en service depuis le 20.09.2020<br>&#8594; [Remplacement poste pour poste](Remplacement_Julie_Delvigne.pdf) ![](pdf.png) *Rosetta*/Accueil possible
 	* &Eacute;chec de la sélection A2 Facility Manager adjoint &#8592; Cf. Debriefing DC (ADM) 22.09.2020<br>&#8594; [Possibilités](Selection_cascade_A2_ass_Facility_Manager.pdf) ![](pdf.png) envisageables
-* (6) Varia
+* (7) Varia
 	* [Presentatie S2](presentatieS2september2020.pdf) ![](pdf.png) voor de nieuwe minister
 	* Chantal LUYTEN : fin de contrat (Cf. [PV Staff](https://newdevprojects.github.io/S2/Staff_20200903/20200903_Staff_PV.html#chantal))
 	* Maria VAN ESSCHE : sera [pensionnée](Demande_pension_MVan-Essche.pdf) ![](pdf.png) le 01.05.2021 (statutaire - aura 61 ans)
