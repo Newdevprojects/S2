@@ -38,7 +38,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* Maria VAN ESSCHE : sera [pensionnée](Demande_pension_MVan-Essche.pdf) ![](pdf.png) le 01.05.2021 (statutaire - aura 61 ans)
 	* Annick NEUCKERMANS : sera [pensionnée](Demande_pension_ANeuckermans.pdf) ![](pdf.png) le 01.09.2021 (statutaire - aura 61 ans)
 	* Yvonne KALINDA entre en service le 01.10.2020
-	* Inventarisbeheer automatiseren - [antwoord Fedcom](Inventarisbeheer_automatiseren.pdf)![](pdf.png)
+	* Inventarisbeheer automatiseren - [antwoord Fedcom](Inventarisbeheer_automatiseren.pdf) ![](pdf.png)
 	* Nouveau véhicule E6
 	* Bilans d'étape
 		* Crise sanitaire - liste des <mark>exclusions</mark> ![](pdf.png)<sup>&nbsp;(à venir)</sup>
