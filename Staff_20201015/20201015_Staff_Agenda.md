@@ -4,6 +4,8 @@
 <u><b>NB:</b></u>  
 Les PDF ont été transmis en pièces jointes avec la communication de l'ordre du jour.  
 
+<u><b>NB:</b></u> Les renvois aux points devenus récemment opérationnels dans les *ToDo's* se font par les signes <font color="crimson" size="3px">&#10173;&#9998;</font>
+
 &nbsp;
 
 &nbsp;
@@ -41,10 +43,10 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
-| EWOW | Mathias | récurrent | &Eacute;tat des lieux &#8592;&#8594; Phases 2,3,4 ?<br>réunion avec le Cabinet Geens le 28.09 |
+| EWOW | Mathias | récurrent | &Eacute;tat des lieux &#8592;&#8594; Phases 2,3,4 ? |
 | RGPD | Yassine | récurrent | &Eacute;tat des lieux |
 | Gestion des archives | Mathias | récurrent | &Eacute;tat des lieux |
+| &nbsp; | Mathias | <font color="crimson" size="3px">&#10173;&#9998;</font><br>dès que possible | retroplanning &#8592;fin de bail NG (fin 2024) |
 | Kritische processen | Peter | récurrent | &Eacute;tat des lieux |
-| Point | Qui ? | Quand ? | Suivi |
-| --- | :---: | --- | --- | --- |
-| Restaurant NG<br>Quid Sodexo? | RMass | &nbsp; | Réouverture a eu lieu le 07.09<br>Quid exploitation restaurant après fin contrat Sodexo ? |
+| Restaurant NG<br>Quid Sodexo? | RMass | &nbsp; | Quid exploitation après fin contrat Sodexo ?<br>réunion prévue le 15.10 (Dirk, Mathias) |
+
