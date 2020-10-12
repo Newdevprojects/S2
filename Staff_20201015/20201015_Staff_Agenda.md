@@ -32,6 +32,8 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* Loïc NICAISE (*Rosetta*) entrera en service le 03.11
 	* Ronny DEBBAUT prolonge son interruption de carrière (&#8594; 30.11.2021) 
 	* Onthaalmedewerkers NL (*Rosetta*) - Publication Selor le 14.10
+	* Bibliothèque (ex-Fonds Quetelet)
+	* GSM des personnels détachés (Cabinets)
 
 <a name="todo"> </a>
 
