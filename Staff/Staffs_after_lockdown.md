@@ -7,16 +7,19 @@
 
 ### 2020
 
-* 10.12.2020
-* 26.11.2020
-* 10.11.2020
-* 15.10.2020
-* [01.10.2020](https://newdevprojects.github.io/S2/Staff_20201001/20201001_Staff_Agenda.html) `(la réunion du 17.09 a été annulée)`
-* [03.09.2020](https://newdevprojects.github.io/S2/Staff_20200903/20200903_Staff_Agenda.html)
-* [10.07.2020](https://newdevprojects.github.io/S2/Staff_20200710/20200710_Staff_Agenda.html)
-* [24.06.2020](https://newdevprojects.github.io/S2/Staff_20200618/20200618_Staff_Agenda.html) <font color="crimson"><b>Skype</b></font> `(réunion planifiée pour le 18.06)`
-* [04.06.2020](https://newdevprojects.github.io/S2/Staff_20200604/20200604_Staff_Agenda.html) <font color="crimson"><b>Skype</b></font>
-* [20.05.2020](https://newdevprojects.github.io/S2/Staff_20200520/20200520_Staff_Agenda.html) <font color="crimson"><b>Skype</b></font>
-* [11.05.2020](https://newdevprojects.github.io/S2/Staff_20200511/20200511_Staff_Agenda.html) <font color="crimson"><b>Skype</b></font> `(réunion planifiée pour le 03.05)`
-* [16.04.2020](https://newdevprojects.github.io/S2/Staff_20200511/20200416_Staff_PV.pdf) <font color="crimson"><b>Skype</b></font>
+| &nbsp; | ordre du jour<br>documents | procès-verbal | &nbsp; |
+| --- | --- | --- | --- |
+| 10.12.2020 | &nbsp; | &nbsp; | &nbsp; |
+| 26.11.2020 | &nbsp; | &nbsp; | &nbsp; |
+| 10.11.2020 | &nbsp; | &nbsp; | &nbsp; |
+| 15.10.2020 | x | &nbsp; | Salle 7/A13 |
+| 01.10.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20201001/20201001_Staff_Agenda.html) | [PV]() | Salle 4/A19 |
+| 17.09.2020 | [Agenda]() | &nbsp; | réunion annulée |
+| 03.09.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20200903/20200903_Staff_Agenda.html) | [PV]() | Salle 4/A19 |
+| 10.07.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20200710/20200710_Staff_Agenda.html) | [PV]() | 8ème étage |
+| 24.06.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20200618/20200618_Staff_Agenda.html) | [PV]() | *Skype* |
+| 04.06.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20200604/20200604_Staff_Agenda.html) | [PV]() | *Skype* |
+| 20.05.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20200520/20200520_Staff_Agenda.html) | [PV]() | *Skype* |
+| 11.05.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20200511/20200511_Staff_Agenda.html) | [PV]() | *Skype* |
+| 16.04.2020 | &nbsp; | [PV](https://newdevprojects.github.io/S2/Staff_20200511/20200416_Staff_Agenda.html) | *Skype* |
 
