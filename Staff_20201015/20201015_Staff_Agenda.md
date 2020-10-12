@@ -24,12 +24,13 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20201006_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201006_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20201006_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201006_Them_NL.pdf)
 	* Briefing DC 20.10.2020
-* (3) Permanences du Mailroom (E8) - celles-ci ne sont assurées que les mardis et jeudis
-* (4) Perspectives RH
+* (3) <mark>Dossiers de subvention</mark> ![](pdf.png)<sup>&nbsp;(à venir)</sup> nécessitant encore signatures d'arrêtés royaux en 2020
+* (4) Permanences du Mailroom (E8) - celles-ci ne sont assurées que les mardis et jeudis
+* (5) Perspectives RH
 	* Debriefing Bilatérale S1-S2 02.10.2020
 	* Directiepremie Andy NUNES - [voorstel](Primes_direction_S26.pdf) ![](pdf.png)
 	* Demande de Vanessa Folo - effectuer son [stage d'études](Stage_EPHEC_Vanessa_Folo.pdf) ![](pdf.png) au Service Financier
-* (5) Varia
+* (6) Varia
 	* Lucienne BERVAES sera pensionnée le 01.09.2021 (66 ans)
 	* Loïc NICAISE (*Rosetta*) entrera en service le 03.11
 	* Ronny DEBBAUT prolonge son interruption de carrière (&#8594; 30.11.2021) 
