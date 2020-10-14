@@ -31,6 +31,9 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* Debriefing Bilatérale S1-S2 02.10.2020
 	* Directiepremie Andy NUNES - [voorstel](Primes_direction_S26.pdf) ![](pdf.png)
 	* Demande de Vanessa Folo - effectuer son [stage d'études](Stage_EPHEC_Vanessa_Folo.pdf) ![](pdf.png) au Service Financier
+	* *Talent Exchange* de Saïd BELLAJI
+		* fin au 31.10.2020
+		* demande de [mise à disposition de trois mois](Tijdelijke_terbeschikkingstelling_SBellaji.pdf) ![](pdf.png) (&#8594; 31.01.2021)
 * (6) Varia
 	* Lucienne BERVAES sera pensionnée le 01.09.2021 (66 ans)
 	* Loïc NICAISE (*Rosetta*) entrera en service le 03.11
@@ -38,6 +41,8 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* Onthaalmedewerkers NL (*Rosetta*) - Publication Selor le 14.10
 	* Bibliothèque (ex-Fonds Quetelet)
 	* GSM des personnels détachés (Cabinets)
+	* Bilans d'étape :
+		* [Signalements de maladie](Monitoring_Ziektemelding_S2_20201014.pdf) ![](pdf.png) - point au 14.10.2020
 
 <a name="todo"> </a>
 
