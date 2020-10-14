@@ -20,7 +20,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* [PV Staff 01.10.2020](https://newdevprojects.github.io/S2/Staff_20201001/20201001_Staff_PV.html)
 	* [To Do's](#todo) en terugkerende dossiers
 * (2) DC 
-	* Debriefing DC 06.10.2020
+	* Debriefing DC 07.10.2020
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20201006_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201006_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20201006_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201006_Them_NL.pdf)
 	* Briefing DC 20.10.2020
