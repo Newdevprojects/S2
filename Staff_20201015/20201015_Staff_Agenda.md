@@ -24,7 +24,8 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20201006_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201006_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20201006_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201006_Them_NL.pdf)
 	* Briefing DC 20.10.2020
-* (3) <mark>Dossiers de subvention</mark> ![](pdf.png)<sup>&nbsp;(à venir)</sup> nécessitant encore signatures d'arrêtés royaux en 2020
+* (3) [Dossiers de subvention](20201013_situation_dossiers_AR_subventions.pdf) ![](pdf.png) nécessitant encore signatures d'arrêtés royaux en 2020
+	* [Présentation](Commentaires_Dossiers_subventions.md.md) et commentaires
 * (4) Permanences du Mailroom (E8) - celles-ci ne sont assurées que les mardis et jeudis
 * (5) Perspectives RH
 	* Debriefing Bilatérale S1-S2 02.10.2020

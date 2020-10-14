@@ -133,8 +133,6 @@ table {
 	font-size: 1.2em;
 	color:#333333;
     border: 3px #b9c9fe solid;
-    table-layout: fixed;
-    width: 650px;
 }
 table th {
 	border-width: 1px;
