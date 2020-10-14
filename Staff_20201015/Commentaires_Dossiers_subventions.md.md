@@ -3,7 +3,7 @@
 
 ## Commentaires (Dossiers subventions - AR non signés)
 
-#### Denis Mailleux
+#### Denis Mailleux (13.10.2020 16:40)
 
 Veuillez trouver ci-joint le fichier avec la situation des arrêtés royaux de subvention.
  
@@ -17,16 +17,16 @@ Pour les AR encore à faire pour lesquels on a déjà assez de crédits (dossier
 Attention que le dossier ITER F4E doit être payé pour le 31/10/2020 et que 3 AR ne nous sont pas revenus du cabinet Marghem. Nous ne savons donc pas si ils ont été signés.  
 Attention aussi que pour les subventions facultatives d’E5, on n’a engagé que 45.100€ sur les 216.000 prévus pour 2020. Le nouveau Ministre (Clarinval), n’étant plus lié par la prudence budgétaire, sera sans doute tenté de lancer divers arrêtés royaux d’ici la fin de l’année.
 
-#### Edward
+#### Edward (13.10.2020 16:57)
 
 En effet, le nombre [44] est important et s’explique par les crédits provisoires.
 
 [Le tableau sera un bon document de monitoring également pour le service juridique], surtout pour l’énergie, il nous faudrait assez rapidement le nom de la personne qui suivra ces dossiers au cabinet ainsi que la procédure (maintien de celle d’application avec nos anciens ministres serait une bonne chose).
 
-#### RMass
+#### RMass (13.10.2020 17:51)
 
 Et alors <b>si possible faire un retro-planning</b> en tenant compte que certains AR devront être signés par plusieurs ministres / secr. d’&Eacute;tat, que la dernière tranche du budget 2020 n’a pas été votée et que la période Noël/Nouvel An pose toujours des problèmes …
 
-#### Edward
+#### Edward (13.10.2020 20:41)
 
 &Ccedil;a ira avec la possibilité d'engager les crédits sous réserve de signature de l'AR. C'était surtout les passages en conseil des ministres qui retardaient tout.
