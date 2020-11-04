@@ -1,9 +1,6 @@
 <link rel="stylesheet" href="https://newdevprojects.github.io/S2/S2.css">
 <link rel="stylesheet" href="S2.css">
 
-<u><b>NB:</b></u>  
-Les PDF ont été transmis en pièces jointes avec la communication de l'ordre du jour.  
-
 &nbsp;
 
 &nbsp;
@@ -22,11 +19,20 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20201020_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201020_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20201020_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201020_Them_NL.pdf)
 	* Briefing DC 17.11.2020
-* (3) x
+* (3) Perspectives RH
+	* Plan de personnel 2019
+		* Table (état au 03.11.2020)
+		* *QuickWin* (démission de Julie Delvigne)<br>Loïc NICAISE (Rosetta), interviewé le 16.09, est entré en service le 03.11
+	* Plan de personnel 2020
+		* Table (état au 03.11.2020)
+		* *QuickWin Selor* - EFS20294 - Expert administratif<br>Entretiens prévus pour S2 et E8 les 19.11, 20.11, 23.11, 27.11, 30.11 et 02.12
 * (4) Varia
 	* Affectation de [Margareta (Greet) JACOBS](20201023_Mail_MJacobs.md)
+	* Bilinguisme des évaluateurs
+		* appel aux inscriptions aux formations lancé le 03.11
+		* deadline pour S1 : <b>18.11</b>
 	* Bilans d'étape :
-		* x
+		* [Heures supplémentaires](Note_00563_Bilan_06A_16-09_02-11.pdf) ![](pdf.png) du 16.09 au 02.11
 
 <a name="todo"> </a>
 
