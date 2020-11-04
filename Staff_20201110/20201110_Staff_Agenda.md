@@ -24,7 +24,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* Briefing DC 17.11.2020
 * (3) x
 * (4) Varia
-	* Affectation de [Margareta (Greet) JACOBS](Staff_20201110\20201023_Mail_MJacobs.md)
+	* Affectation de [Margareta (Greet) JACOBS](20201023_Mail_MJacobs.md)
 	* Bilans d'étape :
 		* x
 
