@@ -12,7 +12,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 | :--- |
 | [https://newdevprojects.github.io/S2/Staff_20201110/20201110_Staff_Agenda.html](https://newdevprojects.github.io/S2/Staff_20201110/20201110_Staff_Agenda.html) | 
 
-# Staff 20201015 - Agenda
+# Staff 20201110 - Agenda
 
 * (1) Opvolging vorige stafvergaderingen:
 	* [PV Staff 15.10.2020](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_PV.html)
@@ -24,7 +24,7 @@ Les PDF ont été transmis en pièces jointes avec la communication de l'ordre d
 	* Briefing DC 17.11.2020
 * (3) x
 * (4) Varia
-	* x
+	* Affectation de [Margareta (Greet) JACOBS](Staff_20201110\20201023_Mail_MJacobs.md)
 	* Bilans d'étape :
 		* x
 
