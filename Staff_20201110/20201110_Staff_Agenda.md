@@ -21,11 +21,14 @@
 	* Briefing DC 18.11.2020
 * (3) Perspectives RH
 	* Plan de personnel 2019
-		* Table (état au 03.11.2020)
+		* [Table]() ![](pdf.png) (état au 03.11.2020)
 		* *QuickWin* (démission de Julie Delvigne)<br>Loïc NICAISE (Rosetta), interviewé le 16.09, est entré en service le 03.11
+		* Interviews Rosetta Onthaal (Mathias)<br>Entretiens prévus les 16.11, 17.11, 18.11, 23.11, 25.11 et 27.11 
 	* Plan de personnel 2020
-		* Table (état au 03.11.2020)
-		* *QuickWin Selor* - EFS20294 - Expert administratif<br>Entretiens prévus pour S2 et E8 les 19.11, 20.11, 23.11, 27.11, 30.11 et 02.12
+		* [Table]() ![](pdf.png) (état au 03.11.2020)
+		* *QuickWin Selor* - ENS20207 - Administratief ondersteuner<br>Entretiens prévus pour S2 (Mathias), T, E3, E6 et E8 à partir de la semaine du 02.11
+		* *QuickWin Selor* - EFS20294 - Expert administratif<br>Entretiens prévus pour S2 (Robert) et E8 les 19.11, 20.11, 23.11, 27.11, 30.11 et 02.12
+		* *QuickWin Selor* - ENS20211 - Financieel en boekhoudkundige ondersteuner<br>Entretiens prévus pour S2 (Peter), E2 et E5 vers la fin novembre
 * (4) Varia
 	* Affectation de [Margareta (Greet) JACOBS](20201023_Mail_MJacobs.md)
 	* Bilinguisme des évaluateurs
