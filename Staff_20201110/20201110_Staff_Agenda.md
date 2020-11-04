@@ -18,7 +18,7 @@
 	* Debriefing DC 20.10.2020
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20201020_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201020_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20201020_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201020_Them_NL.pdf)
-	* Briefing DC 17.11.2020
+	* Briefing DC 18.11.2020
 * (3) Perspectives RH
 	* Plan de personnel 2019
 		* Table (état au 03.11.2020)
@@ -33,7 +33,7 @@
 		* deadline pour S1 : <b>18.11</b>
 	* Bilans d'étape :
 		* [Heures supplémentaires](Note_00563_Bilan_06A_16-09_02-11.pdf) ![](pdf.png) du 16.09 au 02.11
-		* formations [*ecademy for groups*](ecademy_for_groups_20201001_20201031.pdf) ![](pdf.png) - période du 01.09.2020 au 31.10.2020
+		* formations [*ecademy for groups*](ecademy_for_groups_20201001_20201031.pdf) ![](pdf.png) - période du 01.10.2020 au 31.10.2020
 
 <a name="todo"> </a>
 
