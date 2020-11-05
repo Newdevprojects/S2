@@ -21,14 +21,14 @@
 	* Briefing DC 18.11.2020
 * (3) Perspectives RH
 	* Plan de personnel 2019
-		* [Table](TablePlansPersonnel_2019-20.pdf) ![](pdf.png) (état au 03.11.2020)
+		* [Table](TablePlansPersonnel_2019-20.pdf) ![](pdf.png) (état au 04.11.2020)
 		* *QuickWin* (démission de Julie Delvigne)<br>Loïc NICAISE (Rosetta), interviewé le 16.09, est entré en service le 03.11
 		* Interviews Rosetta Onthaal (Mathias)<br>Entretiens prévus les 16.11, 17.11, 18.11, 23.11, 25.11 et 27.11 
 		* *QuickWin Selor* - EFS20294 - Expert administratif<br>Entretiens prévus pour S2 (Robert) et E8 les 19.11, 20.11, 23.11, 27.11, 30.11 et 02.12
 		* *QuickWin Selor* - ENS20207 - Administratief ondersteuner<br>Entretiens prévus pour S2 (Mathias), T, E3, E6 et E8 à partir de la semaine du 02.11
 
 	* Plan de personnel 2020 (exécution à partir de novembre 2020)
-		* [Table](TablePlansPersonnel_2020-21.pdf) ![](pdf.png) (état au 03.11.2020)
+		* [Table](TablePlansPersonnel_2020-21.pdf) ![](pdf.png) (état au 04.11.2020)
 		* *QuickWin Selor* - ENS20211 - Financieel en boekhoudkundige ondersteuner<br>Entretiens prévus pour S2 (Peter), E2 et E5 vers la fin novembre
 * (4) Varia
 	* Affectation de [Margareta (Greet) JACOBS](20201023_Mail_MJacobs.md)
@@ -43,6 +43,8 @@
 
 ## ToDo Items
 
+## &#9830; Récurrents
+
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
 | EWOW | Mathias | récurrent | &Eacute;tat des lieux &#8592;&#8594; Phases 2,3,4 ? |
@@ -50,5 +52,19 @@
 | Gestion des archives | Mathias | récurrent | &Eacute;tat des lieux |
 | &nbsp; | Mathias | dès que possible | retroplanning &#8592;fin de bail NG (fin 2024) |
 | Kritische processen | Peter | récurrent | &Eacute;tat des lieux |
-| Restaurant NG<br>Quid Sodexo? | RMass | &nbsp; | Quid exploitation après fin contrat Sodexo ?<br>réunion prévue le 15.10 (Dirk, Mathias) |
+| Restaurant NG<br>Quid Sodexo? | RMass | &nbsp; | Suite de la réflexion sur l'avenir (Dirk, Mathias) |
+
+## &#9830; Nouveaux (après le Staff du 15.10.2020)
+
+| Point | Qui ? | Quand ? | Suivi |
+| --- | :---: | --- | --- | --- |
+| Dossiers de subventions | Edward | &#8594;fin 2020 | s'assurer que tous les AR seront signés |
+| Recrutements | Robert | ab 10.11 | &Eacute;tablir un tableau de suivi d'exécution des plans de personnel<br>(<font color="crimson">&#8594; Cf. Pt <b>(3)</b> agenda)</font> |
+| Abonnements journaux | Dirk | &nbsp; | voir Pt (6) du [PV du Staff du 15.10.2020](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_PV.html#6-varia) |
+
+## &#9830; &Agrave; MT (fin 2020/début 2021)
+
+| Point | Qui ? | Quand ? | Suivi |
+| --- | :---: | --- | --- | --- |
+| Accessions &#8594; A, B, C | Robert | fin 2020/début 2021 | voir Pt (5) du [PV du Staff du 15.10.2020](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_PV.html#5-perspectives-rh) |
 
