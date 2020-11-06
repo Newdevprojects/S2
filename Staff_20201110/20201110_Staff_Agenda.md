@@ -20,9 +20,9 @@
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20201020_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201020_Them_NL.pdf)
 	* Briefing DC 18.11.2020
 * (3) Kilometercontingent S2 voor 2021
-	* [instructions](Kilometercontingent_2021.pdf) ![](pdf.png) (Cf. e-mail 05.11 16h08)
+	* [instructies](Kilometercontingent_2021.pdf) ![](pdf.png) (Cf. e-mail 05.11 16h08)
 	* [template](Contingent_2021_S2.xlsx) ![](excel.png)
-	* deadline pour Veronique Arijs : <b>06.12</b>
+	* deadline voor Veronique Arijs: <b>06.12</b>
 * (4) Perspectives RH
 	* Plan de personnel 2019
 		* [Table](TablePlansPersonnel_2019-20.pdf) ![](pdf.png) (état au 04.11.2020)
