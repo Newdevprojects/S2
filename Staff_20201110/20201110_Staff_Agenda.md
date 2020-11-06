@@ -19,7 +19,11 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20201020_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201020_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20201020_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201020_Them_NL.pdf)
 	* Briefing DC 18.11.2020
-* (3) Perspectives RH
+* (3) Kilometercontingent S2 voor 2021
+	* [instructions](Kilometercontingent_2021.pdf) ![](pdf.png) (Cf. e-mail 05.11 16h08)
+	* [template](Contingent_2021_S2.xlsx) ![](excel.png)
+	* deadline pour Veronique Arijs : <b>06.12</b>
+* (4) Perspectives RH
 	* Plan de personnel 2019
 		* [Table](TablePlansPersonnel_2019-20.pdf) ![](pdf.png) (état au 04.11.2020)
 		* *QuickWin* (démission de Julie Delvigne)<br>Loïc NICAISE (Rosetta), interviewé le 16.09, est entré en service le 03.11
@@ -34,7 +38,7 @@
 	* Affectation de [Margareta (Greet) JACOBS](20201023_Mail_MJacobs.md)
 	* Bilinguisme des évaluateurs
 		* appel aux inscriptions aux formations lancé le 03.11
-		* deadline pour S1 : <b>18.11</b>
+		* deadline pour communication à S1 : <b>18.11</b>
 	* Bilans d'étape :
 		* [Heures supplémentaires](Note_00563_Bilan_06A_16-09_02-11.pdf) ![](pdf.png) du 16.09 au 02.11
 		* formations [*ecademy for groups*](ecademy_for_groups_20201001_20201031.pdf) ![](pdf.png) - période du 01.10.2020 au 31.10.2020
@@ -59,7 +63,7 @@
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
 | Dossiers de subventions | Edward | &#8594;fin 2020 | s'assurer que tous les AR seront signés |
-| Recrutements | Robert | ab 10.11 | &Eacute;tablir un tableau de suivi d'exécution des plans de personnel<br>(<font color="crimson">&#8594; Cf. Pt <b>(3)</b> agenda)</font> |
+| Recrutements | Robert | ab 10.11 | &Eacute;tablir un tableau de suivi d'exécution des plans de personnel<br>(<font color="crimson">&#8594; Cf. Pt <b>(4)</b> agenda)</font> |
 | Abonnements journaux | Dirk | &nbsp; | voir Pt (6) du [PV du Staff du 15.10.2020](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_PV.html#6-varia) |
 
 ## &#9830; &Agrave; MT (fin 2020/début 2021)
