@@ -34,7 +34,7 @@
 	* Plan de personnel 2020 (exécution à partir de novembre 2020)
 		* [Table](TablePlansPersonnel_2020-21.pdf) ![](pdf.png) (état au 04.11.2020)
 		* *QuickWin Selor* - ENS20211 - Financieel en boekhoudkundige ondersteuner<br>Entretiens prévus pour S2 (Peter), E2 et E5 vers la fin novembre
-* (4) Varia
+* (5) Varia
 	* Affectation de [Margareta (Greet) JACOBS](20201023_Mail_MJacobs.md)
 	* Bilinguisme des évaluateurs
 		* appel aux inscriptions aux formations lancé le 03.11
