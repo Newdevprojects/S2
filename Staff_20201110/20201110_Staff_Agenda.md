@@ -34,7 +34,14 @@
 	* Plan de personnel 2020 (exécution à partir de novembre 2020)
 		* [Table](TablePlansPersonnel_2020-21.pdf) ![](pdf.png) (état au 04.11.2020)
 		* *QuickWin Selor* - ENS20211 - Financieel en boekhoudkundige ondersteuner<br>Entretiens prévus pour S2 (Peter), E2 et E5 vers la fin novembre
-* (5) Varia
+* (5) *Covid-19* aanpassingen
+	* opschorsing Medex-controles
+		* [vraag van S1](20201106_Mail_HR-Netwerk.md) (lijst van medewerkers van DG/S die zich naar de werkplaats dienen te begeven)
+		* deadline: <b>12.11</b>
+	* aanbod restaurant NGII
+		* [voorstel](20201106_Keuken_Covid.pdf) ![](pdf.png) (Cf. e-mail 06.11 15h24)
+		* deadline: <b>16.11</b> 
+* (6) Varia
 	* Affectation de [Margareta (Greet) JACOBS](20201023_Mail_MJacobs.md)
 	* Bilinguisme des évaluateurs
 		* appel aux inscriptions aux formations lancé le 03.11
