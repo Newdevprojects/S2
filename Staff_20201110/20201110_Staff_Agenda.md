@@ -77,5 +77,5 @@
 
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
-| Accessions<br>&#8594; A, B, C | Robert | fin 2020/début 2021 | voir Pt (5) [PV Staff 15.10.2020](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_PV.html#5-perspectives-rh) |
+| Accessions &#8594; A, B, C | Robert | fin 2020/début 2021 | voir Pt (5) [PV Staff 15.10.2020](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_PV.html#5-perspectives-rh) |
 
