@@ -71,11 +71,11 @@
 | --- | :---: | --- | --- | --- |
 | Dossiers de subventions | Edward | &#8594;fin 2020 | s'assurer que tous les AR seront signés |
 | Recrutements | Robert | ab 10.11 | &Eacute;tablir un tableau de suivi d'exécution des plans de personnel<br>(<font color="crimson">&#8594; Cf. Pt <b>(4)</b> agenda)</font> |
-| Abonnements journaux | Dirk | &nbsp; | voir Pt (6) du [PV du Staff du 15.10.2020](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_PV.html#6-varia) |
+| Abonnements journaux | Dirk | &nbsp; | voir Pt (6) [PV Staff 15.10.2020](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_PV.html#6-varia) |
 
 ## &#9830; &Agrave; MT (fin 2020/début 2021)
 
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
-| Accessions &#8594; A, B, C | Robert | fin 2020/début 2021 | voir Pt (5) du [PV du Staff du 15.10.2020](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_PV.html#5-perspectives-rh) |
+| Accessions<br>&#8594; A, B, C | Robert | fin 2020/début 2021 | voir Pt (5) [PV Staff 15.10.2020](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_PV.html#5-perspectives-rh) |
 
