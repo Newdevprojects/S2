@@ -133,6 +133,7 @@ table {
 	font-size: 1.2em;
 	color:#333333;
     border: 3px #b9c9fe solid;
+    max-width: 90%;
 }
 table th {
 	border-width: 1px;
@@ -147,6 +148,11 @@ table td {
 	border-style: solid;
 	border-color: #666666;
     background-color: #ffffff;
+    min-width: 150px;
+}
+
+tr td:nth-child(1) {
+    background-color: #e3e3e3;
 }
 
 ul {
