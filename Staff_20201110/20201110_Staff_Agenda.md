@@ -53,6 +53,7 @@
 	* Bilans d'étape :
 		* [Heures supplémentaires](Note_00563_Bilan_06A_16-09_02-11.pdf) ![](pdf.png) du 16.09 au 02.11
 		* formations [*ecademy for groups*](ecademy_for_groups_20201001_20201031.pdf) ![](pdf.png) - période du 01.10.2020 au 31.10.2020
+		* Où retrouver tous les documents des Staffs S2 (après migration) ?<br>[https://gcloudbelgium.sharepoint.com/sites/FSECO-support/StaffS2/SitePages/Acces_2020.aspx](https://gcloudbelgium.sharepoint.com/sites/FSECO-support/StaffS2/SitePages/Acces_2020.aspx)
 
 <a name="todo"> </a>
 
