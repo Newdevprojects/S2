@@ -34,54 +34,58 @@ Het nieuwe project zal niet alleen zijn voor de inventaris van ICT (HP open view
 
 <div style="color: crimson">
 
-Dag Hugo,
+<p>Dag Hugo,</p>
 
-Het is inderdaad zo dat de vast actief module in fedcom niet al die karakteristieken kan opnemen.
+<p>Het is inderdaad zo dat de vast actief module in fedcom niet al die karakteristieken kan opnemen.</p>
 
-Ik bezorg inderdaad naar aanleiding van de jaarlijkse inventarisatieoefening al een lijst met al het wetenschappelijk materiaal dat momenteel in bezit is van de FOD volgens de VA-fiches in Fedcom. Als we op die manier blijven verder werken blijft de afstemming gevoelig voor manuele invoerfouten en is er periodiek ook veel afstemmingswerk nodig ter hoogte van E6 en S2. 
+<p>Ik bezorg inderdaad naar aanleiding van de jaarlijkse inventarisatieoefening al een lijst met al het wetenschappelijk materiaal dat momenteel in bezit is van de FOD volgens de VA-fiches in Fedcom. Als we op die manier blijven verder werken blijft de afstemming gevoelig voor manuele invoerfouten en is er periodiek ook veel afstemmingswerk nodig ter hoogte van E6 en S2. </p>
 
-Het is goed om te horen dat jij aangeeft dat jullie ook in jullie gepersonaliseerde database het vast actiefnummer van Fedcom opnemen. Op die manier is er mogelijk op geautomatiseerde wijze een aansluiting te maken tussen de boekhoudkundige en fysieke inventaris. Volgens het functioneel team van Fedcom is het perfect mogelijk een interface te maken op basis van protocollen met XML-bestanden. De voorwaarde is dat er in jullie database een vastactiefnummer wordt aangehouden en dat het vanuit jullie database mogelijk is om views of rapporten te exporteren. Deze bestanden zullen dan periodiek op een gedeelde server geplaatst moeten worden en opgeladen naar de vastactiefmodule in Fedcom. Op die manier kunnen jullie inventarisnummers geactualiseerd worden in fedcom en is er een juistere link tussen de vast activa in de boekhouding en jullie inventarissysteem. De database van E6 kan dan perfect de referentie blijven voor het fysieke inventarisbeheer van wetenschappelijk materiaal.
+<p>Het is goed om te horen dat jij aangeeft dat jullie ook in jullie gepersonaliseerde database het vast actiefnummer van Fedcom opnemen. Op die manier is er mogelijk op geautomatiseerde wijze een aansluiting te maken tussen de boekhoudkundige en fysieke inventaris. Volgens het functioneel team van Fedcom is het perfect mogelijk een interface te maken op basis van protocollen met XML-bestanden. De voorwaarde is dat er in jullie database een vastactiefnummer wordt aangehouden en dat het vanuit jullie database mogelijk is om views of rapporten te exporteren. Deze bestanden zullen dan periodiek op een gedeelde server geplaatst moeten worden en opgeladen naar de vastactiefmodule in Fedcom. Op die manier kunnen jullie inventarisnummers geactualiseerd worden in fedcom en is er een juistere link tussen de vast activa in de boekhouding en jullie inventarissysteem. De database van E6 kan dan perfect de referentie blijven voor het fysieke inventarisbeheer van wetenschappelijk materiaal.</p>
 
-Ik stel voor onderstaande voorstel verder uit te werken, in principe zijn de ICT-middelen die hier voor nodig zijn beperkt ( het vergt geen aankoop of creatie van nieuwe software of dergelijke).
+<p>Ik stel voor onderstaande voorstel verder uit te werken, in principe zijn de ICT-middelen die hier voor nodig zijn beperkt ( het vergt geen aankoop of creatie van nieuwe software of dergelijke).</p>
 
-Ook voor de mensen van ICT is een dergelijke oplossing haalbaar, er moeten nog concrete afspreken gemaakt worden met Fedcom.
+<p>Ook voor de mensen van ICT is een dergelijke oplossing haalbaar, er moeten nog concrete afspreken gemaakt worden met Fedcom.</p>
 
-Ik zou wel graag in de nabije toekomst contact met jullie opnemen om met iemand van ICT te bekijken welke exportbestanden er gegenereerd kunnen worden vanuit jullie database, ok voor jullie?
+<p>Ik zou wel graag in de nabije toekomst contact met jullie opnemen om met iemand van ICT te bekijken welke exportbestanden er gegenereerd kunnen worden vanuit jullie database, ok voor jullie?</p>
 
-Mvg,
+<p>Mvg,</p>
 
-Peter Christiaens 
-Stafdienst Budget- en beheerscontrole
-Adviseur boekhouding
+<p>Peter Christiaens <br>
+Stafdienst Budget- en beheerscontrole<br>
+Adviseur boekhouding</p>
 
----
+<hr>
 
-From: Hugo Piree (FOD Economie - SPF Economie) <Hugo.Piree@economie.fgov.be> 
-Sent: vrijdag, 23 oktober 2020 10:13
-To: Peter Christiaens (FOD Economie - SPF Economie) <Peter.Christiaens@economie.fgov.be>; Marijke Nieuwlandt (FOD Economie - SPF Economie) <Marijke.Nieuwlandt@economie.fgov.be>; Mieke Coenegrachts (FOD Economie - SPF Economie) <Mieke.Coenegrachts@economie.fgov.be>; Colette Falaise (FOD Economie - SPF Economie) <Colette.Falaise@economie.fgov.be>; Annelies Francis (FOD Economie - SPF Economie) <Annelies.Francis@economie.fgov.be>; Ann Beirens (FOD Economie - SPF Economie) <Ann.Beirens@economie.fgov.be>; Ilse Wagemans (FOD Economie - SPF Economie) <Ilse.Wagemans@economie.fgov.be>; Jean Bodi Wola (FOD Economie - SPF Economie) <Jean-Philippe.Bodiwola@economie.fgov.be>; Yassine Atmane (FOD Economie - SPF Economie) <Yassine.Atmane@economie.fgov.be>; Mathias Lenaerts (FOD Economie - SPF Economie) <Mathias.Lenaerts@economie.fgov.be>; Sylvie Rixhon (FOD Economie - SPF Economie) <Sylvie.Rixhon@economie.fgov.be>; Reginald Massant (FOD Economie - SPF Economie) <Regis.massant@economie.fgov.be>; Jean-Philippe Cornet (FOD Economie - SPF Economie) <Jean-Philippe.Cornet@economie.fgov.be>; Reginald Massant (FOD Economie - SPF Economie) <Regis.massant@economie.fgov.be>
-Subject: RE: fysieke inventarisbeheer Fedcom
+<p>>From: Hugo Piree (FOD Economie - SPF Economie) <Hugo.Piree@economie.fgov.be> <br>
+Sent: vrijdag, 23 oktober 2020 10:13<br>
+To: Peter Christiaens (FOD Economie - SPF Economie) <Peter.Christiaens@economie.fgov.be>; Marijke Nieuwlandt (FOD Economie - SPF Economie) <Marijke.Nieuwlandt@economie.fgov.be>; Mieke Coenegrachts (FOD Economie - SPF Economie) <Mieke.Coenegrachts@economie.fgov.be>; Colette Falaise (FOD Economie - SPF Economie) <Colette.Falaise@economie.fgov.be>; Annelies Francis (FOD Economie - SPF Economie) <Annelies.Francis@economie.fgov.be>; Ann Beirens (FOD Economie - SPF Economie) <Ann.Beirens@economie.fgov.be>; Ilse Wagemans (FOD Economie - SPF Economie) <Ilse.Wagemans@economie.fgov.be>; Jean Bodi Wola (FOD Economie - SPF Economie) <Jean-Philippe.Bodiwola@economie.fgov.be>; Yassine Atmane (FOD Economie - SPF Economie) <Yassine.Atmane@economie.fgov.be>; Mathias Lenaerts (FOD Economie - SPF Economie) <Mathias.Lenaerts@economie.fgov.be>; Sylvie Rixhon (FOD Economie - SPF Economie) <Sylvie.Rixhon@economie.fgov.be>; Reginald Massant (FOD Economie - SPF Economie) <Regis.massant@economie.fgov.be>; Jean-Philippe Cornet (FOD Economie - SPF Economie) <Jean-Philippe.Cornet@economie.fgov.be>; Reginald Massant (FOD Economie - SPF Economie) <Regis.massant@economie.fgov.be><br>
+Subject: RE: fysieke inventarisbeheer Fedcom</p>
 
-Dag Peter,
+<p>Dag Peter,</p>
 
-Het inventarisbeheer van ons labomateriaal gaat veel verder dan wat in Fedcom voorzien is. Dat moet voldoen aan alle eisen van de kwaliteitsnorm ISO/IEC17025 voor kalibratielaboratoria, waarbij er naast het administratieve beheer ook volgende zaken moeten beheerd worden:
--	een technische opvolging van de periodieke kalibraties van de toestellen en standaarden
--	een volledige technische levensloop (details van technische problemen, oplossingen aan die problemen, technische beschrijving van aanpassingen…)
--	automatische planning van herkalibratiedata en perioden
--	eventuele registratie van kalibratiegegevens
--	locatie van het toestel tot op lokaalnummerniveau
--	verantwoordelijke persoon voor het toestel
--	kalibratiestatus
--	in of buiten gebruik
--	gebruikt binnen het kader van de ISO/IEC17025 accreditatie en CIPM-MRA of niet
--	planning en opvolging van preventieve acties, onderhoud en dergelijke per toestel
--	en nog veel meer….
-Ons inventarisbeheer is dus heel specifiek. Daar hebben we een eigen database voor ontwikkeld die aan die noden beantwoord en die zeer gebruiksvriendelijk is. Je moet geen enkele code uit het hoofd kennen, alles wijst zichzelf uit. Fedcom is veel te log en veel e omslachtig voor onze toepassing. 
+<p>Het inventarisbeheer van ons labomateriaal gaat veel verder dan wat in Fedcom voorzien is. Dat moet voldoen aan alle eisen van de kwaliteitsnorm ISO/IEC17025 voor kalibratielaboratoria, waarbij er naast het administratieve beheer ook volgende zaken moeten beheerd worden:</p>
 
-Elk toestel of standaard dat opgenomen is in onze database heeft een eigen uniek inventarisnummer. Dat nummer is alfanumeriek zodat het nummer zelf al info in zich heeft over aan welke sectie het toestel toehoort en welk toestel of zelfs onderdeel van het toestel het is. Dat is een pluspunt voor onze toepassing. Fedcom voorziet enkel een numerieke code. Om tegemoet te komen aan Fedcom hebben we een veld toegevoegd zodat naast ons eigen inventarisnummer ook het Fedcom nummer gekoppeld wordt aan een toestel of standaard. Er kan op beide nummers gezocht worden.
+<ul>
+<li>een technische opvolging van de periodieke kalibraties van de toestellen en standaarden</li>
+<li>een volledige technische levensloop (details van technische problemen, oplossingen aan die problemen, technische beschrijving van aanpassingen…)</li>
+<li>automatische planning van herkalibratiedata en perioden</li>
+<li>eventuele registratie van kalibratiegegevens</li>
+<li>locatie van het toestel tot op lokaalnummerniveau</li>
+<li>verantwoordelijke persoon voor het toestel</li>
+<li>kalibratiestatus</li>
+<li>in of buiten gebruik</li>
+<li>gebruikt binnen het kader van de ISO/IEC17025 accreditatie en CIPM-MRA of niet</li>
+<li>planning en opvolging van preventieve acties, onderhoud en dergelijke per toestel</li>
+<li>en nog veel meer….</li>
+</ul>
 
-Zoals ik gevraagd had in het verleden zou het interessant zijn om van jullie periodiek een listing te kunnen krijgen met alles wat voor de dienst Nationale Standaarden (SMD-ENS, E63200) in Fedcom geregistreerd is. Dat is voorzien in de periodieke MIGO lijsten, maar die zijn volgens mij beperkt tot wat er de voorbije maand besteld was. Is het mogelijk om bijvoorbeeld 2 keer per jaar een volledige lijst van Fedcom-items (niet beperkt tot de voorbije maand of jaar of zo), specifiek voor mijn dienst E63200 te bezorgen zodat we ontbrekende gegevens kunnen aanvullen?
+<p>Ons inventarisbeheer is dus heel specifiek. Daar hebben we een eigen database voor ontwikkeld die aan die noden beantwoord en die zeer gebruiksvriendelijk is. Je moet geen enkele code uit het hoofd kennen, alles wijst zichzelf uit. Fedcom is veel te log en veel e omslachtig voor onze toepassing.</p>
 
-Mvg,
-Hugo
+<p>Elk toestel of standaard dat opgenomen is in onze database heeft een eigen uniek inventarisnummer. Dat nummer is alfanumeriek zodat het nummer zelf al info in zich heeft over aan welke sectie het toestel toehoort en welk toestel of zelfs onderdeel van het toestel het is. Dat is een pluspunt voor onze toepassing. Fedcom voorziet enkel een numerieke code. Om tegemoet te komen aan Fedcom hebben we een veld toegevoegd zodat naast ons eigen inventarisnummer ook het Fedcom nummer gekoppeld wordt aan een toestel of standaard. Er kan op beide nummers gezocht worden.</p>
+
+<p>Zoals ik gevraagd had in het verleden zou het interessant zijn om van jullie periodiek een listing te kunnen krijgen met alles wat voor de dienst Nationale Standaarden (SMD-ENS, E63200) in Fedcom geregistreerd is. Dat is voorzien in de periodieke MIGO lijsten, maar die zijn volgens mij beperkt tot wat er de voorbije maand besteld was. Is het mogelijk om bijvoorbeeld 2 keer per jaar een volledige lijst van Fedcom-items (niet beperkt tot de voorbije maand of jaar of zo), specifiek voor mijn dienst E63200 te bezorgen zodat we ontbrekende gegevens kunnen aanvullen?</p>
+
+<p>Mvg,<br>
+Hugo</p>
 
 </div>
