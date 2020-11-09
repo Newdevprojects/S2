@@ -42,7 +42,7 @@
 		* [voorstel](20201106_Keuken_Covid.pdf) ![](pdf.png) (Cf. e-mail 06.11 15h24)
 		* deadline: <b>16.11</b> 
 * (6) Varia
-	* [IT projecten 2021](20201106_IT_projecten.pdf) ![](pdf.png) : behoefte S2
+	* IT projecten 2021: [behoefte S2](20201106_IT_projecten.pdf) ![](pdf.png)
 		* Items [Peter](Peter_IT-projecten.md) 
 		* Item [Mathias](Mathias_IT-projecten.md)
 	* Affectation de [Margareta (Greet) JACOBS](20201023_Mail_MJacobs.md)

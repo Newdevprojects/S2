@@ -28,9 +28,11 @@ Adviseur boekhouding
 
 ## Mail (2) 26.10 Peter
 
-Het nieuwe project zal niet alleen zijn voor de inventaris van ICT (HP open view) maar slaat ook op de fysieke inventaris in de database van E6 voor het wetenschappelijk materiaal. <font color="crimson"><b>Zie mail in bijlage.</b>
+Het nieuwe project zal niet alleen zijn voor de inventaris van ICT (HP open view) maar slaat ook op de fysieke inventaris in de database van E6 voor het wetenschappelijk materiaal. <font color="crimson"><b>Zie mail in bijlage.</b></font>
 
 ---
+
+<div style="color: crimson">
 
 Dag Hugo,
 
@@ -80,4 +82,6 @@ Elk toestel of standaard dat opgenomen is in onze database heeft een eigen uniek
 Zoals ik gevraagd had in het verleden zou het interessant zijn om van jullie periodiek een listing te kunnen krijgen met alles wat voor de dienst Nationale Standaarden (SMD-ENS, E63200) in Fedcom geregistreerd is. Dat is voorzien in de periodieke MIGO lijsten, maar die zijn volgens mij beperkt tot wat er de voorbije maand besteld was. Is het mogelijk om bijvoorbeeld 2 keer per jaar een volledige lijst van Fedcom-items (niet beperkt tot de voorbije maand of jaar of zo), specifiek voor mijn dienst E63200 te bezorgen zodat we ontbrekende gegevens kunnen aanvullen?
 
 Mvg,
-Hugo</font>
+Hugo
+
+</div>
