@@ -22,6 +22,6 @@
 | 24.06.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20200618/20200618_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20200710/20200624_Staff_PV.pdf) | *Skype* |
 | 04.06.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20200604/20200604_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20200618/20200604_Staff_PV.pdf) | *Skype* |
 | 20.05.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20200520/20200520_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20200604/20200520_Staff_PV.pdf) | *Skype* |
-| 11.05.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20200511/20200511_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20200520/20200511_Staff_PV.pdf) | *Skype*<br>Cette réunion a été reportée du 3 mai au 11 mai |
+| 11.05.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20200511/20200511_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20200520/20200511_Staff_PV.pdf) | Cette réunion *Skype* a été reportée du 3 mai au 11 mai |
 | 16.04.2020 | &nbsp; | [PV](https://newdevprojects.github.io/S2/Staff_20200511/20200416_Staff_PV.pdf) | *Skype* |
 
