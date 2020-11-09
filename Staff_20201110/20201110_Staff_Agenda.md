@@ -45,7 +45,7 @@
 	* IT projecten 2021: [behoefte S2](20201106_IT_projecten.pdf) ![](pdf.png)
 		* Items [Peter](Peter_IT-projecten.md) 
 		* Item [Mathias](Mathias_IT-projecten.md)
-		* Item [Fabrice](Fabrice_IT-projecten.md)
+		* Items [Fabrice](Fabrice_IT-projecten.md)
 	* Affectation de [Margareta (Greet) JACOBS](20201023_Mail_MJacobs.md)
 	* Bilinguisme des évaluateurs
 		* appel aux inscriptions aux formations lancé le 03.11
