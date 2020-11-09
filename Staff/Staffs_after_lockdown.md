@@ -2,7 +2,7 @@
 
 <style>
 body {
-    width: 50%;
+    width: 66%;
     margin: auto;
 }
 </style>
