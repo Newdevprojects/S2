@@ -24,7 +24,7 @@
 	* Plan de personnel - état d'exécution
 		* [Table](TablePlansPersonnel_20201120.pdf) ![](pdf.png) (état au 20.11.2020)
 		* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
-	* Chantal Luyten - principiële [vraag van S1](vraag_S1_Luyten.md) van 19.11.2020
+	* Chantal Luyten - principiële [vraag van S1](Vraag_S1_Luyten.md) van 19.11.2020
 * (5) Varia
 	* Debriefing HR-Netwerk 13.11.2020
 	* Bilans d'étape :
