@@ -38,23 +38,14 @@
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
 | EWOW | Mathias | récurrent | &Eacute;tat des lieux &#8592;&#8594; Phases 2,3,4 ? |
+| &nbsp; | <font color="crimson" size="3px">&#10179;&#9998;</font> | jan. 2021 | vergaderingen Stuurgroep en Begeleidingscomité inplannen |
 | RGPD | Yassine | récurrent | &Eacute;tat des lieux |
 | Gestion des archives | Mathias | récurrent | &Eacute;tat des lieux |
 | &nbsp; | Mathias | dès que possible | retroplanning &#8592;fin de bail NG (fin 2024) |
+| &nbsp; | <font color="crimson" size="3px">&#10179;&#9998;</font> | jan. 2021 | vergadering met Rijksarchieven inplannen |
 | Kritische processen | Peter | récurrent | &Eacute;tat des lieux |
 | Restaurant NG<br>Quid Sodexo? | RMass | &nbsp; | Suite de la réflexion sur l'avenir (Dirk, Mathias) |
-
-## &#9830; Nouveaux (après le Staff du 15.10.2020)
-
-| Point | Qui ? | Quand ? | Suivi |
-| --- | :---: | --- | --- | --- |
 | Dossiers de subventions | Edward | &#8594;fin 2020 | s'assurer que tous les AR seront signés |
-| Recrutements | Robert | ab 10.11 | &Eacute;tablir un tableau de suivi d'exécution des plans de personnel<br>(<font color="crimson">&#8594; Cf. Pt <b>(4)</b> agenda)</font> |
 | Abonnements journaux | Dirk | &nbsp; | voir Pt (6) [PV Staff 15.10.2020](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_PV.html#6-varia) |
-
-## &#9830; &Agrave; MT (fin 2020/début 2021)
-
-| Point | Qui ? | Quand ? | Suivi |
-| --- | :---: | --- | --- | --- |
-| Accessions &#8594; A, B, C | Robert | fin 2020/début 2021 | voir Pt (5) [PV Staff 15.10.2020](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_PV.html#5-perspectives-rh) |
+| &nbsp; | <font color="crimson" size="3px">&#10179;&#9998;</font> | jan. 2021 | S2 peut commencer à les gérer |
 
