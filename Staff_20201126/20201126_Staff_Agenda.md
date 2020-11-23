@@ -19,7 +19,7 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20201118_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201118_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20201118_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201118_Them_NL.pdf)
 	* Briefing DC 01.12.2020
-* (3) x
+* (3) Plan de travail des concierges
 * (4) Perspectives RH
 	* Plan de personnel 2019
 		* [Table](TablePlansPersonnel_2019-20.pdf) ![](pdf.png) (état au 20.11.2020)
@@ -27,14 +27,13 @@
 	* Plan de personnel 2020 (exécution à partir de novembre 2020)
 		* [Table](TablePlansPersonnel_2020-21.pdf) ![](pdf.png) (état au 20.11.2020)
 * (5) Varia
+	* Debriefing HR-Netwerk 13.11.2020
 	* Bilans d'étape :
 		* Où retrouver tous les documents des Staffs S2 (après migration) ?<br>[https://gcloudbelgium.sharepoint.com/sites/FSECO-support/StaffS2/SitePages/Acces_2020.aspx](https://gcloudbelgium.sharepoint.com/sites/FSECO-support/StaffS2/SitePages/Acces_2020.aspx)
 
 <a name="todo"> </a>
 
 ## ToDo Items
-
-## &#9830; Récurrents
 
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
