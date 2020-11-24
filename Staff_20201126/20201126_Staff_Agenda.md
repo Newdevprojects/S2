@@ -20,7 +20,7 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20201118_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201118_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20201118_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201118_Them_NL.pdf)
 	* Briefing DC 01.12.2020
-* (3) [Vastleggingen 2021](Vastleggingen_2021.md) ![](pdf.png)
+* (3) [Vastleggingen 2021](Vastleggingen_2021.md)
 * (4) Plan de travail des concierges
 * (5) Perspectives RH
 	* Plan de personnel - état d'exécution
