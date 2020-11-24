@@ -8,8 +8,9 @@
 | Permalink |
 | :--- |
 | [https://newdevprojects.github.io/S2/Staff_20201126/20201126_Staff_Agenda.html](https://newdevprojects.github.io/S2/Staff_20201126/20201126_Staff_Agenda.html) | 
+| La réunion a été avancée d'un jour, mais le lien vers l'ordre du jour a été conservé |
 
-# Staff 20201126 - Agenda
+# Staff 20201125 - Agenda
 
 * (1) Opvolging vorige stafvergaderingen:
 	* [PV Staff 10.11.2020](https://newdevprojects.github.io/S2/Staff_20201110/20201110_Staff_PV.html)
