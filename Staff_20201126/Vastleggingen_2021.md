@@ -65,7 +65,7 @@ Conformément à l'article 25 de la loi du 22 mai 2003 portant organisation du b
 
 Bonne journée.
 
-**[Art.](http://www.ejustice.just.fgov.be/cgi_loi/loi_a1.pl?language=fr&la=F&table_name=loi&cn=2003052241&&caller=list&F&fromtab=loi&tri=dd+AS+RANK&rech=1&numero=1&sql=%28text+contains+%28''%29%29#Art.24)<a id="Art.25"></a> [25](http://www.ejustice.just.fgov.be/cgi_loi/loi_a1.pl?language=fr&la=F&table_name=loi&cn=2003052241&&caller=list&F&fromtab=loi&tri=dd+AS+RANK&rech=1&numero=1&sql=%28text+contains+%28''%29%29#Art.26)**. Les obligations nécessaires pour assurer le fonctionnement continu des services peuvent être contractées à partir du 1er novembre, à charge des crédits de l'année budgétaire suivante, dans la limite du tiers des crédits d'engagement votés pour les dépenses correspondantes de l'année en cours. Les actes d'engagement stipulent que les fournitures ne peuvent être livrées, ni les services prestés, avant l'ouverture de l'année budgétaire.**
+**[Art. 25](http://www.ejustice.just.fgov.be/cgi_loi/loi_a1.pl?language=fr&la=F&table_name=loi&cn=2003052241&&caller=list&F&fromtab=loi&tri=dd+AS+RANK&rech=1&numero=1&sql=%28text+contains+%28''%29%29#Art.25)**. Les obligations nécessaires pour assurer le fonctionnement continu des services peuvent être contractées à partir du 1er novembre, à charge des crédits de l'année budgétaire suivante, dans la limite du tiers des crédits d'engagement votés pour les dépenses correspondantes de l'année en cours. Les actes d'engagement stipulent que les fournitures ne peuvent être livrées, ni les services prestés, avant l'ouverture de l'année budgétaire.**
 
 Goede middag,
 
@@ -73,7 +73,7 @@ Overeenkomstig artikel 25 van de wet van 22 mei 2003 houdende organisatie van de
 
 Met vriendelijke groeten.
 
-**[Art.](http://www.ejustice.just.fgov.be/cgi_loi/loi_a1.pl?language=nl&la=N&cn=2003052241&table_name=wet&&caller=list&N&fromtab=wet&tri=dd+AS+RANK&rech=1&numero=1&sql=%28text+contains+%28%27%27%29%29#Art.24) [25](http://www.ejustice.just.fgov.be/cgi_loi/loi_a1.pl?language=nl&la=N&cn=2003052241&table_name=wet&&caller=list&N&fromtab=wet&tri=dd+AS+RANK&rech=1&numero=1&sql=%28text+contains+%28%27%27%29%29#Art.26).** Met ingang van 1 november mogen de verbintenissen nodig om de ononderbroken werking van de diensten te verzekeren, worden aangegaan ten laste van de kredieten van het volgende begrotingsjaar. Het bedrag van deze verbintenissen mag een derde van de goedgekeurde vastleggingskredieten voor de overeenkomstige uitgaven van het lopende jaar niet overschrijden. De vastleggingsakten bepalen dat de leveringen niet mogen geschieden en de diensten niet mogen worden gepresteerd vóór de opening van het begrotingsjaar.**
+**[Art. 25](http://www.ejustice.just.fgov.be/cgi_loi/loi_a1.pl?language=nl&la=N&cn=2003052241&table_name=wet&&caller=list&N&fromtab=wet&tri=dd+AS+RANK&rech=1&numero=1&sql=%28text+contains+%28%27%27%29%29#Art.25).** Met ingang van 1 november mogen de verbintenissen nodig om de ononderbroken werking van de diensten te verzekeren, worden aangegaan ten laste van de kredieten van het volgende begrotingsjaar. Het bedrag van deze verbintenissen mag een derde van de goedgekeurde vastleggingskredieten voor de overeenkomstige uitgaven van het lopende jaar niet overschrijden. De vastleggingsakten bepalen dat de leveringen niet mogen geschieden en de diensten niet mogen worden gepresteerd vóór de opening van het begrotingsjaar.**
 
 **Marc Evrard**  
 Conseiller Législation  
