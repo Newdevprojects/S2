@@ -20,13 +20,14 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20201118_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201118_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20201118_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201118_Them_NL.pdf)
 	* Briefing DC 01.12.2020
-* (3) Plan de travail des concierges
-* (4) Perspectives RH
+* (3) [Vastleggingen 2021](Vastleggingen_2021.md) ![](pdf.png)
+* (4) Plan de travail des concierges
+* (5) Perspectives RH
 	* Plan de personnel - état d'exécution
 		* [Table](TablePlansPersonnel_20201120.pdf) ![](pdf.png) (état au 20.11.2020)
 		* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 	* Chantal Luyten - principiële [vraag van S1](Vraag_S1_Luyten.md) van 19.11.2020
-* (5) Varia
+* (6) Varia
 	* Debriefing HR-Netwerk 13.11.2020
 	* Bilans d'étape :
 		* Formation bilinguisme - [inscrits](Participants_S2_2020_prepa_bilinguisme.pdf) ![](pdf.png)
