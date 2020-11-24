@@ -31,6 +31,7 @@
 	* Debriefing HR-Netwerk 13.11.2020
 	* Bilans d'étape :
 		* Formation bilinguisme - [inscrits](Participants_S2_2020_prepa_bilinguisme.pdf) ![](pdf.png)
+		* [Ziektemelding S2](20201124_Monitoring_Ziektemelding_S2.pdf) ![](pdf.png) - état des lieux au 24.11.2020 
 		* Où retrouver tous les documents des Staffs S2 (après migration) ?<br>[https://gcloudbelgium.sharepoint.com/sites/FSECO-support/StaffS2/SitePages/Acces_2020.aspx](https://gcloudbelgium.sharepoint.com/sites/FSECO-support/StaffS2/SitePages/Acces_2020.aspx)
 
 <a name="todo"> </a>
