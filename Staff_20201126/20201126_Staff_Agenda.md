@@ -24,7 +24,7 @@
 * (4) Plan de travail des concierges
 * (5) Perspectives RH
 	* Plan de personnel - état d'exécution
-		* [Table](TablePlansPersonnel_20201120.pdf) ![](pdf.png) (état au 20.11.2020) [-&star;-](CONFIDENTIEEL_JdeV_20201119.md)
+		* [Table](TablePlansPersonnel_20201120.pdf) ![](pdf.png) (état au 20.11.2020) [-&#10051;-](CONFIDENTIEEL_JdeV_20201119.md)
 		* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 	* Chantal Luyten - principiële [vraag van S1](Vraag_S1_Luyten.md) van 19.11.2020
 * (6) Varia
@@ -32,7 +32,6 @@
 	* Bilans d'étape :
 		* Formation bilinguisme - [inscrits](Participants_S2_2020_prepa_bilinguisme.pdf) ![](pdf.png)
 		* [Ziektemelding S2](20201124_Monitoring_Ziektemelding_S2.pdf) ![](pdf.png) - état des lieux au 24.11.2020 
-		* Où retrouver tous les documents des Staffs S2 (après migration) ?<br>[https://gcloudbelgium.sharepoint.com/sites/FSECO-support/StaffS2/SitePages/Acces_2020.aspx](https://gcloudbelgium.sharepoint.com/sites/FSECO-support/StaffS2/SitePages/Acces_2020.aspx)
 
 <a name="todo"> </a>
 
