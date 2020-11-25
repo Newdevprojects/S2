@@ -24,7 +24,7 @@
 * (4) Plan de travail des concierges
 * (5) Perspectives RH
 	* Plan de personnel - état d'exécution
-		* [Table](TablePlansPersonnel_20201120.pdf) ![](pdf.png) (état au 20.11.2020)
+		* [Table](TablePlansPersonnel_20201120.pdf) ![](pdf.png) (état au 20.11.2020) [-&star;-](CONFIDENTIEEL_JdeV_20201119.md)
 		* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 	* Chantal Luyten - principiële [vraag van S1](Vraag_S1_Luyten.md) van 19.11.2020
 * (6) Varia
