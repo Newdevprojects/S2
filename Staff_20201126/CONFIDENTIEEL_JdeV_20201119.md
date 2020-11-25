@@ -1,6 +1,7 @@
 ## CONFIDENTIEEL: Update resultaat bijkomende screening ENS20207 'Administratief Ondersteuner'
 
-<font color="crimson">*Dit is vertrouwelijke informatie die enkel voor bovenvermeld doeleinde gebruikt mag worden.  Gehele of gedeeltelijk verspreiding kan enkel aan personen voor wie de toegang redelijkerwijs vereist is.*
+<font color="crimson">*Dit is vertrouwelijke informatie die enkel voor bovenvermeld doeleinde gebruikt mag worden.*  
+*Gehele of gedeeltelijk verspreiding kan enkel aan personen voor wie de toegang redelijkerwijs vereist is.*
 
 *Deze e-mail en al zijn bijlagen zijn uitsluitend voor de geadresseerde bestemd en kunnen vertrouwelijke informatie bevatten.*</font>
 
