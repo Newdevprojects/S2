@@ -18,14 +18,18 @@
 	* Debriefing DC 01.12.2020
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20201201_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201201_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20201201_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201201_Them_NL.pdf)
-	* Briefing DC 15.12.2020
-* (3) Perspectives RH
+	* Briefing DC 16.12.2020
+* (3) [NMBS-abonnement](20201207_Treinabonnement.pdf) ![](pdf.png) - StaVaZA na vergadering 13.10.2020
+* (4) [Overdracht PO's](20201207_Overdracht_POs.pdf) ![](pdf.png)
+* (5) Budget/Facturen [Cabinet Energie](Factures_Cabinet_Energie.md) - (Vraag van Mr Stassen)
+* (6) Perspectives RH
 	* Plan de personnel - état d'exécution
-		* [Table](TablePlansPersonnel_20201120.pdf) ![](pdf.png) (état au 20.11.2020)
+		* [Table](TablePlansPersonnel_20201207.pdf) ![](pdf.png) (état au 07.12.2020)
 		* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
-* (4) Varia
-	* x
+* (7) Varia
+	* Cycle d'évaluation 2020 des absents
 	* Bilans d'étape :
+		* formations [ecademy for groups](ecademy_for_groups_20201101_20201130.pdf) ![](pdf.png)  - période du 01.11.2020 au 30.11.2020
 
 <a name="todo"> </a>
 
