@@ -23,10 +23,9 @@
 	* [Opties](Voorstel_Peter_treinabo.pdf) ![](pdf.png) - Voorstel Peter
 * (4) [Overdracht PO's](20201207_Overdracht_POs.pdf) ![](pdf.png)
 * (5) Budget/Facturen [Cabinet Energie](Factures_Cabinet_Energie.md) - (Vraag van Mr Stassen)
-* (6) Perspectives RH
-	* Plan de personnel - état d'exécution
-		* [Table](TablePlansPersonnel_20201207.pdf) ![](pdf.png) (état au 07.12.2020)
-		* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
+* (6) Perspectives RH - Plan de personnel - état d'exécution
+	* [Table](TablePlansPersonnel_20201207.pdf) ![](pdf.png) (état au 07.12.2020)
+	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 * (7) Varia
 	* *ecademy* interface - project modernisering
 		* opleidingscatalogus - [handleiding](Handleiding_opmaak_directie-specifiek GOP.pdf) ![](pdf.png)
