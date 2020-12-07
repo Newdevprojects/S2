@@ -26,8 +26,8 @@
 
 | &nbsp; | ordre du jour et documents | procès-verbal | &nbsp; |
 | :---: | :---: | :---: | :---: |
-| 10.12.2020 | &nbsp; | &nbsp; | *Skype* |
-| 25.11.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20201126/20201126_Staff_Agenda.html) | &nbsp; | *Skype* |
+| 10.12.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20201210/20201210_Staff_Agenda.html) | &nbsp; | *Skype* |
+| 25.11.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20201126/20201126_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20201126/20201125_Staff_PV.html) | *Skype* |
 | 10.11.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20201110/20201110_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20201110/20201110_Staff_PV.html) | *Skype* |
 | 15.10.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_PV.html) | Salle 7/A13 |
 | 01.10.2020 | [Agenda](https://newdevprojects.github.io/S2/Staff_20201001/20201001_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20201001/20201001_Staff_PV.html) | Salle 4/A19 |
