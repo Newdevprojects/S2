@@ -19,7 +19,7 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20201201_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201201_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20201201_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201201_Them_NL.pdf)
 	* Briefing DC 16.12.2020
-* (3) [NMBS-abonnement](20201207_Treinabonnement.pdf) ![](pdf.png) - StaVaZA na vergadering 13.10.2020
+* (3) [NMBS-abonnement](20201207_Treinabonnement.pdf) ![](pdf.png) - StaVaZA na vergadering 13.10.2020<br>&nbsp;
 	* [Opties](Voorstel_Peter_treinabo.pdf) ![](pdf.png) - Voorstel Peter
 * (4) [Overdracht PO's](20201207_Overdracht_POs.pdf) ![](pdf.png)
 * (5) Budget/Facturen [Cabinet Energie](Factures_Cabinet_Energie.md) - (Vraag van Mr Stassen)
