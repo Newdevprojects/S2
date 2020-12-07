@@ -28,7 +28,9 @@
 		* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 * (7) Varia
 	* Cycle d'évaluation 2020 des absents
+	* Entrée en service de Maarten LEBACQ (*Rosetta* - Accueil NG) le 05.01.2021
 	* Bilans d'étape :
+		* [Priorités recrutement S2](Note_000611_Priorites_recrutement_S2.pdf) ![](pdf.png) - Suivi Staff 25.11
 		* formations [ecademy for groups](ecademy_for_groups_20201101_20201130.pdf) ![](pdf.png)  - période du 01.11.2020 au 30.11.2020
 
 <a name="todo"> </a>
