@@ -33,6 +33,7 @@
 	* Entrée en service de Maarten LEBACQ (*Rosetta* - Accueil NG) le 05.01.2021
 	* Bilans d'étape :
 		* [Priorités recrutement S2](Note_000611_Priorites_recrutement_S2.pdf) ![](pdf.png) - Suivi Staff 25.11
+		* [Heures supplémentaires](Prestations_06A_20201103_20201204.pdf) ![](pdf.png) 06A du 03.11 au 04.12 (Phase 0)
 		* formations [ecademy for groups](ecademy_for_groups_20201101_20201130.pdf) ![](pdf.png)  - période du 01.11.2020 au 30.11.2020
 
 <a name="todo"> </a>
