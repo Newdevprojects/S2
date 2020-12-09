@@ -27,6 +27,10 @@
 	* [Table](TablePlansPersonnel_20201207.pdf) ![](pdf.png) (état au 07.12.2020)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 * (7) Varia
+	* Gestion de la flotte - Quid contrôle ONSS pour E2 et E6 ?
+	* Suivi des achats
+		* Projet GPS
+		* Upgrade IRISPowerScan
 	* *ecademy* interface - project modernisering
 		* opleidingscatalogus - [handleiding](Handleiding_opmaak_directie-specifiek GOP.pdf) ![](pdf.png)
 	* Cycle d'évaluation 2020 des absents
