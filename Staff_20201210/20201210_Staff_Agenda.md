@@ -35,6 +35,7 @@
 		* opleidingscatalogus - [handleiding](Handleiding_opmaak_directie-specifiek GOP.pdf) ![](pdf.png)
 	* Cycle d'évaluation 2020 des absents
 	* Entrée en service de Maarten LEBACQ (*Rosetta* - Accueil NG) le 05.01.2021
+	* Vêtements de travail (chauffeurs, personnel d'accueil)
 	* Bilans d'étape :
 		* [Priorités recrutement S2](Note_000611_Priorites_recrutement_S2.pdf) ![](pdf.png) - Suivi Staff 25.11
 		* [Heures supplémentaires](Prestations_06A_20201103_20201204.pdf) ![](pdf.png) 06A du 03.11 au 04.12 (Phase 0)
