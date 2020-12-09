@@ -26,6 +26,7 @@
 * (6) Perspectives RH - Plan de personnel - état d'exécution
 	* [Table](TablePlansPersonnel_20201207.pdf) ![](pdf.png) (état au 07.12.2020)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
+	* Gebouwcontact te Gent
 * (7) Varia
 	* Gestion de la flotte - Quid contrôle ONSS pour E2 et E6 ?
 	* Suivi des achats
