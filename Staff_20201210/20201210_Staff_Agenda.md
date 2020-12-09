@@ -28,6 +28,10 @@
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 	* Gebouwcontact te Gent
 * (7) Varia
+	* Clôture de l'exercice
+		* [R70893]() - voir fil de discussion
+		* Contrôle de la subvention CEN
+		* Réforme de la structure du budget - état des lieux
 	* Gestion de la flotte - Quid contrôle ONSS pour E2 et E6 ?
 	* Suivi des achats
 		* Projet GPS
