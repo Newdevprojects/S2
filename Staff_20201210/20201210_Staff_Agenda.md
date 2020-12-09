@@ -29,7 +29,7 @@
 	* Gebouwcontact te Gent
 * (7) Varia
 	* Questions budget & contrôle des subventions
-		* [R70893]() - voir fil de discussion
+		* [R70893](R70893.md) - voir fil de discussion
 		* Contrôle de la subvention CEN
 		* Réforme de la structure du budget - état des lieux
 	* Gestion de la flotte - Quid contrôle ONSS pour E2 et E6 ?
