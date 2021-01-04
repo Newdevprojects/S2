@@ -23,7 +23,7 @@
 	* Ce point figurait précédemment dans les *ToDo's*
 * (5) Kosten verbonden aan NG II - [Staatsveiligheid](Staatsveiligheid_kosten_NG-II.pdf) ![](pdf.png)
 * (6) Perspectives RH - Plan de personnel - état d'exécution
-	* [Table](TablePlansPersonnel_20201231.pdf) ![](pdf.png) (état au 07.12.2020)
+	* [Table](TablePlansPersonnel_20201231.pdf) ![](pdf.png) (état au 31.12.2020)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 	* Gebouwcontact te Gent
 * Renforcement des équipes de première intervention
