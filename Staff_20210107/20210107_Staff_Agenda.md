@@ -22,11 +22,12 @@
 * (3) Facturen [Kabinetten](Facturen_kabinetten.pdf)
 * (4) Kosten verbonden aan NG II - [Staatsveiligheid](Staatsveiligheid_kosten_NG-II.pdf) ![](pdf.png)
 * (5) Perspectives RH - Plan de personnel - état d'exécution
-	* [Table](TablePlansPersonnel_20201207.pdf) ![](pdf.png) (état au 07.12.2020)
+	* [Table](TablePlansPersonnel_20201231.pdf) ![](pdf.png) (état au 07.12.2020)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 	* Gebouwcontact te Gent
 * Renforcement des équipes de première intervention
-	* [Modèle de mail](Modele_Update_Liste_EPI.pdf) ![]() - mises à jour des listes de participants aux sessions de formation 2021
+	* [Modèle de mail](Modele_Update_Liste_EPI.pdf) ![](pdf.png) - mises à jour des listes de participants aux sessions de formation 2021
+	* [Suggestion de E3](EPI_Suggestion_E3.pdf) ![](pdf.png)
 * (7) Varia
 	* Bilans d'étape :
 		* x
