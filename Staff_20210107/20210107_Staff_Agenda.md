@@ -11,9 +11,7 @@
 
 # Staff 20210107 - Agenda
 
-* (1) Opvolging vorige stafvergaderingen:
-	* [PV Staff 10.12.2020](https://newdevprojects.github.io/S2/Staff_20201210/20201210_Staff_PV.html)
-	* [To Do's](#todo) en terugkerende dossiers
+* (1) [To Do's](#todo) en terugkerende dossiers
 * (2) DC 
 	* Debriefing DC 16.12.2020
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20201216_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20201216_Them_FR.pdf)
@@ -54,6 +52,6 @@
 | --- | :---: | --- | --- | --- |
 | Gestion des archives | Mathias | dès que possible | retroplanning &#8592;fin de bail NG (fin 2024) |
 | &nbsp; | &nbsp; | jan. 2021 | vergadering met Rijksarchieven inplannen |
-| &nbsp; | <font color="crimson" size="3px">&#10179;&#9998;</font>engagements | &nbsp; | en parler à la Bilatérale S2/S3 |
+| &nbsp; | &nbsp; | (?) 2021 | en parler aussi à la Bilatérale S2/S3 |
 | Restaurant NG<br>Quid Sodexo? | RMass | &nbsp; | Suivi [note Mme Vervenne](https://newdevprojects.github.io/S2/Staff_20201110/20201106_Keuken_Covid.pdf) |
 
