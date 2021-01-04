@@ -29,9 +29,8 @@
 	* [Modèle de mail](Modele_Update_Liste_EPI.pdf) ![](pdf.png) - mises à jour des listes de participants aux sessions de formation 2021
 	* [Suggestion de E3](EPI_Suggestion_E3.pdf) ![](pdf.png)
 * (7) Varia
-	* Bilans d'étape :
-		* x
-		
+	* Vereenvoudiging reglementering interne controle en interne audit - [SPF Economie candidat 'pilote'](SPF_pilote.pdf) ![](pdf.png)
+
 <a name="todo"> </a>
 
 ## ToDo Items
