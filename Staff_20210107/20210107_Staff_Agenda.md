@@ -27,7 +27,7 @@
 	* [Table](TablePlansPersonnel_20201231.pdf) ![](pdf.png) (état au 31.12.2020)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 	* Gebouwcontact te Gent
-* Renforcement des équipes de première intervention
+* (7) Renforcement des équipes de première intervention
 	* [Modèle de mail](Modele_Update_Liste_EPI.pdf) ![](pdf.png) - mises à jour des listes de participants aux sessions de formation 2021
 	* [Suggestion de E3](EPI_Suggestion_E3.pdf) ![](pdf.png)
 * (8) Varia
