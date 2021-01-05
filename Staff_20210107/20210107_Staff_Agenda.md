@@ -22,6 +22,7 @@
 	* voir Pt (6) [PV Staff 15.10.2020](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_PV.html#6-varia)
 	* Ce point figurait précédemment dans les *ToDo's*
 * (5) Kosten verbonden aan NG II - [Staatsveiligheid](Staatsveiligheid_kosten_NG-II.pdf) ![](pdf.png)
+	* [Inputs](20201215_Inputs_Dirk_Mathias.pdf) Dirk en Mathias (15.12.2020) ![](pdf.png)
 * (6) Perspectives RH - Plan de personnel - état d'exécution
 	* [Table](TablePlansPersonnel_20201231.pdf) ![](pdf.png) (état au 31.12.2020)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
@@ -30,6 +31,7 @@
 	* [Modèle de mail](Modele_Update_Liste_EPI.pdf) ![](pdf.png) - mises à jour des listes de participants aux sessions de formation 2021
 	* [Suggestion de E3](EPI_Suggestion_E3.pdf) ![](pdf.png)
 * (8) Varia
+	* Boekhouding vzw Sociale Dienst - [email van J. Lescrauwaet](Boekhouder_Sociale_Dienst.pdf) ![](pdf.png)
 	* Vereenvoudiging reglementering interne controle en interne audit - [SPF Economie candidat 'pilote'](SPF_pilote.pdf) ![](pdf.png)
 
 <a name="todo"> </a>
