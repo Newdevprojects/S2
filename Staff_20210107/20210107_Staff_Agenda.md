@@ -56,4 +56,5 @@
 | &nbsp; | &nbsp; | jan. 2021 | vergadering met Rijksarchieven inplannen |
 | &nbsp; | &nbsp; | (?) 2021 | en parler aussi à la Bilatérale S2/S3 |
 | Restaurant NG<br>Quid Sodexo? | RMass | &nbsp; | Suivi [note Mme Vervenne](https://newdevprojects.github.io/S2/Staff_20201110/20201106_Keuken_Covid.pdf) |
+| &nbsp; | &nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<mark><b>&nbsp;new&nbsp;</b></mark> | [Voorstel](20210107_Sodexo_aangepaste_werking.pdf) dienstverlening Sodexo tijdens de COVID 19 - corona crisis |
 
