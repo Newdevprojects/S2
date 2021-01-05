@@ -33,7 +33,7 @@
 * (8) Varia
 	* Boekhouding vzw Sociale Dienst - [email van J. Lescrauwaet](Boekhouder_Sociale_Dienst.pdf) ![](pdf.png)
 	* Vereenvoudiging reglementering interne controle en interne audit - [SPF Economie candidat 'pilote'](SPF_pilote.pdf) ![](pdf.png)
-	* Maarten LEBACQ (*Rosetta* / Accueil NG) est entrée en service le 05.01
+	* Maarten LEBACQ (*Rosetta* / Accueil NG) est entré en service le 05.01.2021
 
 <a name="todo"> </a>
 
