@@ -56,6 +56,6 @@
 | &nbsp; | &nbsp; | jan. 2021 | vergadering met Rijksarchieven inplannen |
 | &nbsp; | &nbsp; | (?) 2021 | en parler aussi à la Bilatérale S2/S3 |
 | Conséquences COVID-19 | Mathias | &nbsp;&nbsp;&nbsp;&nbsp;<mark><b>&nbsp;new&nbsp;</b></mark> | [Voorstel](20210107_Sodexo_aangepaste_werking.pdf) dienstverlening Sodexo |
-| &nbsp; | Mathias | <mark><b>&nbsp;(pour échange de vues)&nbsp;</b></mark> | adaptation des contrats de nettoyage (moins de prestations, désinfection) |
+| &nbsp; | Mathias | (pour échange de vues) | adaptation des contrats de nettoyage (moins de prestations, désinfection) |
 | Fysieke inventaris wagenpark | Peter<br>Yassine | &nbsp;&nbsp;&nbsp;&nbsp;<mark><b>&nbsp;new&nbsp;</b></mark> | [Vaststellingen Peter](Afstemming_fysieke_inventaris_wagenpark.pdf) |
 
