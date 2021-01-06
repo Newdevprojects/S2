@@ -21,6 +21,7 @@
 * (4) Abonnements journaux - reprise par S2 à partir de 2021
 	* voir Pt (6) [PV Staff 15.10.2020](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_PV.html#6-varia)
 	* Ce point figurait précédemment dans les *ToDo's*
+	* [Mededeling Aankoopdienst](20201218_Abonnementen_kranten_via_Belga.md) + [bijlage](Abonnements_quotidiens_S2.xlsx) ![](excel.png)
 * (5) Kosten verbonden aan NG II - [Staatsveiligheid](Staatsveiligheid_kosten_NG-II.pdf) ![](pdf.png)
 	* [Inputs](20201215_Inputs_Dirk_Mathias.pdf) Dirk en Mathias (15.12.2020) ![](pdf.png)
 * (6) Perspectives RH - Plan de personnel - état d'exécution
