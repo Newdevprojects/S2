@@ -25,7 +25,7 @@
 * (5) Kosten verbonden aan NG II - [Staatsveiligheid](Staatsveiligheid_kosten_NG-II.pdf) ![](pdf.png)
 	* [Inputs](20201215_Inputs_Dirk_Mathias.pdf) Dirk en Mathias (15.12.2020) ![](pdf.png)
 * (6) Perspectives RH - Plan de personnel - état d'exécution
-	* [Table](TablePlansPersonnel_20201231.pdf) ![](pdf.png) (état au 31.12.2020)
+	* [Table](TablePlansPersonnel_20210106.pdf) ![](pdf.png) (état au 06.01.2021)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 	* Gebouwcontact te Gent
 * (7) Renforcement des équipes de première intervention
