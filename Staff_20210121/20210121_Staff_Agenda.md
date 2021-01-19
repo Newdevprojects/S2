@@ -19,12 +19,12 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210112_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210112_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210112_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210112_Them_NL.pdf)
 	* Briefing DC 26.01.2021
-* (4) Abonnements journaux - demande de précisions concernant la [facturation](Facturatie_abonnementen_2021.pdf) ![](pdf.png)
-* (5) Point d'attention de Charles-Albert Houtart - [Sécurité des accès NG](20210118_Securite_acces_NG.pdf) ![](pdf.png) 
-* (6) Perspectives RH - Plan de personnel - état d'exécution
+* (3) Abonnements journaux - demande de précisions concernant la [facturation](Facturatie_abonnementen_2021.pdf) ![](pdf.png)
+* (4) Point d'attention de Charles-Albert Houtart - [Sécurité des accès NG](20210118_Securite_acces_NG.pdf) ![](pdf.png) 
+* (5) Perspectives RH - Plan de personnel - état d'exécution
 	* 11.02.2021 : [rappel des priorités de S2](20210111_Execution_PP.pdf) ![](pdf.png)
 	* aucun développement depuis lors, sauf pour [Belexpo](Belexpo_update.md)
-* (7) Varia
+* (6) Varia
 	* Organisation des nouveaux cabinets / suivi des demandes budgétaires
 	* [Plan d'action valeurs 2021](Voorstel_Waardenactieplan_2021.pdf) ![](pdf.png) - proposition de J. Knockaert
 	* Robert accompagnera le stage d'un étudiant (Mathieu Lemaire) du 01.02.2021 au 30.04.2021
