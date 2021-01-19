@@ -25,6 +25,7 @@
 	* 11.02.2021 : [rappel des priorités de S2](20210111_Execution_PP.pdf) ![](pdf.png)
 	* aucun développement depuis lors
 * (7) Varia
+	* Organisation des nouveaux cabinets / suivi des demandes budgétaires
 	* [Plan d'action valeurs 2021](Voorstel_Waardenactieplan_2021.pdf) ![](pdf.png) - proposition de J. Knockaert
 	* Robert accompagnera le stage d'un étudiant (Mathieu Lemaire) du 01.02.2021 au 30.04.2021
 
