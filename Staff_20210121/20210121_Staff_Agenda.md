@@ -27,7 +27,7 @@
 * (6) Varia
 	* Organisation des nouveaux cabinets / suivi des demandes budgétaires
 	* [Plan d'action valeurs 2021](Voorstel_Waardenactieplan_2021.pdf) ![](pdf.png) - proposition de J. Knockaert
-	* Mobilité interne de Hughes CLO&Euml;S (demande de S4)
+	* Mobilité interne de Hugues CLO&Euml;S (demande de S4)
 	* Robert accompagnera le stage d'un étudiant (Mathieu Lemaire) du 01.02.2021 au 30.04.2021
 
 <a name="todo"> </a>
