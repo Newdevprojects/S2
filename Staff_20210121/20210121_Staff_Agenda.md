@@ -11,7 +11,7 @@
 
 # Staff 20210121 - Agenda
 
-* (1) Opvolging vorige stafvergaderingen:
+* (1) Opvolging vorige stafvergaderingen
 	* [PV Staff 07.01.2021](https://newdevprojects.github.io/S2/Staff_20210107/20210107_Staff_PV.html)
 	* [To Do's](#todo) en terugkerende dossiers
 * (2) DC 
