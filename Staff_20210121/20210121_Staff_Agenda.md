@@ -24,20 +24,20 @@
 * (6) Perspectives RH - Plan de personnel - état d'exécution
 	* 11.02.2021 : [rappel des priorités de S2](20210111_Execution_PP.pdf) ![](pdf.png)
 	* aucun développement depuis lors
-* (8) Varia
+* (7) Varia
 	* [Plan d'action valeurs 2021](Voorstel_Waardenactieplan_2021.pdf) ![](pdf.png) - proposition de J. Knockaert
 	* Robert accompagnera le stage d'un étudiant (Mathieu Lemaire) du 01.02.2021 au 30.04.2021
 
 <a name="todo"> </a>
 
-## ToDo Items (Overzicht september-december 2020)
+## ToDo Items
 
 ## &#10102; Récurrents
 
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
 | EWOW | Mathias | récurrent | &Eacute;tat des lieux &#8592;&#8594; Phases 2,3,4 ? |
-| &nbsp; | &nbsp; | jan. 2021 | vergaderingen Stuurgroep en Begeleidingscomité inplannen |
+| &nbsp; | &nbsp; | <font color="crimson" size="3px">&#10179;&#9998;</font> 08.01.2021 | vergadering(en) Stuurgroep en Begeleidingscomité |
 | RGPD | Yassine | récurrent | &Eacute;tat des lieux |
 | Kritische processen | Peter | récurrent | &Eacute;tat des lieux |
 | Gestion des archives | Mathias | récurrent | &Eacute;tat des lieux |
@@ -46,10 +46,6 @@
 
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
-| Gestion des archives | Mathias | dès que possible | retroplanning &#8592;fin de bail NG (fin 2024) |
-| &nbsp; | &nbsp; | jan. 2021 | vergadering met Rijksarchieven inplannen |
-| &nbsp; | &nbsp; | (?) 2021 | en parler aussi à la Bilatérale S2/S3 |
-| Conséquences COVID-19 | Mathias | &nbsp;&nbsp;&nbsp;&nbsp;<mark><b>&nbsp;new&nbsp;</b></mark> | [Voorstel](20210107_Sodexo_aangepaste_werking.pdf) dienstverlening Sodexo |
-| &nbsp; | Mathias | (pour échange de vues) | adaptation des contrats de nettoyage (moins de prestations, désinfection) |
-| Fysieke inventaris wagenpark | Peter<br>Yassine | &nbsp;&nbsp;&nbsp;&nbsp;<mark><b>&nbsp;new&nbsp;</b></mark> | [Vaststellingen Peter](Afstemming_fysieke_inventaris_wagenpark.pdf) |
+| Restaurant | Mathias | 1° trim. 2021 | opvolging [voorstel](20210107_Sodexo_aangepaste_werking.pdf) dienstverlening Sodexo |
+| Contrats nettoyage | Mathias | &nbsp; | adaptation des contrats de nettoyage (moins de prestations, désinfection) |
 
