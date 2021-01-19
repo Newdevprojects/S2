@@ -19,25 +19,14 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210112_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210112_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210112_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210112_Them_NL.pdf)
 	* Briefing DC 26.01.2021
-* (3) Facturen [Kabinetten](Facturen_kabinetten.pdf)
-* (4) Abonnements journaux - reprise par S2 à partir de 2021
-	* voir Pt (6) [PV Staff 15.10.2020](https://newdevprojects.github.io/S2/Staff_20201015/20201015_Staff_PV.html#6-varia)
-	* Ce point figurait précédemment dans les *ToDo's*
-	* [Mededeling Aankoopdienst](20201218_Abonnementen_kranten_via_Belga.md) + [bijlage](Abonnements_quotidiens_S2.xlsx) ![](excel.png)
-* (5) Kosten verbonden aan NG II - [Staatsveiligheid](Staatsveiligheid_kosten_NG-II.pdf) ![](pdf.png)
-	* [Inputs](20201215_Inputs_Dirk_Mathias.pdf) Dirk en Mathias (15.12.2020) ![](pdf.png)
+* (4) Abonnements journaux - demande de précisions concernant la [facturation](Facturatie_abonnementen_2021.pdf) ![](pdf.png)
+* (5) Point d'attention de Charles-Albert Houtart - [Sécurité des accès NG](20210118_Securite_acces_NG.pdf) ![](pdf.png) 
 * (6) Perspectives RH - Plan de personnel - état d'exécution
-	* [Table](TablePlansPersonnel_20210106.pdf) ![](pdf.png) (état au 06.01.2021)
-	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
-	* Gebouwcontact te Gent
-* (7) Renforcement des équipes de première intervention
-	* [Modèle de mail](Modele_Update_Liste_EPI.pdf) ![](pdf.png) - mises à jour des listes de participants aux sessions de formation 2021
-	* [Suggestion de E3](EPI_Suggestion_E3.pdf) ![](pdf.png)
+	* 11.02.2021 : [rappel des priorités de S2](20210111_Execution_PP.pdf) ![](pdf.png)
+	* aucun développement depuis lors
 * (8) Varia
-	* Boekhouding vzw Sociale Dienst - [email van J. Lescrauwaet](Boekhouder_Sociale_Dienst.pdf) ![](pdf.png)
-	* Vereenvoudiging reglementering interne controle en interne audit - [SPF Economie candidat 'pilote'](SPF_pilote.pdf) ![](pdf.png)
-	* mailroom/onthaal - problemen met aangetekende zendingen - [Mail transmis par Chris Vandercruyssen](mairoom_onthaal.md)
-	* Maarten LEBACQ (*Rosetta* / Accueil NG) est entré en service le 05.01.2021
+	* [Plan d'action valeurs 2021](Voorstel_Waardenactieplan_2021.pdf) ![](pdf.png) - proposition de J. Knockaert
+	* Robert accompagnera le stage d'un étudiant (Mathieu Lemaire) du 01.02.2021 au 30.04.2021
 
 <a name="todo"> </a>
 
