@@ -23,7 +23,7 @@
 * (5) Point d'attention de Charles-Albert Houtart - [Sécurité des accès NG](20210118_Securite_acces_NG.pdf) ![](pdf.png) 
 * (6) Perspectives RH - Plan de personnel - état d'exécution
 	* 11.02.2021 : [rappel des priorités de S2](20210111_Execution_PP.pdf) ![](pdf.png)
-	* aucun développement depuis lors
+	* aucun développement depuis lors, sauf pour [Belexpo](Belexpo_update.md)
 * (7) Varia
 	* Organisation des nouveaux cabinets / suivi des demandes budgétaires
 	* [Plan d'action valeurs 2021](Voorstel_Waardenactieplan_2021.pdf) ![](pdf.png) - proposition de J. Knockaert
