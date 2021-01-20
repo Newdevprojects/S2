@@ -37,7 +37,7 @@ Voorlopig, maar verder te bespreken,  ziet de nieuwe werkwijze er als volgt uit:
 
 2\. De goedkeuring gebeurt door de eindgebruiker / of de Aankoopcorrespondent van het betrokken Directie.
 
-Er is nu nog discussie omtrent de wijze waarop punt IV moet worden opgezet en wie dit zal doen <img width="30" height="30" src="../_resources/a7e52f71a8964db2b6633fb69e80dfc7.htm"/> 
+Er is nu nog discussie omtrent de wijze waarop punt IV moet worden opgezet en wie dit zal doen &#128515; 
 
 Groeten
 
