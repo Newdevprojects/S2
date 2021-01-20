@@ -20,6 +20,7 @@
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210112_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210112_Them_NL.pdf)
 	* Briefing DC 26.01.2021
 * (3) Abonnements journaux - demande de précisions concernant la [facturation](Facturatie_abonnementen_2021.pdf) ![](pdf.png)
+	* [input Dirk](20210120_Input_Dirk_Kranten.md)
 * (4) Point d'attention de Charles-Albert Houtart - [Sécurité des accès NG](20210118_Securite_acces_NG.pdf) ![](pdf.png) 
 * (5) Perspectives RH - Plan de personnel - état d'exécution
 	* 11.02.2021 : [rappel des priorités de S2](20210111_Execution_PP.pdf) ![](pdf.png)
