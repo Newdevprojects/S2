@@ -25,11 +25,12 @@
 	* Mobilité interne de [Hugues CLO&Euml;S](Demande_S4_Mutation_Hugues_Cloes.pdf) ![](pdf.png) (proposition de S4)
 * (4) Point d'attention de Charles-Albert Houtart - [Sécurité des accès NG](20210118_Securite_acces_NG.pdf) ![](pdf.png) 
 * (5) Perspectives RH - Plan de personnel - état d'exécution
-	* 11.02.2021 : [rappel des priorités de S2](20210111_Execution_PP.pdf) ![](pdf.png)
+	* 11.01.2021 : [rappel des priorités de S2](20210111_Execution_PP.pdf) ![](pdf.png)
 	* aucun développement depuis lors, sauf pour [Belexpo](Belexpo_update.md)
-	* quid [overgang Pieter Dhaese](20210113_Pret_Dhaese_E6.pdf) ![](pdf.png) naar E6? (vraag DG Vandercruysse)
+	* quid [overgang Pieter Dhaese](20210113_Pret_Dhaese_E6.pdf) ![](pdf.png	) naar E6? (vraag DG Vandercruysse)
 * (6) Varia
 	* Organisation des nouveaux cabinets / suivi des demandes budgétaires
+		* Note [T-DG-2021-000064.pdf](T-DG-2021-000064.pdf) ![](pdf.png)
 	* [Plan d'action valeurs 2021](Voorstel_Waardenactieplan_2021.pdf) ![](pdf.png) - proposition de J. Knockaert
 	* Mobilité interne de Hugues CLO&Euml;S (demande de S4)
 	* Robert accompagnera le stage d'un étudiant (Mathieu Lemaire) du 01.02.2021 au 30.04.2021
