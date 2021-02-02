@@ -19,10 +19,10 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210126_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210126_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210126_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210126_Them_NL.pdf)
 	* Briefing DC 09.02.2021
-* (3) Audit EMAS : état des lieux (<mark>CHECK avec Maria / Mathias</mark>)
-* (4) Perspectives RH - Plan de personnel - état d'exécution
+* (3) Perspectives RH - Plan de personnel - état d'exécution
 	* [Table](TablePlansPersonnel_20210129.pdf) ![](pdf.png) (état au 29.01.2021)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
+* (4) &Eacute;laboration du Rapport Annuel S2 et réexamen de la pertinence des KPI du contrat d'administration
 * (5) Varia
 	* Debriefing HR-Netwerk du 29.01
 	* Debriefing Groupe "Moteurs Valeurs" du 26.01
