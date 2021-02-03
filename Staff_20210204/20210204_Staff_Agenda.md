@@ -25,6 +25,7 @@
 * (4) &Eacute;laboration du Rapport Annuel S2 et réexamen de la pertinence des KPI du contrat d'administration
 * (5) Varia
 	* Accès aux locaux par les contacts-bâtiments
+	* Fin des *Starter's Kits*
 	* Debriefing HR-Netwerk du 29.01
 	* Debriefing Groupe "Moteurs Valeurs" du 26.01
 	* Prolongation du contrat de Francis GROYNE jusqu'au 30.04.2022
