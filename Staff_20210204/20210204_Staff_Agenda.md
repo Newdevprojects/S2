@@ -23,13 +23,20 @@
 	* [Table](TablePlansPersonnel_20210129.pdf) ![](pdf.png) (état au 29.01.2021)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 * (4) &Eacute;laboration du Rapport Annuel S2 et réexamen de la pertinence des KPI du contrat d'administration
+* (5) Mailroom - [intégration du Mailroom E8]() ![](Nota_verzendingsdienst_E8.pdf) à S2
 * (5) Varia
-	* Accès aux locaux par les contacts-bâtiments
-	* Fin des *Starter's Kits*
-	* Debriefing HR-Netwerk du 29.01
-	* Debriefing Groupe "Moteurs Valeurs" du 26.01
-	* Prolongation du contrat de Francis GROYNE jusqu'au 30.04.2022
-	* Décorations (au Moniteur du 29.01) : Yassine Atmane, Annick Neuckermans, Maria Van Essche, Frankie Bisschop et William Peeters
+	* (5a) Points Facility
+		* Accès aux locaux par les contacts-bâtiments
+		* Fin des *Starter's Kits*
+		* [Balises GPS](Note_Geolocalisation.pdf) ![](pdf.png) et intégration des voitures Fapetro dans la flotte S2
+		* Mailroom - préparation des envois - [Collect & Stamp](CStamp_Poster_NL.pdf) ![](pdf.png)
+		* &OElig;uvres d’art- estimation de leur valeur
+	* Points RH
+		* Debriefing HR-Netwerk du 29.01
+		* Debriefing Groupe "Moteurs Valeurs" du 26.01
+		* Prolongation du contrat de Francis GROYNE jusqu'au 30.04.2022
+		* Décorations (au Moniteur du 29.01) : Yassine Atmane, Annick Neuckermans, Maria Van Essche, Frankie Bisschop et William Peeters
+		* Retour du Saïd Bellaji (fin Talent Exchange) au 01.03.2021
 	* Bilan d'étape :
 		* formations [ecademy for groups](ecademy_for_groups_20201201_20210201.pdf) ![](pdf.png)  - période du 01.12.2020 au 02.02.2021
 
