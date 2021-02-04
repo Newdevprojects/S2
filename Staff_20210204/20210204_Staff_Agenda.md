@@ -24,14 +24,14 @@
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 * (4) &Eacute;laboration du Rapport Annuel S2 et réexamen de la pertinence des KPI du contrat d'administration
 * (5) Mailroom - [intégration du Mailroom E8]() ![](Nota_verzendingsdienst_E8.pdf) à S2
-* (5) Varia
-	* (5a) Points Facility
+* (6) Varia
+	* (6a) Points Facility
 		* Accès aux locaux par les contacts-bâtiments
 		* Fin des *Starter's Kits*
 		* [Balises GPS](Note_Geolocalisation.pdf) ![](pdf.png) et intégration des voitures Fapetro dans la flotte S2
 		* Mailroom - préparation des envois - [Collect & Stamp](CStamp_Poster_NL.pdf) ![](pdf.png)
 		* &OElig;uvres d’art- estimation de leur valeur
-	* Points RH
+	* (06b) Points RH
 		* Debriefing HR-Netwerk du 29.01
 		* Debriefing Groupe "Moteurs Valeurs" du 26.01
 		* Prolongation du contrat de Francis GROYNE jusqu'au 30.04.2022
