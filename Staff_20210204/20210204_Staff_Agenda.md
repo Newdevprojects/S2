@@ -37,7 +37,7 @@
 		* Prolongation du contrat de Francis GROYNE jusqu'au 30.04.2022
 		* Décorations (au Moniteur du 29.01) : Yassine Atmane, Annick Neuckermans, Maria Van Essche, Frankie Bisschop et William Peeters
 		* Retour du Saïd Bellaji (fin Talent Exchange) au 01.03.2021
-	* (06c) Autres points S2
+	(06c) Autres points S2
 		* SLA avec Autorité Belge de la Concurrence
 		* Concession bPost
 		* Communication Plan de Relance
