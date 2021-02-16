@@ -23,13 +23,13 @@
 	* [Table](TablePlansPersonnel_20210129.pdf) ![](pdf.png) (état au 29.01.2021)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 * (4) &Eacute;laboration du Rapport Annuel S2 et réexamen de la pertinence des KPI du contrat d'administration
-* (5) Mailroom - [intégration du Mailroom E8](https://drive.google.com/file/d/1fbN-daQ6NoACTXvfmK3lNYn_xd2iui9v/view?usp=sharing) ![](pdf.png) à S2
+* (5) Mailroom - [intégration du Mailroom E8](Nota_verzendingsdienst_E8.pdf) ![](pdf.png) à S2
 * (6) Varia
 	* (6a) Points Facility
 		* Accès aux locaux par les contacts-bâtiments
 		* Fin des *Starter's Kits*
-		* [Balises GPS](https://drive.google.com/file/d/11QtdwILxSvyf87U3i3mqweHjwoPiRjB4/view?usp=sharing) ![](pdf.png) et intégration des voitures Fapetro dans la flotte S2
-		* Mailroom - préparation des envois - [Collect & Stamp](https://drive.google.com/file/d/1ok-VXfC-JtCXpy7bFgurhOpZzUj-PCNN/view?usp=sharing) ![](pdf.png)
+		* [Balises GPS](Note_Geolocalisation.pdf) ![](pdf.png) et intégration des voitures Fapetro dans la flotte S2
+		* Mailroom - préparation des envois - [Collect & Stamp](CStamp_Poster_NL.pdf) ![](pdf.png)
 		* &OElig;uvres d’art- estimation de leur valeur
 	* (06b) Points RH
 		* Debriefing HR-Netwerk du 29.01
