@@ -58,5 +58,5 @@
 
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
-| SLA ABC | RMass | 3° trim. 2021 | <font color="crimson" size="3px">&#10179;&#9998;</font> Renégociation SLA 2013 |
+| SLA ABC | RMass | 3° trim. 2021 | <font color="crimson" size="3px">&#10179;&#9998;</font> dossier de renégociation du SLA de 2013 |
 
