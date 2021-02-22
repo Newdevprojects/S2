@@ -17,10 +17,10 @@
 | 22.04.2021 | &nbsp; | &nbsp; | to be determined |
 | 25.03.2021 | &nbsp; | &nbsp; | to be determined |
 | 11.03.2021 | &nbsp; | &nbsp; | to be determined |
-| 25.02.2021 | &nbsp; | &nbsp; | to be determined |
-| 04.02.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210204/20210204_Staff_Agenda.html) | &nbsp; | to be determined |
-| 21.01.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210121/20210121_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20210121/20210121_Staff_PV.html) | to be determined |
-| 07.01.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210107/20210107_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20210107/20210107_Staff_PV.html) | *Skype* determined |
+| 25.02.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210225/20210225_Staff_Agenda.html) | &nbsp; | Salle 4/A09 |
+| 04.02.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210204/20210204_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20210204/20210204_Staff_PV.html) | *Skype* |
+| 21.01.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210121/20210121_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20210121/20210121_Staff_PV.html) | *Skype* |
+| 07.01.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210107/20210107_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20210107/20210107_Staff_PV.html) | *Skype* |
 
 &nbsp; 
 
