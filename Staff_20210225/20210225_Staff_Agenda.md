@@ -29,7 +29,7 @@
 	* Arrivée de Hugues CLOËS (de S4) et départ de Pieter DHAESE (vers E6)
 	* Bestek Opleiding brandbestrijder - Mail Daphne Van Echelpoel (S1) du 22.02 :<br>"*Voor de veiligheidsopleidingen brand is een TOFA-kadercontract afgesloten via FOD Financiën voor alle federale overheidsinstanties die hiervoor hebben opgetekend. Dit contract bevat verschillende soorten opleidingen en vandaar dat ik even bij jullie wil horen, wat er toekomstgericht aangekocht moet worden qua veiligheidsopleidingen voor onze FOD.*"
 		* proposition de réunion pour y réfléchir - qui au Service Facilitaire pour participer à la réflexion ?
-	* pour information : [GOP 2021-2024](GOP_2021-2024_InputsS2.xlsx) ![](excel.png) acties S2 (stand van zaken 10.02)
+	* (pour information) [GOP 2021-2024](GOP_2021-2024_InputsS2.xlsx) ![](excel.png) acties S2 (stand van zaken 10.02)
 
 <a name="todo"> </a>
 
