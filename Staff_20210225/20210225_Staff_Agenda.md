@@ -25,7 +25,7 @@
 	* [Table](TablePlansPersonnel_20210222.pdf) ![](pdf.png) (état au 22.02.2021)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 * (5) Varia
-	* Debriefing Atelier "*eCademy* (Competentiedatabank" du 12.02
+	* Debriefing Atelier "*eCademy* (Competentiedatabank)" du 12.02
 	* Debriefing HR-Netwerk du 19.02
 	* Arrivée de Hugues CLOËS (de S4) et départ de Pieter DHAESE (vers E6) - date officielle des mutations : 01.02.2021
 	* Fin anticipée (à sa demande) du Talent Exchange de Vincent ZAKOWSKI (SPF Finances)
