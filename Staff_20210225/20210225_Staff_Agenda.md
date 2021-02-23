@@ -19,6 +19,7 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210209_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210209_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210209_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210209_Them_NL.pdf)
 	* Briefing DC 02.03.2021
+		* Nota Bene : la note "Valeurs 2021" a été reprogrammée pour le comité de direction du 16.03 (au lieu de celui du 02.03)
 * (3) Audit EMAS
 * (4) Perspectives RH - Plan de personnel - état d'exécution
 	* [Table](TablePlansPersonnel_20210222.pdf) ![](pdf.png) (état au 22.02.2021)
@@ -26,7 +27,7 @@
 * (5) Varia
 	* Debriefing Atelier "*eCademy* (Competentiedatabank" du 12.02
 	* Debriefing HR-Netwerk du 19.02
-	* Arrivée de Hugues CLOËS (de S4) et départ de Pieter DHAESE (vers E6)
+	* Arrivée de Hugues CLOËS (de S4) et départ de Pieter DHAESE (vers E6) - date officielle des mutations : 01.02.2021
 	* Fin anticipée (à sa demande) du Talent Exchange de Vincent ZAKOWSKI (SPF Finances)
 	* Bestek Opleiding brandbestrijder - Mail Daphne Van Echelpoel (S1) du 22.02 :<br>"*Voor de veiligheidsopleidingen brand is een TOFA-kadercontract afgesloten via FOD Financiën voor alle federale overheidsinstanties die hiervoor hebben opgetekend. Dit contract bevat verschillende soorten opleidingen en vandaar dat ik even bij jullie wil horen, wat er toekomstgericht aangekocht moet worden qua veiligheidsopleidingen voor onze FOD.*"
 		* proposition de réunion pour y réfléchir - qui au Service Facilitaire pour participer à la réflexion ?
