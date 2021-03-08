@@ -12,23 +12,23 @@
 # Staff 20210311 - Agenda
 
 * (1) Opvolging vorige stafvergaderingen
-	* [PV Staff 25.02.2021](https://newdevprojects.github.io/S2/Staff_20210225/20210225_Staff_PV.html)
+	* <mark>[PV Staff 25.02.2021](https://newdevprojects.github.io/S2/Staff_20210225/20210225_Staff_PV.html)
 	* [To Do's](#todo) en terugkerende dossiers
 * (2) DC 
 	* Debriefing DC 02.03.2021
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210302_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210302_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210302_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210302_Them_NL.pdf)
 	* Briefing DC 16.03.2021
-* (3) [Geblokeerde fakturen](20210303_Geblokeerde_fakturen.pdf) ![](pdf.png)
+* (3) Problematiek leverancier - [Geblokeerde fakturen](20210303_Geblokeerde_fakturen.pdf) ![](pdf.png)
 * (4) Perspectives RH - Plan de personnel - état d'exécution
-	* [Table](TablePlansPersonnel_20210222.pdf) ![](pdf.png) (état au 22.02.2021)
+	* <mark>[Table]() ![](pdf.png) (état au 05.03.2021)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 * (5) Varia
 	* Date de fin anticipée (à sa demande) du Talent Exchange de Vincent ZAKOWSKI (SPF Finances) : 12.03
 	* Interview du 08.03 de Nils VLASSENBROECK (Lauréat Sélection FAPETRO)
 	* Interview de Najet A&Iuml;T-TAMSADEN (S4) le 12.03
 	* Bilan d'étape :
-		* formations [ecademy for groups]() ![](pdf.png)  - période du 03.02.2021 au 05.03.2021
+		* formations <mark>[ecademy for groups]() ![](pdf.png)  - période du 03.02.2021 au 05.03.2021
 
 
 <a name="todo"> </a>
