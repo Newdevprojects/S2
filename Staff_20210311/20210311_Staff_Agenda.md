@@ -26,7 +26,7 @@
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 * (5) Varia
 	* Date de fin anticipée (à sa demande) du Talent Exchange de Vincent ZAKOWSKI (SPF Finances) : 12.03
-	* Interview du 08.03 de Nils VLASSENBROECK (Lauréat Sélection FAPETRO)
+	* Entrée en service Nils VLASSENBROECK (lauréat sélection FAPETRO) le 01.05  (assistant contact-bâtiment)
 	* Interview de Najet A&Iuml;T-TAMSADEN (S4) le 12.03
 	* Julien SIBILLE a terminé son stage 
 	* Bilans d'étape :
