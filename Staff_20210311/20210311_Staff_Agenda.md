@@ -38,16 +38,12 @@
 
 ## ToDo Items
 
-## &#10102; Récurrents
-
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
 | EWOW | Mathias | récurrent | &Eacute;tat des lieux |
-| &nbsp; | &nbsp; | debriefing | Begeleidingscomité <font color="crimson"><b>17.02</b></font> |
 | RGPD | Yassine | récurrent | &Eacute;tat des lieux |
 | Kritische processen | Peter | récurrent | &Eacute;tat des lieux |
 | Gestion des archives | Mathias | récurrent | &Eacute;tat des lieux |
-| &nbsp; | &nbsp; | debriefing | contact Rijksarchieven <font color="crimson"><b>08.02</b></font> |
 
 ## &#10103; Tâches davantage ponctuelles
 
@@ -61,5 +57,4 @@
 
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
-| SLA ABC | RMass | 3° trim. 2021 | <font color="crimson" size="3px">&#10179;&#9998;</font> dossier de renégociation du SLA de 2013 |
-
+| SLA ABC | RMass | 3° trim. 2021 | Renégociation SLA 2013 |
