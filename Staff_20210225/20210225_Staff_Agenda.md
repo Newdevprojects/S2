@@ -15,7 +15,7 @@
 	* [PV Staff 04.02.2021](https://newdevprojects.github.io/S2/Staff_20210204/20210204_Staff_PV.html)
 	* [To Do's](#todo) en terugkerende dossiers
 * (2) DC 
-	* Debriefing DC 26.01.2021
+	* Debriefing DC 09.02.2021
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210209_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210209_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210209_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210209_Them_NL.pdf)
 	* Briefing DC 02.03.2021
