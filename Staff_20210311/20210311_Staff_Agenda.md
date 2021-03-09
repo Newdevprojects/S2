@@ -29,9 +29,10 @@
 	* Entrée en service Nils VLASSENBROECK (lauréat sélection FAPETRO) le 01.05  (assistant contact-bâtiment)
 	* Interview de Najet A&Iuml;T-TAMSADEN (S4) le 12.03
 	* Julien SIBILLE a terminé son stage 
+	* Retour de *Talent Exchange* de Saïd BELLAJI ; déficit de prestations de 295h38 avant le début du *Talent Exchange*
 	* Bilans d'étape :
-		* formations [ecademy for groups](ecademy_for_groups_20210201_20210305.pdf) ![](pdf.png)  - période du 03.02.2021 au 05.03.2021
-		* Suivi des [signalements d'absences](20210308_Monitoring_Ziektemelding_S2.pdf) ![](pdf.png) pour maladie - état des lieux au 08.03.2021
+		* formations [ecademy for groups](ecademy_for_groups_20210201_20210305.pdf) ![](pdf.png)  - période du 03.02.2021 au 09.03.2021
+		* Suivi des [signalements d'absences](20210308_Monitoring_Ziektemelding_S2.pdf) ![](pdf.png) pour maladie - état des lieux au 09.03.2021
 
 
 <a name="todo"> </a>
