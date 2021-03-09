@@ -25,6 +25,7 @@
 	* [Table](TablePlansPersonnel_20210308.pdf) ![](pdf.png) (état au 05.03.2021)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 * (5) Varia
+	* [Belgische AI Week](Belgische_AI_Week.pdf) ![](pdf.png) - 15.03 - 19.03
 	* Date de fin anticipée (à sa demande) du Talent Exchange de Vincent ZAKOWSKI (SPF Finances) : 12.03
 	* Entrée en service Nils VLASSENBROECK (lauréat sélection FAPETRO) le 01.05  (assistant contact-bâtiment)
 	* Interview de Najet A&Iuml;T-TAMSADEN (S4) le 12.03
