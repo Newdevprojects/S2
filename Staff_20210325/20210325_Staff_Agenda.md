@@ -21,8 +21,8 @@
 		* [Rapport Annuel S2](Staff_20210325\S2_2020.docx) ![](word.jpg) ( <mark>version 22.03 18:30</mark> ) 
 		* Présentation EMAS (voir Point (3) ci-dessous)
 * (3) Actualisation des documents EMAS
-	* [Objectifs 2021-2024](Apercu_Objectifs_EMAS.pdf) ![](pdf.png)
-	* Aperçu des [objectifs 2021-2024](Objectifs_EMAS_2021-24.pdf) ![](pdf.png)
+	* Aperçu des [objectifs 2021-2024](Apercu_Objectifs_EMAS.pdf) ![](pdf.png)
+	* [Objectifs 2021-2024](Objectifs_EMAS_2021-24.pdf) ![](pdf.png)
 	* [Revue de direction 2019-2020](Revue_Direction_2019-20.docx) ![](word.jpg)
 	* [Plan de communication](Plan_Communication_EMAS_2021.xlsx) ![](excel.png)
 * (4) ICT-Project Portfolio Review Meeting S2 - Debriefing de la [réunion du 17.03](ICT_project_portfolio_review.pdf) ![](pdf.png)
