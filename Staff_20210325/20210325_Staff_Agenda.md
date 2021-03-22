@@ -12,19 +12,26 @@
 # Staff 20210325 - Agenda
 
 * (1) Opvolging vorige stafvergaderingen
-	* [PV Staff 11.03.2021](https://newdevprojects.github.io/S2/Staff_20210311/20210311_Staff_PV.html)
 	* [To Do's](#todo) en terugkerende dossiers
 * (2) DC 
 	* Debriefing DC 16.03.2021
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210316_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210316_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210316_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210316_Them_NL.pdf)
 	* Briefing DC 30.03.2021
-		* [Rapport Annuel S2]() ![](word.png)
-* (3) x
-* (4) Perspectives RH - Plan de personnel - état d'exécution
-	* [Table](TablePlansPersonnel_20210308.pdf) ![](pdf.png) (état au 05.03.2021)
-	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
-* (5) Varia
+		* [Rapport Annuel S2]() ![](word.jpg)
+		* Présentation EMAS (voir Point (3) ci-dessous)
+* (3) Actualisation des documents EMAS
+	* [Objectifs 2021-2024](Apercu_Objectifs_EMAS.pdf) ![](pdf.png)
+	* Aperçu des [objectifs 2021-2024](Objectifs_EMAS_2021-24.pdf) ![](pdf.png)
+	* [Revue de direction 2019-2020](Revue_Direction_2019-20.docx) ![](word.jpg)
+	* [Plan de communication](Plan_Communication_EMAS_2021.xlsx) ![](excel.png)
+* (4) ICT-Project Portfolio Review Meeting S2 - Debriefing de la [réunion du 17.03](ICT_project_portfolio_review.pdf) ![](pdf.png)
+* (5) Note verte - Contrôle des comptes du [Service de médiation pour le consommateur](Controle_comptes_Service_Mediation_Conso.pdf) ![](pdf.png)
+* (6) [Uitgaande elektronische facturatie](Uitgaande_elektronische_facturatie.pdf) ![](pdf.png) - project FOD BOSA
+* (7) Relance plan - Oprichting van een secretariaat voor de monitoring van het relance plan / mogelijke implicatie van S2
+* (8) Beheersovereenkomst -  Aanpak van de opmaak ( tegen september 2021 ) van een nieuwe beheersovereenkomst
+* (9) Varia
+	* Debriefing Bilatérale S1-S2 du 23.03
 	* Entrée en service (essai) de Najet AÏT-TAMSADEN (S4) à partir du 01.04
 	* Reprise après interruption de carrière à 100% de Dirk MACHIELS le 16.04
 
