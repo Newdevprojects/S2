@@ -18,7 +18,7 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210316_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210316_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210316_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210316_Them_NL.pdf)
 	* Briefing DC 30.03.2021
-		* [Rapport Annuel S2]() ![](word.jpg)
+		* [Rapport Annuel S2](Staff_20210325\S2_2020.docx) ![](word.jpg) ( <mark>version 22.03 18:30</mark> ) 
 		* Présentation EMAS (voir Point (3) ci-dessous)
 * (3) Actualisation des documents EMAS
 	* [Objectifs 2021-2024](Apercu_Objectifs_EMAS.pdf) ![](pdf.png)
