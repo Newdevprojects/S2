@@ -24,7 +24,7 @@
 	* [Revue de direction 2020](Note_Rev_direction_EMAS_2020.docx) ![](word.jpg)
 		* [Annexe 1](Annexe_1.Politique_environnementale_SPF.pdf) ![](pdf.png) - Politique environnementale du SPF
 		* [Annexe 2](Annexe_2_Apercu_Objectifs_EMAS.pdf) ![](pdf.png) - Aperçu des objectifs EMAS 2021-2024
-		* [Annexe 3](Annexe_3_Tableau_bord_Objectifs_EMAS_2021-2024.pdf) - Tableau de bord des objectifs EMAS 2021-2024
+		* [Annexe 3](Annexe_3_Tableau_bord_Objectifs_EMAS_2021-2024.pdf) ![](pdf.png) - Tableau de bord des objectifs EMAS 2021-2024
 		* [Annexe 4](Annexe_4_Plan_communication_EMAS_2021.xlsx) ![](excel.png) - Plan de communication EMAS 2021
 		* [Annexe 5](Annexe_5_Programme_audits_internes_EMAS.xlsx) ![](excel.png) - Programme des audits internes EMAS
 		* [Annexe 6](Annexe_6_Plan_Actions_correctives_EMAS.xlsx) ![](excel.png) - Plan des actions correctives
