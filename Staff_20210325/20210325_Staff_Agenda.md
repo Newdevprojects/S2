@@ -21,10 +21,13 @@
 		* [Rapport Annuel S2](Rapport_Annuel_S2_2020_DEF.pdf) ![](pdf.png)  
 		* Présentation EMAS (voir Point (3) ci-dessous)
 * (3) Actualisation des documents EMAS
-	* Aperçu des [objectifs 2021-2024](Apercu_Objectifs_EMAS.pdf) ![](pdf.png)
-	* [Objectifs 2021-2024](Objectifs_EMAS_2021-24.pdf) ![](pdf.png)
-	* [Revue de direction 2019-2020](Revue_Direction_2019-20.docx) ![](word.jpg)
-	* [Plan de communication](Plan_Communication_EMAS_2021.xlsx) ![](excel.png)
+	* [Revue de direction 2020](Note_Rev_direction_EMAS_2020.docx) ![](word.jpg)
+		* [Annexe 1](Annexe_1.Politique_environnementale_SPF.pdf) ![](pdf.png) - Politique environnementale du SPF
+		* [Annexe 2](Annexe_2_Apercu_Objectifs_EMAS.pdf) ![](pdf.png) - Aperçu des objectifs EMAS 2021-2024
+		* [Annexe 3](Annexe_3_Tableau_bord_Objectifs_EMAS_2021-2024.pdf) - Tableau de bord des objectifs EMAS 2021-2024
+		* [Annexe 4](Annexe_4_Plan_communication_EMAS_2021.xlsx) ![](excel.png) - Plan de communication EMAS 2021
+		* [Annexe 5](Annexe_5_Programme_audits_internes_EMAS.xlsx) ![](excel.png) - Programme des audits internes EMAS
+		* [Annexe 6](Annexe_6_Plan_Actions_correctives_EMAS.xlsx) ![](excel.png) - Plan des actions correctives
 * (4) ICT-Project Portfolio Review Meeting S2 - Debriefing de la [réunion du 17.03](ICT_project_portfolio_review.pdf) ![](pdf.png)
 * (5) Note verte - Contrôle des comptes du [Service de médiation pour le consommateur](Controle_comptes_Service_Mediation_Conso.pdf) ![](pdf.png)
 * (6) [Uitgaande elektronische facturatie](Uitgaande_elektronische_facturatie.pdf) ![](pdf.png) - project FOD BOSA
