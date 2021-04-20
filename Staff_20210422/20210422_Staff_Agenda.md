@@ -34,6 +34,7 @@
 	* 23.04 : interview de Elvan Delva (*Rosetta* / Robert et Mathias) - test d'un profil polyvalent
 	* Entrée en service de Nils VLASSENBROECK le 03.05
 	* Pension au 01.05 pour Martine VAN HERZELE et Maria VAN ESSCHE
+	* Décorations ("*Moniteur*" du 20.04) : Ronny Debbaut, Pascale Bodart et Didier Verpraet
 
 
 <a name="todo"> </a>
