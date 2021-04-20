@@ -9,7 +9,7 @@
 | :--- |
 | [https://newdevprojects.github.io/S2/Staff_20210422/20210422_Staff_Agenda.html](https://newdevprojects.github.io/S2/Staff_20210422/20210422_Staff_Agenda.html) | 
 
-# Staff 20210325 - Agenda
+# Staff 20210422 - Agenda
 
 * (1) Opvolging vorige stafvergaderingen
 	* [To Do's](#todo) en terugkerende dossiers
@@ -18,7 +18,10 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210330_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210330_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210330_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210340_Them_NL.pdf)
 	* Briefing DC 27.04.2021
+* (3) Gestion des congés (déconnexion)
+	* Idée de faire savoir les jours de (vrais) congé - [e-mail RMass 26.03.2021]() ![](pdf.png)
 * (10) Varia
+	* 23.04 : interview de Elvan Delva (*Rosetta* / Robert et Yassine)
 	* Entrée en service de Nils VLASSENBROECK le 03.05
 	* Pension au 01.05 pour Martine VAN HERZELE et Maria VAN ESSCHE
 
