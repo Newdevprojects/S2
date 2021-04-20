@@ -60,4 +60,5 @@
 
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
+| Nouveau contrat d'administration | Edward | 3° trim. 2021 (?) | Groupe horizontal Els Moors (T) |
 | SLA ABC | RMass | 3° trim. 2021 | Renégociation SLA 2013 |
