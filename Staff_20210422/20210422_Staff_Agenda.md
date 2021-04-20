@@ -22,13 +22,14 @@
 	* Briefing DC 27.04.2021
 * (3) Accord de gouvernement - Tableau de suivi des [dossiers prioritaires S2](Tableau_Suivi_dossiers_prioritaires_S2.pdf) ![](pdf.png)
 * (4) Perspectives RH - Plan de personnel - état d'exécution
+	* [Aanwerving voor Secretariaat IF](Aanwerving_secretariaat_IF.pdf) ![](pdf.png)
 	* [Table](TablePlansPersonnel_20210420.pdf) ![](pdf.png) (état au 20.04.2021)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
 * (5) Gestion des congés (déconnexion)
 	* Idée de faire savoir les jours de (vrais) congé - [e-mail RMass 26.03.2021](20210326_Verderzetten_Verplicht_Telewerk.pdf) ![](pdf.png)
 	* [e-mail sur le même sujet](Mail_RMass_20210326.md)
 * (6) [Remboursements BOSA](20210415_Remboursement_BOSA.pdf) ![](pdf.png) (personnes malentendantes)
-* (10) Varia
+* (7) Varia
 	* Proximus offre aux agents du SPF Economie la possibilité d’obtenir un abonnement GSM à un tarif réduit pour leur partenaire et/ou pour leur(s) enfant(s) ; aucune gestion n'est nécessaire en ce qui concerne le SPF
 	* 23.04 : interview de Elvan Delva (*Rosetta* / Robert et Mathias) - test d'un profil polyvalent
 	* Entrée en service de Nils VLASSENBROECK le 03.05
