@@ -16,11 +16,12 @@
 * (2) DC 
 	* Debriefing DC 30.03.2021
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210330_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210330_Them_FR.pdf)
-		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210330_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210340_Them_NL.pdf)
+		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210330_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210330_Them_NL.pdf)
 	* Briefing DC 27.04.2021
 * (3) Accord de gouvernement - Tableau de suivi des [dossiers prioritaires S2](Tableau_Suivi_dossiers_prioritaires_S2.pdf) ![](pdf.png)
 * (4) Gestion des congés (déconnexion)
 	* Idée de faire savoir les jours de (vrais) congé - [e-mail RMass 26.03.2021](20210326_Verderzetten_Verplicht_Telewerk.pdf) ![](pdf.png)
+* (5) [Remboursements BOSA](20210415_Remboursement_BOSA.pdf) ![](pdf.png) (personnes malentendantes)
 * (10) Varia
 	* Proximus offre aux agents du SPF Economie la possibilité d’obtenir un abonnement GSM à un tarif réduit pour leur partenaire et/ou pour leur(s) enfant(s) ; aucune gestion n'est nécessaire en ce qui concerne le SPF
 	* 23.04 : interview de Elvan Delva (*Rosetta* / Robert et Mathias) - test d'un profil polyvalent
