@@ -31,7 +31,6 @@
 * (6) [Remboursements BOSA](20210415_Remboursement_BOSA.pdf) ![](pdf.png) (personnes malentendantes)
 * (7) Varia
 	* Proximus offre aux agents du SPF Economie la possibilité d’obtenir un abonnement GSM à un tarif réduit pour leur partenaire et/ou pour leur(s) enfant(s) ; aucune gestion n'est nécessaire en ce qui concerne le SPF
-	* 23.04 : interview de Elvan Delva (*Rosetta* / Robert et Mathias) - test d'un profil polyvalent
 	* Entrée en service de Nils VLASSENBROECK le 03.05
 	* Pension au 01.05 pour Martine VAN HERZELE et Maria VAN ESSCHE
 	* Décorations ("*Moniteur*" du 20.04) : Ronny Debbaut, Pascale Bodart et Didier Verpraet
