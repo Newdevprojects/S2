@@ -13,7 +13,7 @@
 
 * (1) Opvolging vorige stafvergaderingen
 	* [Tableau Staff 11.03.2021](Tableau_Staff_20210311.pdf) ![](pdf.png)
-	* [Tableau Staff 25.03.2021]()
+	* [Tableau Staff 25.03.2021](Tableau_Staff_20210325.pdf) ![](pdf.png)
 	* [To Do's](#todo) en terugkerende dossiers
 * (2) DC 
 	* Debriefing DC 30.03.2021
