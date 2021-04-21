@@ -34,7 +34,9 @@
 	* Entrée en service de Nils VLASSENBROECK le 03.05
 	* Pension au 01.05 pour Martine VAN HERZELE et Maria VAN ESSCHE
 	* Décorations ("*Moniteur*" du 20.04) : Ronny Debbaut, Pascale Bodart et Didier Verpraet
-
+	* Préparation du CNW du 29.04.2021 : proposition S4 de [composition du groupe projet intranet](New_Intranet_Grp_projet.pdf) ![](pdf.png)
+	* Bilan d'étape :
+		* Suivi des [signalements d'absences](20210421_Monitoring_Ziektemelding_S2.pdf) ![](pdf.png) pour maladie - état des lieux au 21.04.2021
 
 <a name="todo"> </a>
 
