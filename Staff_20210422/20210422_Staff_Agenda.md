@@ -31,6 +31,7 @@
 * (6) [Remboursements BOSA](20210415_Remboursement_BOSA.pdf) ![](pdf.png) (personnes malentendantes)
 * (7) Varia
 	* GTI "[Plan national pour la large bande](GTI_Plan_national_large_bande_2021-2024.pdf) ![](pdf.png) fixe et mobile (2021-2024)"
+		* [Réponse donnée le 21.04](Reponse_Large_Bande.md)
 	* Proximus offre aux agents du SPF Economie la possibilité d’obtenir un abonnement GSM à un tarif réduit pour leur partenaire et/ou pour leur(s) enfant(s) ; aucune gestion n'est nécessaire en ce qui concerne le SPF
 	* Entrée en service de Nils VLASSENBROECK le 03.05
 	* Pension au 01.05 pour Martine VAN HERZELE et Maria VAN ESSCHE
