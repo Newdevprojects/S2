@@ -19,10 +19,12 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210427_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210427_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210427_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210427_Them_NL.pdf)
 	* Briefing DC 11.05.2021
-* (3) Perspectives RH - Plan de personnel - état d'exécution
+* (3) [Doorlooptijden](20210429_Doorlooptijden_e-Invoicing.pdf) ![](pdf.png) e-Invocing in 2020
+	* [data](data.xlsx) ![](excel.png)
+* (4) Perspectives RH - Plan de personnel - état d'exécution
 	* [Table](TablePlansPersonnel_20210420.pdf) ![](pdf.png) (état au 06.05.2021)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
-* (7) Varia
+* (5) Varia
 	* Debriefing des Ateliers "Organisation future/Note des Directeurs P&O" des 29.04 et 06.05
 	* Formations :
 		* Liste des collaborateurs S2 qui suivront des [formations en langues](CONFIRMATION_Interesselijst_modules_e-learning_langues_S2.pdf) ![](pdf.png)
