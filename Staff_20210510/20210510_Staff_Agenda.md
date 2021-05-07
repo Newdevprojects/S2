@@ -18,10 +18,7 @@
 	* Debriefing DC 27.04.2021
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210427_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210427_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210427_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210427_Them_NL.pdf)
-	* Briefing DC 11.05.2021
-		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210511_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210511_Them_FR.pdf)
-		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210511_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210511_Them_NL.pdf)
-	* Briefing DC 11.05.2021
+	* Briefing DC 11.05.2021 - [ADM](https://newdevprojects.github.io/S2/Staff/20210511_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210511_Them_NL.pdf)
 
 * (3) [Doorlooptijden](20210429_Doorlooptijden_e-Invoicing.pdf) ![](pdf.png) e-Invoicing in 2020
 	* [data](data.xlsx) ![](excel.png)
@@ -32,7 +29,7 @@
 	* Personnel intérimaire ? - Voir [PV Staff 22.04.2021](https://newdevprojects.github.io/S2/Staff_20210422/20210422_Staff_PV.html#horizontal-issues)
 * (5) Varia
 	* Debriefing des Ateliers "Organisation future/Note des Directeurs P&O" des 29.04 et 06.05
-	* Nouveaux formulaires RH - voir le [Sharepoint du Staff](https://gcloudbelgium.sharepoint.com/sites/FSECO-support/StaffS2/Staffmeeting/Forms/Per%20meeting.aspx?InitialTabId=Ribbon%2ERead&VisibilityContext=WSSTabPersistence) (10.05.2021)
+	* Nouveaux formulaires RH - voir le Sharepoint du Staff S2 (10.05.2021)
 	* Formations :
 		* Liste des collaborateurs S2 qui suivront des [formations en langues](CONFIRMATION_Interesselijst_modules_e-learning_langues_S2.pdf) ![](pdf.png)
 		* Vakdomein *Accounting, auditing en financieel management in de publieke en non-profitsector* - [Aanbod RUGent](Navormingen_RUGent_Financien.pdf) ![](pdf.png)
