@@ -12,22 +12,23 @@
 # Staff 20210510 - Agenda
 
 * (1) Opvolging vorige stafvergaderingen
-	* <mark>[PV Staff 22.04.2021](https://newdevprojects.github.io/S2/Staff_20210422/20210422_Staff_PV.html)</mark>
+	* [PV Staff 22.04.2021](https://newdevprojects.github.io/S2/Staff_20210422/20210422_Staff_PV.html)
 	* [To Do's](#todo) en terugkerende dossiers
 * (2) DC 
 	* Debriefing DC 27.04.2021
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210427_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210427_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210427_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210427_Them_NL.pdf)
-	* <mark>Briefing DC 11.05.2021</mark>
+	* Briefing DC 11.05.2021
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210511_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210511_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210511_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210511_Them_NL.pdf)
 	* Briefing DC 11.05.2021
 
 * (3) [Doorlooptijden](20210429_Doorlooptijden_e-Invoicing.pdf) ![](pdf.png) e-Invoicing in 2020
 	* [data](data.xlsx) ![](excel.png)
-* (4) Perspectives RH - Plan de personnel - état d'exécution
-	* <mark>[Table]()</mark> ![](pdf.png) (état au 06.05.2021)
+* (4) Perspectives RH - Plans de personnel - état d'exécution
+	* [Table](TablePlansPersonnel_20210506.pdf) ![](pdf.png) (état au 06.05.2021)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
+	* Perspective *Rosetta* : Vanessa FOLO
 * (5) Varia
 	* Debriefing des Ateliers "Organisation future/Note des Directeurs P&O" des 29.04 et 06.05
 	* <mark>[Nouveaux formulaires RH]()</mark>
