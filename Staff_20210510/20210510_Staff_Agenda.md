@@ -28,10 +28,11 @@
 * (4) Perspectives RH - Plans de personnel - état d'exécution
 	* [Table](TablePlansPersonnel_20210506.pdf) ![](pdf.png) (état au 06.05.2021)
 	* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
-	* Perspective *Rosetta* : Vanessa FOLO
+	* Perspective *Rosetta* - Vanessa FOLO
+	* Personnel intérimaire ? - Voir [PV Staff 22.04.2021](https://newdevprojects.github.io/S2/Staff_20210422/20210422_Staff_PV.html#horizontal-issues)
 * (5) Varia
 	* Debriefing des Ateliers "Organisation future/Note des Directeurs P&O" des 29.04 et 06.05
-	* <mark>[Nouveaux formulaires RH]()</mark>
+	* Nouveaux formulaires RH - voir le [Sharepoint du Staff](https://gcloudbelgium.sharepoint.com/sites/FSECO-support/StaffS2/Staffmeeting/Forms/Per%20meeting.aspx?InitialTabId=Ribbon%2ERead&VisibilityContext=WSSTabPersistence) (10.05.2021)
 	* Formations :
 		* Liste des collaborateurs S2 qui suivront des [formations en langues](CONFIRMATION_Interesselijst_modules_e-learning_langues_S2.pdf) ![](pdf.png)
 		* Vakdomein *Accounting, auditing en financieel management in de publieke en non-profitsector* - [Aanbod RUGent](Navormingen_RUGent_Financien.pdf) ![](pdf.png)
@@ -52,6 +53,7 @@
 
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
+| Visites bâtiments | Mathias | <font color="crimson" size="3px">&#10179;&#9998;</font> | Suivi des constatations de la Présidente |
 | Restaurant | Mathias | 1° trim. 2021 | opvolging [voorstel](https://newdevprojects.github.io/S2/Staff_20210107/20210107_Sodexo_aangepaste_werking.pdf) dienstverlening Sodexo |
 | Contrats nettoyage | Mathias | &nbsp; | adaptation des contrats de nettoyage (moins de prestations, désinfection) |
 | Intégration du Mailroom E8 | Mathias | &nbsp; | voir [projet](https://newdevprojects.github.io/S2/Staff_20210204/Nota_verzendingsdienst_E8.pdf)<br>contact nécessaire avec DG ai. E8 |
