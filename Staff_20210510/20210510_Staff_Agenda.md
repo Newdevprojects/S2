@@ -29,7 +29,7 @@
 	* Personnel intérimaire ? - Voir [PV Staff 22.04.2021](https://newdevprojects.github.io/S2/Staff_20210422/20210422_Staff_PV.html#horizontal-issues)
 * (5) Varia
 	* Debriefing des Ateliers "Organisation future/Note des Directeurs P&O" des 29.04 et 06.05
-	* Nouveaux formulaires RH - voir le Sharepoint du Staff S2 (10.05.2021)
+	* Nouveaux formulaires RH - liens vers le [Sharepoint du Staff S2](Formulaires_RH_simplifies.md)
 	* Formations :
 		* Liste des collaborateurs S2 qui suivront des [formations en langues](CONFIRMATION_Interesselijst_modules_e-learning_langues_S2.pdf) ![](pdf.png)
 		* Vakdomein *Accounting, auditing en financieel management in de publieke en non-profitsector* - [Aanbod RUGent](Navormingen_RUGent_Financien.pdf) ![](pdf.png)
