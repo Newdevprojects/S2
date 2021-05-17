@@ -22,6 +22,7 @@
 * (3) Perspectives RH - Plans de personnel - état d'exécution
 * (5) Varia
 	* &Eacute;laboration du budget 2022
+	* Retour à la normale - réunions d'équipe - [quelques conseils figurent sur intranet](Conseils_Intranet_reunions_distanciel.pdf) ![](pdf.png)
 
 <a name="todo"> </a>
 
