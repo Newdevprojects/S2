@@ -22,11 +22,11 @@
 * (3) Bijkomende vragen over HR-administratie naar aanleiding van de controle van de rekening door het rekenhof
 * (4) Perspectives RH - Plans de personnel - état d'exécution
 	* Pas de nouveauté, sauf pour ce qui est du *Quick Win* (Niv. C)
-	* Projet de note de S2 en préparation de la Bilatérale S1/S2 <mark>sera mis en ligne le 19.05</mark>
+	* Projet de note de S2 en préparation de la Bilatérale S1/S2 <mark>le projet sera mis en ligne le 19.05 (et envoyé par mail)</mark>
 * (5) Varia
 	* &Eacute;laboration du budget 2022
 	* Retour à la normale - réunions d'équipe - [quelques conseils figurent sur intranet](Conseils_Intranet_reunions_distanciel.pdf) ![](pdf.png)
-	* Christina JANSSENS part à la pension le 01.08.2021
+	* Christina JANSSENS part à la pension le 01.07.2021
 
 <a name="todo"> </a>
 
