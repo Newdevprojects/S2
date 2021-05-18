@@ -19,7 +19,7 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210511_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210511_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210511_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210511_Them_NL.pdf)
 	* Briefing DC 25.05.2021
-* (3) Bijkomende vragen over HR-administratie naar aanleiding van de controle van de rekening door het rekenhof
+* (3) Bijkomende vragen over HR-administratie naar aanleiding van de controle van de rekening door het Rekenhof
 * (4) Perspectives RH - Plans de personnel - état d'exécution
 	* Pas de nouveauté, sauf pour ce qui est du *Quick Win* (Niv. C)
 	* Projet de note de S2 en préparation de la Bilatérale S1/S2 <mark>le projet sera mis en ligne le 19.05 (et envoyé par mail)</mark>
