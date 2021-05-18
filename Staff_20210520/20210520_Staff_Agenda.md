@@ -19,12 +19,14 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210511_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210511_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210511_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210511_Them_NL.pdf)
 	* Briefing DC 25.05.2021
-* (3) Perspectives RH - Plans de personnel - état d'exécution
-	* Pas de nouveauté, sauf pour ce qui est du Quick Win (Niv. C)
-	* Projet de note de S2 en préparation d'un Bilatérale S1/S2
-* (4) Varia
+* (3) Bijkomende vragen over HR-administratie naar aanleiding van de controle van de rekening door het rekenhof
+* (4) Perspectives RH - Plans de personnel - état d'exécution
+	* Pas de nouveauté, sauf pour ce qui est du *Quick Win* (Niv. C)
+	* Projet de note de S2 en préparation de la Bilatérale S1/S2 <mark>sera mis en ligne le 19.05</mark>
+* (5) Varia
 	* &Eacute;laboration du budget 2022
 	* Retour à la normale - réunions d'équipe - [quelques conseils figurent sur intranet](Conseils_Intranet_reunions_distanciel.pdf) ![](pdf.png)
+	* Christina JANSSENS part à la pension le 01.08.2021
 
 <a name="todo"> </a>
 
