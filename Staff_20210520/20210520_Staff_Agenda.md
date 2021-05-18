@@ -25,6 +25,9 @@
 	* Projet de note de S2 en préparation de la Bilatérale S1/S2 <mark>le projet sera mis en ligne le 19.05 (et envoyé par mail)</mark>
 * (5) Varia
 	* &Eacute;laboration du budget 2022
+	* Suivi des groupes "Avantages collectifs" (gestion des 120.000 € ex-Service Social) des 30.04 et 18.05
+		* suggestion de simplification (vacances d'enfants) 
+		* digitalisation des demandes pour tous types d'interventions
 	* Retour à la normale - réunions d'équipe - [quelques conseils figurent sur intranet](Conseils_Intranet_reunions_distanciel.pdf) ![](pdf.png)
 	* Christina JANSSENS part à la pension le 01.07.2021
 
