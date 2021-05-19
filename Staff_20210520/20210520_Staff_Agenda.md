@@ -22,7 +22,8 @@
 * (3) Bijkomende vragen over HR-administratie naar aanleiding van de controle van de rekening door het Rekenhof
 * (4) Perspectives RH - Plans de personnel - état d'exécution
 	* Pas de nouveauté, sauf pour ce qui est du *Quick Win* (Niv. C)
-	* Projet de note de S2 en préparation de la Bilatérale S1/S2 <mark>le projet sera mis en ligne le 19.05 (et envoyé par mail)</mark>
+	* [Projet de note](Projet_Note_BilatS1.pdf) ![](pdf.png) de S2 en préparation de la Bilatérale S1/S2
+		* (voir aussi OdJ Staff 10.12.2020) [Priorités recrutement S2](https://newdevprojects.github.io/S2/Staff_20201210/Note_000611_Priorites_recrutement_S2.pdf) ![](pdf.png)  - Suivi Staff 25.11
 * (5) Varia
 	* &Eacute;laboration du budget 2022
 	* (évt.) Debriefing Réseau Intégrité (BOSA) 20.05
