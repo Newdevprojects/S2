@@ -1,8 +1,6 @@
 <link rel="stylesheet" href="https://newdevprojects.github.io/S2/S2.css">
 <link rel="stylesheet" href="S2.css">
 
-&nbsp;[&middot;test](https://app.nuclino.com/bobjr1/General/Palm_4_jours_Dunkerque_Updated-42b360bf-da58-4dab-9668-36c7db457452)
-
 &nbsp;
 
 | Permalink |
@@ -12,7 +10,7 @@
 # Staff 20210603 - Agenda
 
 * (1) Opvolging vorige stafvergaderingen
-	* [PV Staff 20.05.2021]()
+	* [PV Staff 20.05.2021](http://simp.ly/p/NX5QlF)
 	* [To Do's](#todo) en terugkerende dossiers
 * (2) DC 
 	* Debriefing DC 25.05.2021
