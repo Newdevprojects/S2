@@ -17,10 +17,14 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210525_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210525_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210525_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210525_Them_NL.pdf)
 	* Briefing DC 08.06.2021
-* (3) Perspectives RH - Plans de personnel - état d'exécution
-* (4) Varia
+* (3) Nouveau contrat d'administration
+	* [Courriel Els Moors](Mail_EMoors_20210526.pdf) ![](pdf.png)
+	* Annexe : [missie, visie en strategische doelstellingen](Missie_visie_en_strategische_doelstellingen.pdf) ![](pdf.png)
+* (4) Perspectives RH - Plans de personnel - état d'exécution
+* (5) Varia
 	* Debriefing HR-Netwerk 28.05
-	* Planning des congés
+	* [Planning des congés](http://simp.ly/p/c0vDGq)
+	* Andy NUNES obtient une allocation de direction - dossier signé par la Présidente le 20.05 ; *Persopoint*&rarr;dossier personnel le 21.05
 
 <a name="todo"> </a>
 
@@ -47,6 +51,4 @@
 
 | Point | Qui ? | Quand ? | Suivi |
 | --- | :---: | --- | --- | --- |
-| Nouveau contrat d'administration | Edward | 3° trim. 2021 (?) | Groupe horizontal Els Moors (T) |
-| &nbsp; | &nbsp; | <font color="crimson" size="3px">&#10179;&#9998;</font> | Suivi de la réunion du 10.05.2021 |
 | SLA ABC | RMass | 3° trim. 2021 | Renégociation SLA 2013 |
