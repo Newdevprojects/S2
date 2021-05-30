@@ -36,7 +36,6 @@
 | RGPD | Yassine | récurrent | &Eacute;tat des lieux |
 | Kritische processen | Peter | récurrent | &Eacute;tat des lieux |
 | Gestion des archives | Mathias | récurrent | &Eacute;tat des lieux |
-| &nbsp; | &nbsp; | au 13.04.2021 | [personnel disponible](https://newdevprojects.github.io/S2/Staff_20210422/20210413_Planning_archives.pdf) ![](pdf.png) |
 
 ## &#10103; Tâches davantage ponctuelles
 
