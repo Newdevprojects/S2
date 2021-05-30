@@ -12,7 +12,7 @@
 | 08.07.2021 | &nbsp; | &nbsp; | to be determined |
 | 17.06.2021 | &nbsp; | &nbsp; | *Skype* |
 | 03.06.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210603/20210603_Staff_Agenda.html) | &nbsp; | *Skype* |
-| 20.05.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210520/20210520_Staff_Agenda.html) | &nbsp; | *Skype* |
+| 20.05.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210520/20210520_Staff_Agenda.html) | [PV](http://simp.ly/p/NX5QlF) | *Skype* |
 | 10.05.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210510/20210510_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20210520/20210510_Staff_PV.pdf) | *Skype* |
 | 22.04.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210422/20210422_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20210422/20210422_Staff_PV.html) | *Skype* |
 | 25.03.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210325/20210325_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20210422/Tableau_Staff_20210325.pdf) | *Skype* |
