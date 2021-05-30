@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://newdevprojects.github.io/S2/S2.css">
 <link rel="stylesheet" href="S2.css">
 
-&nbsp;
+&nbsp;[&middot;](https://www.remnote.io/a/vaccins-et-brevets-biden-h-ros-peu-de-frais-pdf/60b393d828ae100034fdfd0d)
 
 &nbsp;
 
