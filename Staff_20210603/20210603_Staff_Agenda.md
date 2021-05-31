@@ -25,7 +25,7 @@
 * (4) Perspectives RH - Plans de personnel - état d'exécution
 * (6) Varia
 	* Debriefing HR-Netwerk 28.05
-	* [Planning des congés](http://simp.ly/p/c0vDGq)
+	* [Planning des congés]() <mark>document à compiler par Robert pour le 02.06</mark>
 	* Andy NUNES obtient une allocation de direction - dossier signé par la Présidente le 20.05 ; *Persopoint*&rarr;dossier personnel le 21.05
 
 <a name="todo"> </a>
