@@ -21,7 +21,7 @@
 	* [Courriel Els Moors](Mail_EMoors_20210526.pdf) ![](pdf.png)
 	* Annexe : [missie, visie en strategische doelstellingen](Missie_visie_en_strategische_doelstellingen.pdf) ![](pdf.png)
 * (4) Suivi des dossiers prioritaires - [document discuté au Staff du 22.04](https://newdevprojects.github.io/S2/Staff_20210422/Tableau_Suivi_dossiers_prioritaires_S2.pdf)
-	* Demande de T d'une mise à jour du [tableau de suivi de S2](https://drive.google.com/file/d/1V233xszKs88J31BSAKil8J1SYwZdwXch/view?usp=sharing) ![](excel.png) pour le <b>23.06</b> 
+	* Demande de T d'une mise à jour du [tableau de suivi de S2](https://drive.google.com/file/d/1V233xszKs88J31BSAKil8J1SYwZdwXch/view?usp=sharing) ![](https://newdevprojects.github.io/S2/Staff_20210510/excel.png) pour le <b>23.06</b> 
 * (4) Perspectives RH - Plans de personnel - état d'exécution
 * (6) Varia
 	* Debriefing HR-Netwerk 28.05
