@@ -20,8 +20,10 @@
 * (3) Nouveau contrat d'administration
 	* [Courriel Els Moors](Mail_EMoors_20210526.pdf) ![](pdf.png)
 	* Annexe : [missie, visie en strategische doelstellingen](Missie_visie_en_strategische_doelstellingen.pdf) ![](pdf.png)
+* (4) Suivi des dossiers prioritaires - [document discuté au Staff du 22.04](https://newdevprojects.github.io/S2/Staff_20210422/Tableau_Suivi_dossiers_prioritaires_S2.pdf)
+	* Demande de T d'une mise à jour des tableaux de suivi respectifs pour le <b>23.06</b> 
 * (4) Perspectives RH - Plans de personnel - état d'exécution
-* (5) Varia
+* (6) Varia
 	* Debriefing HR-Netwerk 28.05
 	* [Planning des congés](http://simp.ly/p/c0vDGq)
 	* Andy NUNES obtient une allocation de direction - dossier signé par la Présidente le 20.05 ; *Persopoint*&rarr;dossier personnel le 21.05
