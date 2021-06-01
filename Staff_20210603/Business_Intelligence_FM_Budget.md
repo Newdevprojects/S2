@@ -6,13 +6,9 @@
 
 Robert, Kan je onderstaand onderwerp nog is even toevoegen aan de staf van donderdag?
 
-Peter Christiaens
-
-Stafdienst Budget- en beheerscontrole
-
+Peter Christiaens  
+Stafdienst Budget- en beheerscontrole  
 Adviseur boekhouding
-
-<table class="v1TableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none">
 
 ---
   
@@ -25,10 +21,8 @@ Ok geen probleem, ik kan de toepassing ook is tonen.
 
 Mvg,
 
-Peter Christiaens
-
-Stafdienst Budget- en beheerscontrole
-
+Peter Christiaens  
+Stafdienst Budget- en beheerscontrole  
 Adviseur boekhouding
 
 ---
@@ -71,9 +65,7 @@ Misschien kan ik mijn geagregeerd rapport vervangen door excelbestand nummer 3 d
 
 Mvg,
 
-Peter Christiaens
-
-Stafdienst Budget- en beheerscontrole
-
+Peter Christiaens  
+Stafdienst Budget- en beheerscontrole  
 Adviseur boekhouding
 
