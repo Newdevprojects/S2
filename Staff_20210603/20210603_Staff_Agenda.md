@@ -35,7 +35,7 @@
 	* Autre document en cours de préparation (en vue du Staff du 15.06) - Procédure concernant la revue de direction : "(elle doit être aussi validée par le Comité de Direction, je l’enverrai au moment de l’envoi de tous les autres documents. Je l’ai modifiée parce qu’elle ne tenait pas compte des modifications du règlement de 2017."
 * (8) Varia
 	* Debriefing HR-Netwerk 28.05
-	* [Planning des congés](Vakantieperiodes_2021.xlsx) ![](excel(png) 
+	* [Planning des congés](Vakantieperiodes_2021.xlsx) ![](excel.png) 
 	* Andy NUNES obtient une allocation de direction - dossier signé par la Présidente le 20.05 ; *Persopoint*&rarr;dossier personnel le 21.05
 
 <a name="todo"> </a>
