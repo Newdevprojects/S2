@@ -21,13 +21,15 @@
 	* [Courriel Els Moors](Mail_EMoors_20210526.pdf) ![](pdf.png)
 	* Annexe : [missie, visie en strategische doelstellingen](Missie_visie_en_strategische_doelstellingen.pdf) ![](pdf.png)
 * (4) Suivi des dossiers prioritaires - [document discuté au Staff du 22.04](https://newdevprojects.github.io/S2/Staff_20210422/Tableau_Suivi_dossiers_prioritaires_S2.pdf)
-	* Demande de T d'une mise à jour du [tableau de suivi de S2](https://drive.google.com/file/d/1V233xszKs88J31BSAKil8J1SYwZdwXch/view?usp=sharing) ![](https://newdevprojects.github.io/S2/Staff_20210510/excel.png) pour le <b>23.06</b> 
+	* Demande de T d'une mise à jour du [tableau de suivi de S2](boordtabelprioriteiten.xlsx") ![](excel.png) pour le <b>23.06</b> 
 * (5) [Business Intelligence FM Budget](Business_Intelligence_FM_Budget.md) - demo
 * (6) Perspectives RH - Plans de personnel - état d'exécution
-* (7) Varia
+* (7) EMAS - état d'avancement
+	* Fiche de présentation EMAS - public-cible : trajet de base - [FR](EMAS_Fiche_accueil_FR.pdf) ![](pdf.png) - [NL](EMAS_Fiche_accueil_NL.pdf) ![](pdf.png)
+
+* (8) Varia
 	* Debriefing HR-Netwerk 28.05
-	* [Planning des congés]() <mark>document à compiler par Robert pour le 02.06</mark>
-	* Fiche de [présentation EMAS](https://drive.google.com/file/d/1yEppwHtyWHsN87HUBSGkOKVAhmqkz4o6/view?usp=sharing) ![](pdf.png) - public-cible : trajet de base
+	* [Planning des congés]() 
 	* Andy NUNES obtient une allocation de direction - dossier signé par la Présidente le 20.05 ; *Persopoint*&rarr;dossier personnel le 21.05
 
 <a name="todo"> </a>
