@@ -14,14 +14,14 @@
 	* [To Do's](#todo) en terugkerende dossiers
 * (2) DC 
 	* Debriefing DC 25.05.2021
-		* FR : [ADM](https://drive.google.com/file/d/1x-_9VCCprkiR9QRJhWG7nSrtYrLg-vLc/view?usp=sharing) - [THEM](https://drive.google.com/file/d/15iu3jhsSyrKPSaGe-3VrloHq_GaRwVcg/view?usp=sharing)
-		* NL : [ADM](https://drive.google.com/file/d/1sFA_kVwvt4LA9y9V1kjVva5DaMCmYmw4/view?usp=sharing) - [THEM](https://drive.google.com/file/d/1NXiZneul5NoUUaxQxwp8PvsvVX2bbLyS/view?usp=sharing)
+		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210525_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210525_Them_FR.pdf)
+		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210525_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210525_Them_NL.pdf)
 	* Briefing DC 08.06.2021
 * (3) Nouveau contrat d'administration
 	* [Courriel Els Moors](Mail_EMoors_20210526.pdf) ![](pdf.png)
 	* Annexe : [missie, visie en strategische doelstellingen](Missie_visie_en_strategische_doelstellingen.pdf) ![](pdf.png)
 * (4) Suivi des dossiers prioritaires - [document discuté au Staff du 22.04](https://newdevprojects.github.io/S2/Staff_20210422/Tableau_Suivi_dossiers_prioritaires_S2.pdf)
-	* Demande de T d'une mise à jour du [tableau de suivi de S2](boordtabelprioriteiten.xlsx") ![](excel.png) pour le <b>23.06</b> 
+	* Demande de T d'une mise à jour du [tableau de suivi de S2](boordtabelprioriteiten.xlsx) ![](excel.png) pour le <b>23.06</b> 
 * (5) [Business Intelligence FM Budget](Business_Intelligence_FM_Budget.md) - demo
 * (6) Perspectives RH - Plans de personnel - état d'exécution
 * (7) EMAS - état d'avancement
