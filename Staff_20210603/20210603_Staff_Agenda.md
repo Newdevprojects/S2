@@ -30,7 +30,7 @@
 	* [Gestion des exigences environnementales](Doc3_P05DFr_Gestion_des_exigences_environnementales_FR_V2.pdf) ![](pdf.png)
 		* Remarque de Maria Eugenia : " (modifiée suite à la remarque de l’auditrice et aux modifications du registre). Point d’attention IIA752 "*La procédure de conformité réglementaire n’a pas été mise à jour suite aux modifications apportées à la méthode et aux documents.*"
 	* [Registre réglementaire](Doc4_Registre_reglementaire.xlsx) ![](excel.png)
-		* Remarque de Maria Eugenia : "(il a été modifié déjà avant le dernier audit avec la création de fiche pour chaque réglementation ), je finalise l’audit de conformité (pour l’instant j’ai remarqué une non-conformité sur le suivi des marchés publics par la CDD – je vais envoyer un mail à ce sujet)."
+		* Remarque de Maria Eugenia : "(il a été modifié déjà avant le dernier audit avec la création de fiche pour chaque réglementation) ; je finalise l’audit de conformité (pour l’instant j’ai remarqué une non-conformité sur le suivi des marchés publics par la CDD – je vais envoyer un mail à ce sujet)."
 	* Fiche de présentation EMAS - public-cible : trajet de base - [FR](EMAS_Fiche_accueil_FR.pdf) ![](pdf.png) - [NL](EMAS_Fiche_accueil_NL.pdf) ![](pdf.png)
 	* Autre document en cours de préparation (en vue du Staff du 15.06) - Procédure concernant la revue de direction : "(elle doit être aussi validée par le Comité de Direction, je l’enverrai au moment de l’envoi de tous les autres documents. Je l’ai modifiée parce qu’elle ne tenait pas compte des modifications du règlement de 2017."
 * (8) Varia
