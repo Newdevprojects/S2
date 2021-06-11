@@ -26,6 +26,10 @@
 	* x
 * (5) Perspectives RH - Plans de personnel - état d'exécution
 	* Déroulement de la sélection EFS21087 (Niv. C)
+	* *Belexpo* : toujours pas solution
+	* Proposition S1 en vue d'une bilatérale
+		* [Mail de Daisy Vervenne](Reponse_S1_Note_PrioritesS2.md) du 11.06.2021
+		* [Background Note des services de S1](NoteS1_20210611.pdf) ![](pdf.png)
 * (6) Varia
 	* Test de reprise de travail de Cécile DEBECKER (E2) &rarr; *Mailroom*
 	* Résultats enquête *New Intranet* 
