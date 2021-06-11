@@ -25,8 +25,12 @@
 * (4) Nouveau contrat d'administration
 	* x
 * (5) Perspectives RH - Plans de personnel - état d'exécution
+	* Déroulement de la sélection EFS21087 (Niv. C)
 * (6) Varia
-	* x
+	* Test de reprise de travail de Cécile DEBECKER (E2) &rarr; *Mailroom*
+	* Résultats enquête *New Intranet* 
+		* pour S2, 18 F ont répondu (seuls S3 et E8 font mieux) - [réponses F](FR_enquete_intranet.pdf) ![](pdf.png) 
+		* pour S2, 7 N ont répondu (seuls T et S1 font moins bien) - [réponses N](NL_enquete_intranet.pdf) ![](pdf.png)
 
 <a name="todo"> </a>
 
