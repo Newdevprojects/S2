@@ -24,6 +24,12 @@
 	* Procédure pour la revue de direction
 * (4) Nouveau contrat d'administration
 	* Présentation - [Bilatérale T/S2](PPT_Bilaterale_T_S2_20210607.pdf) ![](pdf.png) du 07.06
+	* In concreto wordt aan S2 gevraagd om een eerste voorstel te doen van
+		* inventaris van onze recurrente activiteiten;
+		* specifieke projecten/prioriteiten 2021
+		* operationele doelstellingen (cfr ook de vorige Bestuursovereenkomst)
+	* [Voorstel RMassant 09.06](https://docs.google.com/document/d/1YMiqQFmdso7zpVX-wKl_-PcjTrrAGy2Lt9i7NB1Z1dE/edit?usp=sharing) (voor commentaar en/of aanvullingen)
+	* Bijdragen van alle DG/SD’s worden besproken op Strategisch DC 02.07
 * (5) Perspectives RH - Plans de personnel - état d'exécution
 	* Déroulement de la sélection EFS21087 (Niv. C)
 	* *Belexpo* : toujours pas solution
