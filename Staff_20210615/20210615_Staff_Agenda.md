@@ -10,7 +10,7 @@
 # Staff 20210615 - Agenda
 
 * (1) Opvolging vorige stafvergaderingen
-	* [PV Staff 03.06.2021]()
+	* [PV Staff 03.06.2021](http://simp.ly/p/jR9RVB)
 	* [To Do's](#todo) en terugkerende dossiers
 * (2) DC 
 	* Debriefing DC 08.06.2021
