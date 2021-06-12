@@ -23,7 +23,7 @@
 	* Programme environnemental EMAS 2021-2024
 	* Procédure pour la revue de direction
 * (4) Nouveau contrat d'administration
-	* x
+	* Présentation - [Bilatérale T/S2](PPT_Bilaterale_T_S2_20210607.pdf) ![](pdf.png) du 07.06
 * (5) Perspectives RH - Plans de personnel - état d'exécution
 	* Déroulement de la sélection EFS21087 (Niv. C)
 	* *Belexpo* : toujours pas solution
