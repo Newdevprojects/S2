@@ -28,7 +28,9 @@
 		* inventaris van onze recurrente activiteiten;
 		* specifieke projecten/prioriteiten 2021
 		* operationele doelstellingen (cfr ook de vorige Bestuursovereenkomst)
-	* [Voorstel RMassant 09.06](https://docs.google.com/document/d/1YMiqQFmdso7zpVX-wKl_-PcjTrrAGy2Lt9i7NB1Z1dE/edit?usp=sharing) (voor commentaar en/of aanvullingen)
+	* [Voorstel RMassant 09.06](https://docs.google.com/document/d/1YMiqQFmdso7zpVX-wKl_-PcjTrrAGy2Lt9i7NB1Z1dE/edit?usp=sharing) ![](word.jpg) (voor commentaar en/of aanvullingen)
+		* [Input Dirk 09.06](Input_Dirk_Strategie_contrat_adm_20210609.pdf) ![](pdf.png)
+		* [Input Peter 09.06](Input_Peter_Strategie_contrat_adm_20210609.pdf) ![](pdf.png)
 	* Bijdragen van alle DG/SD’s worden besproken op Strategisch DC 02.07
 * (5) Perspectives RH - Plans de personnel - état d'exécution
 	* Déroulement de la sélection EFS21087 (Niv. C)
