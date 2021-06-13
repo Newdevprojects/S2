@@ -24,7 +24,7 @@
 	* Procédure pour la revue de direction
 * (4) Nouveau contrat d'administration
 	* Présentation - [Bilatérale T/S2](PPT_Bilaterale_T_S2_20210607.pdf) ![](pdf.png) du 07.06
-	* In concreto wordt aan S2 gevraagd om een eerste voorstel te doen van
+	* Deadline <b>23.06</b> ; in concreto wordt aan S2 gevraagd om een eerste voorstel te doen van
 		* inventaris van onze recurrente activiteiten;
 		* specifieke projecten/prioriteiten 2021
 		* operationele doelstellingen (cfr ook de vorige Bestuursovereenkomst)
