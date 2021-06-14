@@ -18,7 +18,7 @@
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210608_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210608_Them_NL.pdf)
 	* Briefing DC 22.06.2021
 * (3) EMAS
-	* Revue de direction EMAS
+	* [Revue de direction EMAS](https://drive.google.com/file/d/1-_ocA2imuP6zKNsjnI-oIfYsZE5kmORd/view?usp=sharing) ![](word.jpg) - projet de note au comité de direction
 	* Projet de déclaration environnementale 2020
 	* Programme environnemental EMAS 2021-2024
 	* Procédure pour la revue de direction
