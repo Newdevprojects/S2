@@ -19,7 +19,7 @@
 	* Briefing DC 22.06.2021
 * (3) EMAS
 	* [Revue de direction EMAS](https://drive.google.com/file/d/1-_ocA2imuP6zKNsjnI-oIfYsZE5kmORd/view?usp=sharing) ![](word.jpg) - projet de note au comité de direction
-	* Projet de déclaration environnementale 2020
+	* Projet de [déclaration environnementale 2020](https://drive.google.com/file/d/1EhfZ92oCHXanWWxVTbD2_Df-f6Os2afW/view?usp=sharing) ![](pdf.png)
 	* Programme environnemental EMAS 2021-2024
 	* Procédure pour la revue de direction
 * (4) Nouveau contrat d'administration
