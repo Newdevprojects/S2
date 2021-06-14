@@ -21,7 +21,7 @@
 	* [Revue de direction EMAS](https://drive.google.com/file/d/1-_ocA2imuP6zKNsjnI-oIfYsZE5kmORd/view?usp=sharing) ![](word.jpg) - projet de note au comité de direction
 	* Projet de [déclaration environnementale 2020](https://drive.google.com/file/d/1EhfZ92oCHXanWWxVTbD2_Df-f6Os2afW/view?usp=sharing) ![](pdf.png)
 	* [Programme environnemental EMAS 2021-2024](https://drive.google.com/file/d/16kOlAK4TX211uy1_-jmFEatC0QFVBiHI/view?usp=sharing) ![](https://newdevprojects.github.io/S2/Staff_20210603/excel.png)
-	* Procédure pour la revue de direction
+	* [Procédure](https://drive.google.com/file/d/1q03w3cY6noodeUGW65Z1fDVJedagYRdg/view?usp=sharing) ![](word.jpg) pour la revue de direction
 * (4) Nouveau contrat d'administration
 	* Présentation - [Bilatérale T/S2](PPT_Bilaterale_T_S2_20210607.pdf) ![](pdf.png) du 07.06
 	* Deadline <b>23.06</b> ; in concreto wordt aan S2 gevraagd om een eerste voorstel te doen van
