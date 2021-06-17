@@ -18,17 +18,17 @@
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210608_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210608_Them_NL.pdf)
 	* Briefing DC 22.06.2021
 * (3) EMAS
-	* [Revue de direction EMAS](https://drive.google.com/file/d/1-_ocA2imuP6zKNsjnI-oIfYsZE5kmORd/view?usp=sharing) ![](word.jpg) - projet de note au comité de direction
-	* Projet de [déclaration environnementale 2020](https://drive.google.com/file/d/1EhfZ92oCHXanWWxVTbD2_Df-f6Os2afW/view?usp=sharing) ![](pdf.png)
-	* [Programme environnemental EMAS 2021-2024](https://drive.google.com/file/d/16kOlAK4TX211uy1_-jmFEatC0QFVBiHI/view?usp=sharing) ![](https://newdevprojects.github.io/S2/Staff_20210603/excel.png)
-	* [Procédure](https://drive.google.com/file/d/1q03w3cY6noodeUGW65Z1fDVJedagYRdg/view?usp=sharing) ![](word.jpg) pour la revue de direction
+	* [Revue de direction EMAS](20210613_Note_Rev_direction_EMAS 2020.docx) ![](word.jpg) - projet de note au comité de direction
+	* Projet de [déclaration environnementale 2020](20210614_Declaration_environnementale.pdf) ![](pdf.png)
+	* [Programme environnemental EMAS 2021-2024](20210610_programme_environnemental.xlsx) ![](excel.png)
+	* [Procédure](P02EFr_Procedure_Revue_direction_FR_V2.docx) ![](word.jpg) pour la revue de direction
 * (4) Nouveau contrat d'administration
 	* Présentation - [Bilatérale T/S2](PPT_Bilaterale_T_S2_20210607.pdf) ![](pdf.png) du 07.06
 	* Deadline <b>23.06</b> ; in concreto wordt aan S2 gevraagd om een eerste voorstel te doen van
 		* inventaris van onze recurrente activiteiten;
 		* specifieke projecten/prioriteiten 2021
 		* operationele doelstellingen (cfr ook de vorige Bestuursovereenkomst)
-	* [Voorstel RMassant 09.06](https://docs.google.com/document/d/1YMiqQFmdso7zpVX-wKl_-PcjTrrAGy2Lt9i7NB1Z1dE/edit?usp=sharing) ![](word.jpg) (voor commentaar en/of aanvullingen)
+	* [Voorstel RMassant 09.06](Tekst_RMass_20210610.docx) ![](word.jpg) (voor commentaar en/of aanvullingen)
 		* [Input Dirk 09.06](Input_Dirk_Strategie_contrat_adm_20210609.pdf) ![](pdf.png)
 		* [Input Peter 09.06](Input_Peter_Strategie_contrat_adm_20210609.pdf) ![](pdf.png)
 	* Bijdragen van alle DG/SD’s worden besproken op Strategisch DC 02.07
@@ -43,6 +43,7 @@
 	* Résultats enquête *New Intranet* 
 		* pour S2, 18 F ont répondu (seuls S3 et E8 font mieux) - [réponses F](FR_enquete_intranet.pdf) ![](pdf.png) 
 		* pour S2, 7 N ont répondu (seuls T et S1 font moins bien) - [réponses N](NL_enquete_intranet.pdf) ![](pdf.png)
+
 
 <a name="todo"> </a>
 
