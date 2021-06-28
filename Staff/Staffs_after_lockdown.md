@@ -9,6 +9,12 @@
 
 | &nbsp; | ordre du jour et documents | procès-verbal | &nbsp; |
 | :---: | :---: | :---: | :---: |
+| 09.12.2021 | &nbsp; | &nbsp; | &nbsp; |
+| 19.11.2021 | &nbsp; | &nbsp; | &nbsp; |
+| 21.10.2021 | &nbsp; | &nbsp; | &nbsp; |
+| 07.10.2021 | &nbsp; | &nbsp; | &nbsp; |
+| 27.09.2021 | &nbsp; | &nbsp; | &nbsp; |
+| 09.09.2021 | &nbsp; | &nbsp; | &nbsp; |
 | 08.07.2021 | &nbsp; | &nbsp; | Salle 4/A09 |
 | 15.06.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210615/20210615_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20210615/20210615_Staff_PV.html) | Salle 4/A09 |
 | 03.06.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210603/20210603_Staff_Agenda.html) | [PV](http://simp.ly/p/jR9RVB) | *Skype* |
