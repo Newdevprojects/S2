@@ -21,16 +21,23 @@
 * (4) Perspectives RH
 	* Debriefing de la Bilatérale S1/S2
 	* Entrées en service (dates probables)
-		* Julie DEPOORTERE (Archives) (01.08 ou 15.08)
-		* Mira BOULY (Mailroom) (15.08)
+		* Julie DEPOORTERE (Mailroom) (01.08 ou 15.08)
+		* Mira BOULY (Archives) (15.08)
 		* Frédérique GODART (Archives) (?après préavis?)
 		* Laurent CRABECK (Secr. Facility) (?)
 		* Taha MARSOU (Secr. Dir.) (?après préavis?)
 	* mobilité interne : Reninca GITS (pas encore de signature de la Présidente)
+	* Dates interviews (Mathias, Andy) ENS21327 - E-archivaris mailroom : 15.07, 20.07 (pm), 22.07 (am), 28.07, 29.07
 * (5) Varia
+	* Wagenparkbeheer - [Wagen Daisy Vervenne](Leasing_Wagen.pdf) ![](pdf.png)
 	* Debriefing HR-Netwerk 01.07.2021
+	* Retours en été @ S2
+		* [juillet](JUILLET.eml) ![](eml.png)
+		* [août](AOUT.eml) ![](eml.png)
 	* Projet *New Intranet* - [état des lieux](New_Intranet_StavaZa_20210701.pdf) ![](pdf.png)
 	* Ziektemelding @S2 - [état des lieux](Encours_Ziektemelding_S2_20210705.pdf) ![](pdf.png)
+	* Présentation de S2 dans le cadre du module Trajet de Base (Cf. [PV Staff 15.06](https://newdevprojects.github.io/S2/Staff_20210615/20210615_Staff_PV.html#briefing-dc-22062021))
+		* PPT à revoir [FR](PresentationS2FR2021.pptx) ![](ppt.png) - [NL](PresentationS2NL2021.pptx) ![](ppt.png)
 
 <a name="todo"> </a>
 
