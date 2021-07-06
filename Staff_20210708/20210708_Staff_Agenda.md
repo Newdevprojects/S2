@@ -33,7 +33,7 @@
 	* Gestion journalière
 		* Gestion du matériel informatique et des accès en cas d'entrées en service non programmées ou de [départs non monitorés par S1](Probleme_Ticketing_ServiceNow.md) (p. ex. au 01.07 Christina Janssens, Christine Debecker ; bientôt Reninca Gits)
 		* Gestion des 06A des concierges (réunion avec S1 du 06.07)
-			* extrait de leur [contrat](Contrat_concierges.pdg) ![](pdf.png) : droit à 1 jour de récupération par mois
+			* extrait de leur [contrat](Contrat_concierges.pdf) ![](pdf.png) : droit à 1 jour de récupération par mois
 			* Arrangement avec S1 avant rédaction d'un avenant pour consolider ce droit
 	* Debriefing HR-Netwerk 01.07.2021<br>(NB : un debriefing sur la réflexion S1 sur le retour à la normale a été envoyé par e-mail le 02.07 11:35)
 	* Retours en été @ S2
