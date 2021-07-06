@@ -17,12 +17,16 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210622_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210622_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210622_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210622_Them_NL.pdf)
 	* Briefing DC 13.07.2021
-		* x
 * (3) Debriefing Strategisch DC 02.07
 * (4) Perspectives RH
 	* Debriefing de la Bilatérale S1/S2
 	* Entrées en service (dates probables)
-		* x
+		* Julie DEPOORTERE (Archives) (01.08 ou 15.08)
+		* Mira BOULY (Mailroom) (15.08)
+		* Frédérique GODART (Archives) (?après préavis?)
+		* Laurent CRABECK (Secr. Facility) (?)
+		* Taha MARSOU (Secr. Dir.) (?après préavis?)
+	* mobilité interne : Reninca GITS (pas encore de signature de la Présidente)
 * (5) Varia
 	* Debriefing HR-Netwerk 01.07.2021
 	* Projet *New Intranet* - [état des lieux](New_Intranet_StavaZa_20210701.pdf) ![](pdf.png)
