@@ -31,7 +31,7 @@
 * (5) Varia
 	* Wagenparkbeheer - [Wagen Daisy Vervenne](Leasing_Wagen.pdf) ![](pdf.png)
 	* Gestion du matériel informatique et des accès en cas d'entrées en service non programmées ou de [départs non monitorés par S1](Probleme_Ticketing_ServiceNow.md) (p. ex. au 01.07 Christina Janssens, Christine Debecker ; bientôt Reninca Gits)
-	* Debriefing HR-Netwerk 01.07.2021 (NB : un debriefing du point des retours à la normale a été envoyé par e-mail le 02.07 11:35)
+	* Debriefing HR-Netwerk 01.07.2021<br>(NB : un debriefing sur la réflexion S1 sur le retour à la normale a été envoyé par e-mail le 02.07 11:35)
 	* Retours en été @ S2
 		* [juillet](JUILLET.eml) ![](eml.png)
 		* [août](AOUT.eml) ![](eml.png)
