@@ -1,6 +1,6 @@
 # Problème Ticketing ServiceNow
 
-**De:** Im\_S2 S2 (FOD Economie - SPF Economie) <im\_s2@economie.fgov.be>  
+**De:** Im\_S2 S2 (FOD Economie - SPF Economie) <im_s2@economie.fgov.be>  
 **Envoyé :** mardi 6 juillet 2021 12:24:15 (UTC+01:00) Brussels, Copenhagen, Madrid, Paris  
 **À :** Robert Dumoulin (FOD Economie - SPF Economie) <Robert.Dumoulin@economie.fgov.be>  
 
