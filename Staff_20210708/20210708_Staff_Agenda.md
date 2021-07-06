@@ -19,14 +19,14 @@
 	* Briefing DC 13.07.2021
 * (3) Debriefing Strategisch DC 02.07
 * (4) Perspectives RH
-	* Debriefing de la Bilatérale S1/S2
+	* Debriefing de la Bilatérale S1/S2 du 29.06
 	* Entrées en service (dates probables)
 		* Julie DEPOORTERE (Mailroom) (01.08 ou 15.08)
 		* Mira BOULY (Archives) (15.08)
 		* Frédérique GODART (Archives) (?après préavis?)
 		* Laurent CRABECK (Secr. Facility) (?)
 		* Taha MARSOU (Secr. Dir.) (?après préavis?)
-	* mobilité interne : Reninca GITS (pas encore de signature de la Présidente)
+	* mobilité interne : Reninca GITS (&rarr;  Secr. Facility) (pas encore de signature de la Présidente)
 	* Dates interviews (Mathias, Andy) ENS21327 - E-archivaris mailroom : 15.07, 20.07 (pm), 22.07 (am), 28.07, 29.07
 * (5) Varia
 	* Wagenparkbeheer - [Wagen Daisy Vervenne](Leasing_Wagen.pdf) ![](pdf.png)
