@@ -22,11 +22,11 @@
 * (4) Perspectives RH
 	* Debriefing de la Bilatérale S1/S2 du 29.06
 	* Entrées en service (dates probables)
+		* Laurent CRABECK (Secr. Facility) (01.08.2021)
 		* Julie DEPOORTERE (Mailroom) (01.08 ou 15.08)
 		* Mira BOULY (Archives) (15.08)
+		* Taha MARSOU (Secr. Dir.) (01.09)
 		* Frédérique GODART (Archives) (?après préavis?)
-		* Laurent CRABECK (Secr. Facility) (?)
-		* Taha MARSOU (Secr. Dir.) (?après préavis?)
 	* mobilité interne : Reninca GITS (&rarr;  Secr. Facility) (pas encore de signature de la Présidente)
 	* Dates interviews (Mathias, Andy) ENS21327 - E-archivaris mailroom : 15.07, 20.07 (pm), 22.07 (am), 28.07, 29.07
 * (5) Varia
