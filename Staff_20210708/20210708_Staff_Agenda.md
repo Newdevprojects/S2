@@ -31,12 +31,13 @@
 	* Dates interviews (Mathias, Andy) ENS21327 - E-archivaris mailroom : 15.07, 20.07 (pm), 22.07 (am), 28.07, 29.07
 * (5) Varia
 	* Wagenparkbeheer - [Wagen Daisy Vervenne](Leasing_Wagen.pdf) ![](pdf.png)
-	* Gestion journalière
+	* Debriefing HR-Netwerk 01.07.2021<br>(NB : un debriefing sur la réflexion S1 sur le retour à la normale a été envoyé par e-mail le 02.07 11:35)
+	* Gestion journalière S2
 		* Gestion du matériel informatique et des accès en cas d'entrées en service non programmées ou de [départs non monitorés par S1](Probleme_Ticketing_ServiceNow.md) (p. ex. au 01.07 Christina Janssens, Christine Debecker ; bientôt Reninca Gits)
 		* Gestion des 06A des concierges (réunion avec S1 du 06.07)
 			* extrait de leur [contrat](Contrat_concierges.pdf) ![](pdf.png) : droit à 1 jour de récupération par mois
 			* Arrangement avec S1 avant rédaction d'un avenant pour consolider ce droit
-	* Debriefing HR-Netwerk 01.07.2021<br>(NB : un debriefing sur la réflexion S1 sur le retour à la normale a été envoyé par e-mail le 02.07 11:35)
+		* Avertir dès que possible le Secr_S2 de la justification des absences (maladie, congés sans soldes)
 	* Retours en été @ S2
 		* [juillet](JUILLET.eml) ![](eml.png)
 		* [août](AOUT.eml) ![](eml.png)
