@@ -18,6 +18,7 @@
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210622_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210622_Them_NL.pdf)
 	* Briefing DC 13.07.2021
 * (3) Debriefing Strategisch DC 02.07
+	* [PV 4S-vergadering van 05.07](12_verslag_4S_05072021.pdf) ![](pdf.png)
 * (4) Perspectives RH
 	* Debriefing de la Bilatérale S1/S2 du 29.06
 	* Entrées en service (dates probables)
