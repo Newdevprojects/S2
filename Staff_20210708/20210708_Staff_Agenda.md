@@ -38,6 +38,7 @@
 			* extrait de leur [contrat](Contrat_concierges.pdf) ![](pdf.png) : droit à 1 jour de récupération par mois
 			* Arrangement avec S1 avant rédaction d'un avenant pour consolider ce droit
 		* Avertir dès que possible le Secr_S2 de la justification des absences (maladie, congés sans soldes)
+			* Cas extrême : [Martine DE GREEF](PrimeTime_MDeGreef.pdf) ![](pdf.png)
 	* Retours en été @ S2
 		* [juillet](JUILLET.eml) ![](eml.png)
 		* [août](AOUT.eml) ![](eml.png)
