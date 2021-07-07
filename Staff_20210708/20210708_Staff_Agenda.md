@@ -38,12 +38,12 @@
 			* extrait de leur [contrat](Contrat_concierges.pdf) ![](pdf.png) : droit à 1 jour de récupération par mois
 			* Arrangement avec S1 avant rédaction d'un avenant pour consolider ce droit
 		* Avertir dès que possible le Secr_S2 de la justification des absences (maladie, congés sans soldes)
+			* Ziektemelding @S2 - [état des lieux](Encours_Ziektemelding_S2_20210705.pdf) ![](pdf.png)
 			* Cas extrême : [Martine DE GREEF](PrimeTime_MDeGreef.pdf) ![](pdf.png)
 	* Retours en été @ S2
 		* [juillet](JUILLET.eml) ![](eml.png)
 		* [août](AOUT.eml) ![](eml.png)
 	* Projet *New Intranet* - [état des lieux](New_Intranet_StavaZa_20210701.pdf) ![](pdf.png)
-	* Ziektemelding @S2 - [état des lieux](Encours_Ziektemelding_S2_20210705.pdf) ![](pdf.png)
 	* Présentation de S2 dans le cadre du module Trajet de Base (Cf. [PV Staff 15.06](https://newdevprojects.github.io/S2/Staff_20210615/20210615_Staff_PV.html#briefing-dc-22062021))
 		* PPT à revoir [FR](PresentationS2FR2021.pptx) ![](ppt.png) - [NL](PresentationS2NL2021.pptx) ![](ppt.png)
 
