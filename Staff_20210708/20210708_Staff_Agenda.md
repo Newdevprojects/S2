@@ -24,8 +24,8 @@
 	* Debriefing de la Bilatérale S1/S2 du 29.06
 	* Entrées en service (dates probables)
 		* Laurent CRABECK (Secr. Facility) (01.08)
-		* Julie DEPOORTERE (Mailroom) (01.08 ou 15.08)
 		* Mira BOULY (Archives) (15.08)
+		* Julie DEPOORTERE (Mailroom) (01.09)
 		* Taha MARSOU (Secr. Dir.) (01.09)
 		* Frédérique GODART (Archives) (?après préavis?)
 	* mobilité interne : Reninca GITS (&rarr;  Secr. Facility) (pas encore de signature de la Présidente)
