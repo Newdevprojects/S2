@@ -10,7 +10,7 @@
 # Staff 20210910 - Agenda
 
 * (1) Opvolging vorige stafvergaderingen
-	* [PV Staff 08.07.2021 et Staff *ad hoc* 01.09.2021](https://newdevprojects.github.io/S2/Staff_20210708/20210910_Staff_PV.html)
+	* [PV Staff 08.07.2021 et Staff *ad hoc* 01.09.2021](https://newdevprojects.github.io/S2/Staff_20210708/20210901_Staff_PV.html)
 	* [To Do's](#todo) en terugkerende dossiers
 * (2) DC 
 	* Debriefing DC 13.07.2021
