@@ -10,14 +10,13 @@
 # Staff 20210910 - Agenda
 
 * (1) Opvolging vorige stafvergaderingen
-	* [PV Staff 15.06.2021](https://newdevprojects.github.io/S2/Staff_20210615/20210615_Staff_PV.html)
+	* [PV Staff 08.07.2021 et Staff *ad hoc* 01.09.2021](https://newdevprojects.github.io/S2/Staff_20210708/20210910_Staff_PV.html)
 	* [To Do's](#todo) en terugkerende dossiers
 * (2) DC 
-	* Debriefing DC 22.06.2021
-		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210622_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210622_Them_FR.pdf)
-		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210622_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210622_Them_NL.pdf)
-	* Briefing DC 13.07.2021
-		* [PV 4S-vergadering van 05.07](12_verslag_4S_05072021.pdf) ![](pdf.png)
+	* Debriefing DC 13.07.2021
+		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210713_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210713_Them_FR.pdf)
+		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210713_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210713_Them_NL.pdf)
+	* Briefing DC 14.09.2021
 * (3) Debriefing Strategisch DC 02.07
 	* Info [Netwerk Strategisch Plan](20210707_Netwerk_strategisch_plan.pdf) ![](pdf.png)
 * (4) Perspectives RH
