@@ -14,7 +14,8 @@
 | 21.10.2021 | &nbsp; | &nbsp; | &nbsp; |
 | 07.10.2021 | &nbsp; | &nbsp; | &nbsp; |
 | 27.09.2021 | &nbsp; | &nbsp; | Salle 4/A09 |
-| 10.09.2021 | &nbsp; | &nbsp; | Salle 4/A09 |
+| 10.09.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210910/20210910_Staff_Agenda.html) | &nbsp; | Salle 4/A09 |
+| 01.09.2021 | *(ad hoc)* | [PV](https://newdevprojects.github.io/S2/Staff_20210708/20210901_Staff_PV.html) | Salle 4/A09 |
 | 08.07.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210708/20210708_Staff_Agenda.html) | &nbsp; | Salle 4/A09 |
 | 15.06.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210615/20210615_Staff_Agenda.html) | [PV](https://newdevprojects.github.io/S2/Staff_20210615/20210615_Staff_PV.html) | Salle 4/A09 |
 | 03.06.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210603/20210603_Staff_Agenda.html) | [PV](http://simp.ly/p/jR9RVB) | *Skype* |
