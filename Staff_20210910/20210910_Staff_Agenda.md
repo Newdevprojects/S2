@@ -22,7 +22,7 @@
 	* Fichier à compléter - [fourni par Edward le 01.09](20210901_Contrat_adm_Doc_GroupeMoors.xlsx) ![](excel.png)
 	* [Version lisible](https://collectednotes.com/bobjr1/table-lisible) de ce tableau
 * (4) Bilatérale SPF Economie/SPF Finances 21.09 
-	* [Mail Peter Van Den Bossche 06.08](Mail_PVdBossche_20210806.pdf) ![](pdf.png) &rarr; deadline : <font color="crimson"><b>10.09</b></font>
+	* [Mail Pieter Van Den Bossche 06.08](Mail_PVdBossche_20210806.pdf) ![](pdf.png) &rarr; deadline : <font color="crimson"><b>10.09</b></font>
 * (5) Perspectives RH
 	* Exécution du plan de personnel
 		* [Table](TablePlansPersonnel_20210908.pdf) ![](pdf.png) (état au 08.09.2021)
