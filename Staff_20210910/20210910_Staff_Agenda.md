@@ -21,8 +21,8 @@
 	* Fichier à compléter - [fourni par Edward le 01.09](20210901_Contrat_adm_Doc_GroupeMoors.xlsx) ![](excel.png)
 	* [Version lisible](https://collectednotes.com/bobjr1/table-lisible) de ce tableau
 * (4) Bilatérale SPF Economie/SPF Finances 21.09 
-	* [Mail Peter Van Den Bossche 06.08](Mail_PVdBossche_20210806.pdf) ![](pdf.png) &rarr; deadline : <b>10.09</b>
-* (4) Perspectives RH
+	* [Mail Peter Van Den Bossche 06.08](Mail_PVdBossche_20210806.pdf) ![](pdf.png) &rarr; deadline : <font color="crimson"><b>10.09</b></font>
+* (5) Perspectives RH
 	* Exécution du plan de personnel
 		* [Table](TablePlansPersonnel_20210908.pdf) ![](pdf.png) (état au 08.09.2021)
 		* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
@@ -36,10 +36,14 @@
 		* Prolongation du stage d'Yvonne de 2 mois et 8 jours (à ce stade &rarr; 08.01)
 	* mobilité interne : Reninca GITS (&rarr;  Secr. Facility) (OK confirmé par S1 lors de la Bilatérale S1/S2 du 29.06 et toujours pas soumis à Mme la Présidente)
 	* test de six mois de reprise du travail de Cécile DEBECKER non concluant
-	* 
-* (5) Varia
+	* fonctionnement de Greet JACOBS 
+* (6) Projet critique BCP/DRP (Business Continuity Plan et Disaster Recovery Plan)
+	* [Mail Sven Forster 31.07](Mail_SForster_20210731.eml) ![](eml.png)
+	* [Mail Claude Delannoy 07.09](Mail_ClDelannoy_20210907.pdf) ![](pdf.png)
+* (7) Varia
 	* Lucienne BERVAES et Annick NEUCKERMANS ont été pensionnées le 01.09
 	* Gérard RAMAEKERS sera pensionné le 01.01
+	* Démission de Chantal LUYTEN (stage en vue de nomination à l'INAMI à partir du 01.11)
 	
 <a name="todo"> </a>
 
