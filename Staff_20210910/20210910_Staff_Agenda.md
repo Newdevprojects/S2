@@ -17,18 +17,22 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210713_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210713_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210713_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210713_Them_NL.pdf)
 	* Briefing DC 14.09.2021
-* (3) Debriefing Strategisch DC 02.07
-	* Info [Netwerk Strategisch Plan](20210707_Netwerk_strategisch_plan.pdf) ![](pdf.png)
+* (3) Nouveau contrat d'administration
 * (4) Perspectives RH
-	* Debriefing de la Bilatérale S1/S2 du 29.06
-	* Entrées en service (dates probables)
-		* Laurent CRABECK (Secr. Facility) (01.08)
-		* Mira BOULY (Archives) (15.08)
-		* Julie DEPOORTERE (Mailroom) (01.09)
-		* Taha MARSOU (Secr. Dir.) (01.09)
-		* Frédérique GODART (Archives) (?après préavis?)
-	* mobilité interne : Reninca GITS (&rarr;  Secr. Facility) (pas encore de signature de la Présidente)
-	* Dates interviews (Mathias, Andy) ENS21327 - E-archivaris mailroom : 15.07, 20.07 (pm), 22.07 (am), 28.07, 29.07
+	* Exécution du plan de personnel
+		* [Table](TablePlansPersonnel_20210908.pdf) ![](pdf.png) (état au 08.09.2021)
+		* Les actions qui ont connu des changements sont marquées ![](table_NEW.png)
+		* Ouvertures encore possibles : 2 x C1 (signalé sous "Divers" par Robert le 01.09)
+			* Assistant contact-bâtiment (suggestion Mathias le 01.09)
+			* Assistant administratif comptabilité (suggestion + [note 01.09 Peter](nota_pensionering_20210901.pdf) ![](pdf.png) de Peter )
+	* Entrées en service
+		* Katy LASSUY (Contrôleur Subventions) (01.10)
+	* Absences pour maladie de Patricia COCKMARTIN et de Yvonne KALINDA
+		* Publication d'une demande de Talent Exchange (candidatures ouvertes &rarr; 05.10)
+		* Prolongation du stage d'Yvonne de 2 mois et 8 jours (à ce stade &rarr; 08.01)
+	* mobilité interne : Reninca GITS (&rarr;  Secr. Facility) (OK confirmé par S1 lors de la Bilatérale S1/S2 du 29.06 et toujours pas soumis à Mme la Présidente)
+	* test de six mois de reprise du travail de Cécile DEBECKER non concluant
+	* 
 * (5) Varia
 	* Wagenparkbeheer - [Wagen Daisy Vervenne](Leasing_Wagen.pdf) ![](pdf.png)
 	* Debriefing HR-Netwerk 01.07.2021<br>(NB : un debriefing sur la réflexion S1 sur le retour à la normale a été envoyé par e-mail le 02.07 11:35)
