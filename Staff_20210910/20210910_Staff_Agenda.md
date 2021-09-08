@@ -18,6 +18,8 @@
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210713_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210713_Them_NL.pdf)
 	* Briefing DC 14.09.2021
 * (3) Nouveau contrat d'administration
+	* Fichier à compléter - [fourni par Edward le 01.09](20210901_Contrat_adm_Doc_GroupeMoors.xlsx) ![](excel.png)
+	* [Version lisible](https://collectednotes.com/bobjr1/table-lisible) de ce tableau
 * (4) Perspectives RH
 	* Exécution du plan de personnel
 		* [Table](TablePlansPersonnel_20210908.pdf) ![](pdf.png) (état au 08.09.2021)
@@ -34,23 +36,9 @@
 	* test de six mois de reprise du travail de Cécile DEBECKER non concluant
 	* 
 * (5) Varia
-	* Wagenparkbeheer - [Wagen Daisy Vervenne](Leasing_Wagen.pdf) ![](pdf.png)
-	* Debriefing HR-Netwerk 01.07.2021<br>(NB : un debriefing sur la réflexion S1 sur le retour à la normale a été envoyé par e-mail le 02.07 11:35)
-	* Gestion journalière S2
-		* Gestion du matériel informatique et des accès en cas d'entrées en service non programmées ou de [départs non monitorés par S1](Probleme_Ticketing_ServiceNow.md) (p. ex. au 01.07 Christina Janssens, Christine Debecker ; bientôt Reninca Gits)
-		* Gestion des 06A des concierges (réunion avec S1 du 06.07)
-			* extrait de leur [contrat](Contrat_concierges.pdf) ![](pdf.png) : droit à 1 jour de récupération par mois
-			* Arrangement avec S1 avant rédaction d'un avenant pour consolider ce droit
-		* Avertir dès que possible le Secr_S2 de la justification des absences (maladie, congés sans soldes)
-			* Ziektemelding @S2 - [état des lieux](Encours_Ziektemelding_S2_20210705.pdf) ![](pdf.png)
-			* Cas extrême : [Martine DE GREEF](PrimeTime_MDeGreef.pdf) ![](pdf.png)
-	* Retours en été @ S2
-		* [juillet](JUILLET.eml) ![](eml.png)
-		* [août](AOUT.eml) ![](eml.png)
-	* Projet *New Intranet* - [état des lieux](New_Intranet_StavaZa_20210701.pdf) ![](pdf.png)
-	* Présentation de S2 dans le cadre du module Trajet de Base (Cf. [PV Staff 15.06](https://newdevprojects.github.io/S2/Staff_20210615/20210615_Staff_PV.html#briefing-dc-22062021))
-		* PPT à revoir [FR](PresentationS2FR2021.pptx) ![](ppt.png) - [NL](PresentationS2NL2021.pptx) ![](ppt.png)
-
+	* Lucienne BERVAES et Annick NEUCKERMANS ont été pensionnées le 01.09
+	* Gérard RAMAEKERS sera pensionné le 01.01
+	
 <a name="todo"> </a>
 
 ## ToDo Items
