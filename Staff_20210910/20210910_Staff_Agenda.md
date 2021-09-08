@@ -17,6 +17,7 @@
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210713_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210713_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210713_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210713_Them_NL.pdf)
 	* Briefing DC 14.09.2021
+		* [Feedback réunion des 4S du 07.09](Dagorde_4S_07-09-2021.pdf) ![](pdf.png)
 * (3) Nouveau contrat d'administration
 	* Fichier à compléter - [fourni par Edward le 01.09](20210901_Contrat_adm_Doc_GroupeMoors.xlsx) ![](excel.png)
 	* [Version lisible](https://collectednotes.com/bobjr1/table-lisible) de ce tableau
