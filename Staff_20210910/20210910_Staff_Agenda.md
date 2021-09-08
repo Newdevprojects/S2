@@ -10,7 +10,7 @@
 # Staff 20210910 - Agenda
 
 * (1) Opvolging vorige stafvergaderingen
-	* [PV Staff 08.07.2021 et Staff *ad hoc* 01.09.2021](https://newdevprojects.github.io/S2/Staff_20210708/20210901_Staff_PV.html)
+	* La réunion du 01.09 était consacrée au retour au bureau et à l'organisation du télétravail ; les points "Divers" de cette réunion ont été insérés dans l'ordre du jour ci-dessous
 	* [To Do's](#todo) en terugkerende dossiers
 * (2) DC 
 	* Debriefing DC 13.07.2021
@@ -44,6 +44,7 @@
 	* Lucienne BERVAES et Annick NEUCKERMANS ont été pensionnées le 01.09
 	* Gérard RAMAEKERS sera pensionné le 01.01
 	* Démission de Chantal LUYTEN (stage en vue de nomination à l'INAMI à partir du 01.11)
+	* Chantal SCHLESSER prendra sa pension le 01.05.2022 (souhait de sa part / pas encore officiel)
 	
 <a name="todo"> </a>
 
