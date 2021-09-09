@@ -18,6 +18,8 @@
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210713_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210713_Them_NL.pdf)
 	* Briefing DC 14.09.2021
 		* [Feedback réunion des 4S du 07.09](Dagorde_4S_07-09-2021.pdf) ![](pdf.png)
+		* Situation «  calculette » - intervention de Möbius
+		* Préparation plan de personnel 2022 : besoins de S2
 * (3) Nouveau contrat d'administration
 	* Fichier à compléter - [fourni par Edward le 01.09](20210901_Contrat_adm_Doc_GroupeMoors.xlsx) ![](excel.png)
 	* [Version lisible](https://collectednotes.com/bobjr1/table-lisible) de ce tableau
@@ -43,7 +45,7 @@
 	* [Mail Claude Delannoy 07.09](Mail_ClDelannoy_20210907.pdf) ![](pdf.png)
 * (7) Varia
 	* Lucienne BERVAES et Annick NEUCKERMANS ont été pensionnées le 01.09
-	* Gérard RAMAEKERS sera pensionné le 01.01
+	* Gérard RAMAEKERS sera pensionné le 01.10
 	* Démission de Chantal LUYTEN (stage en vue de nomination à l'INAMI à partir du 01.11)
 	* Chantal SCHLESSER prendra sa pension le 01.05.2022 (souhait de sa part / pas encore officiel)
 	
