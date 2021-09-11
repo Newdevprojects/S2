@@ -16,7 +16,7 @@
 	* Debriefing DC 13.07.2021
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210713_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210713_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210713_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210713_Them_NL.pdf)
-	* Briefing DC 14.09.2021
+	* Briefing DC 15.09.2021
 		* [Feedback réunion des 4S du 07.09](Dagorde_4S_07-09-2021.pdf) ![](pdf.png)
 		* Situation «  calculette » - intervention de Möbius
 		* Préparation plan de personnel 2022 : besoins de S2
