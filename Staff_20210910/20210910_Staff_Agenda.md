@@ -47,7 +47,7 @@
 	* Lucienne BERVAES et Annick NEUCKERMANS ont été pensionnées le 01.09
 	* Gérard RAMAEKERS sera pensionné le 01.10
 	* Démission de Chantal LUYTEN (stage en vue de nomination à l'INAMI à partir du 01.11)
-	* Chantal SCHLESSER prendra sa pension le 01.05.2022 (souhait de sa part / pas encore officiel)
+	* Chantal SCHLESSER et Ignace DE WINNE prendront leur pension le 01.05.2022 (souhait de leur part / pas encore officiel)
 	
 <a name="todo"> </a>
 
