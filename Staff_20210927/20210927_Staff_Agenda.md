@@ -16,7 +16,7 @@
 	* Debriefing DC 15.09.2021
 		* FR : [ADM](https://newdevprojects.github.io/S2/Staff/20210915_Adm_FR.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210915_Them_FR.pdf)
 		* NL : [ADM](https://newdevprojects.github.io/S2/Staff/20210915_Adm_NL.pdf) - [THEM](https://newdevprojects.github.io/S2/Staff/20210915_Them_NL.pdf)
-	* Briefing DC xx.09.2021
+	* Briefing DC 28.09.2021
 * (3) Nouveau contrat d'administration
 	* Fichier à compléter - [fourni par Edward le 01.09](20210901_Contrat_adm_Doc_GroupeMoors.xlsx) ![](excel.png)
 	* [Version lisible](https://collectednotes.com/bobjr1/table-lisible) de ce tableau
