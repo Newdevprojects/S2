@@ -25,9 +25,9 @@
 
 | &nbsp; | ordre du jour et documents | procès-verbal | &nbsp; |
 | :---: | :---: | :---: | :---: |
-| 09.12.2021 | &nbsp; | &nbsp; | &nbsp; |
-| 19.11.2021 | &nbsp; | &nbsp; | &nbsp; |
-| 21.10.2021 | [Agenda](http://simp.ly/p/ldJlNL) | &nbsp; | Salle 4/A09 |
+| 09.12.2021 | [Agenda](http://simp.ly/p/931c5C) | &nbsp; | *Teams* |
+| 19.11.2021 | [Agenda](http://simp.ly/p/pTNgMz) | [PV](http://simp.ly/p/3Y6Zv4) | *Teams* |
+| 21.10.2021 | [Agenda](http://simp.ly/p/ldJlNL) | [PV](http://simp.ly/p/dWs18g) | Salle 4/A09 |
 | 11.10.2021 | [Agenda](http://simp.ly/p/s4Gx8C) | [PV](http://simp.ly/p/KJDWnn) | *Teams* |
 | 27.09.2021 | [Agenda](http://simp.ly/p/w4q5FR) |[PV](http://simp.ly/p/tgyKtz) | Salle 4/A09 |
 | 10.09.2021 | [Agenda](https://newdevprojects.github.io/S2/Staff_20210910/20210910_Staff_Agenda.html) | [PV](http://simp.ly/p/FWHF3x) | Salle 4/A09 |
