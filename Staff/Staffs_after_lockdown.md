@@ -7,6 +7,20 @@
 
 ## 2022
 
+| &nbsp; | ordre du jour et documents | procès-verbal | &nbsp; |
+| :---: | :---: | :---: | :---: |
+| 07.07.2022 | &nbsp; | &nbsp; | &nbsp; |
+| 23.06.2022 | &nbsp; | &nbsp; | &nbsp; |
+| 02.06.2022 | &nbsp; | &nbsp; | &nbsp; |
+| 19.05.2022 | &nbsp; | &nbsp; | &nbsp; |
+| 05.05.2022 | &nbsp; | &nbsp; | &nbsp; |
+| 21.04.2022 | &nbsp; | &nbsp; | &nbsp; |
+| 17.03.2022 | &nbsp; | &nbsp; | &nbsp; |
+| 17.02.2022 | &nbsp; | &nbsp; | &nbsp; |
+| 03.02.2022 | &nbsp; | &nbsp; | &nbsp; |
+| 20.01.2022 | &nbsp; | &nbsp; | &nbsp; |
+| 06.01.2022 | &nbsp; | &nbsp; | Salle 4/A09 |
+
 ## 2021
 
 | &nbsp; | ordre du jour et documents | procès-verbal | &nbsp; |
