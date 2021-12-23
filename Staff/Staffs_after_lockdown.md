@@ -19,13 +19,13 @@
 | 17.02.2022 | &nbsp; | &nbsp; | &nbsp; |
 | 03.02.2022 | &nbsp; | &nbsp; | &nbsp; |
 | 20.01.2022 | &nbsp; | &nbsp; | &nbsp; |
-| 06.01.2022 | &nbsp; | &nbsp; | Salle 4/A09 |
+| 06.01.2022 | [Agenda](http://simp.ly/p/CQxlvW) | &nbsp; | Salle 4/A09 |
 
 ## 2021
 
 | &nbsp; | ordre du jour et documents | procès-verbal | &nbsp; |
 | :---: | :---: | :---: | :---: |
-| 09.12.2021 | [Agenda](http://simp.ly/p/931c5C) | &nbsp; | *Teams* |
+| 09.12.2021 | [Agenda](http://simp.ly/p/931c5C) | [PV](http://simp.ly/p/BPsLrF) | *Teams* |
 | 19.11.2021 | [Agenda](http://simp.ly/p/pTNgMz) | [PV](http://simp.ly/p/3Y6Zv4) | *Teams* |
 | 21.10.2021 | [Agenda](http://simp.ly/p/ldJlNL) | [PV](http://simp.ly/p/dWs18g) | Salle 4/A09 |
 | 11.10.2021 | [Agenda](http://simp.ly/p/s4Gx8C) | [PV](http://simp.ly/p/KJDWnn) | *Teams* |
