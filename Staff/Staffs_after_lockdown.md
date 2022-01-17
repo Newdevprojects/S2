@@ -18,14 +18,12 @@
 | 17.03.2022 | &nbsp; | &nbsp; | &nbsp; |
 | 17.02.2022 | &nbsp; | &nbsp; | &nbsp; |
 | 03.02.2022 | &nbsp; | &nbsp; | &nbsp; |
-| 20.01.2022 | [Agenda]() | &nbsp; | Salle 4/A07 |
-| 06.01.2022 | [Agenda](http://simp.ly/p/CQxlvW) | [PV]() | Salle 4/A07 |
+| 20.01.2022 | [Agenda](http://simp.ly/p/2VRD9F) | &nbsp; | Salle 4/A07 |
+| 06.01.2022 | [Agenda](http://simp.ly/p/CQxlvW) | [PV](http://simp.ly/p/2HRfKw) | Salle 4/A07 |
 
 &nbsp;
 
 ## Staffs organisés en [2021](Staffs_after_lockdown_2021.md)
-
-&nbsp; 
 
 ## Staffs organisés en [2020](Staffs_after_lockdown_2020.md)
 
