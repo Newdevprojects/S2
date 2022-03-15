@@ -16,7 +16,7 @@
 | 05.05.2022 | &nbsp; | &nbsp; | &nbsp; |
 | 21.04.2022 | &nbsp; | &nbsp; | &nbsp; |
 | 17.03.2022 | [Agenda](http://simp.ly/p/mLbhkG) | &nbsp; | Salle 4/A12 |
-| 17.02.2022 | [Agenda](http://simp.ly/p/1WGlqz) | [PV](http://simp.ly/p/2x4VFM) | *Teams* |
+| 17.02.2022 | [Agenda](http://simp.ly/p/1WGlqz) | &nbsp; | *Teams* |
 | 03.02.2022 | [Agenda](http://simp.ly/p/5m6j2W) | [PV](http://simp.ly/p/9fXwDN) | *Teams* |
 | 20.01.2022 | [Agenda](http://simp.ly/p/2VRD9F) | [PV](http://simp.ly/p/cV8nsc) | Salle 4/A07 |
 | 06.01.2022 | [Agenda](http://simp.ly/p/CQxlvW) | [PV](http://simp.ly/p/974TQB) | Salle 4/A07 |
