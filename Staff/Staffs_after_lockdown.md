@@ -27,6 +27,3 @@
 
 ## Staffs organisés en [2020](Staffs_after_lockdown_2020.md)
 
----
-
-Test
