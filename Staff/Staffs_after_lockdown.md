@@ -10,9 +10,8 @@
 | &nbsp; | ordre du jour et documents | procès-verbal | &nbsp; |
 | :---: | :---: | :---: | :---: |
 | 07.07.2022 | &nbsp; | &nbsp; | &nbsp; |
-| 22.06.2022 | &nbsp; | &nbsp; | &nbsp; |
-| 02.06.2022 | [Agenda](http://simp.ly/p/9QJ9zZ) | &nbsp; | Salle 4/A12 |
-| 19.05.2022 | [Agenda](http://simp.ly/p/Xg3mx8) | [PV](http://simp.ly/p/FJ2Ll7) | *Teams* |
+| 22.06.2022 | [Agenda](http://simp.ly/p/9QJ9zZ) | &nbsp; | Salle 4/A12 |
+| 19.05.2022 | [Agenda](http://simp.ly/p/Xg3mx8) | &nbsp; | *Teams* |
 | 09.05.2022 | [Agenda](http://simp.ly/p/28t6xN) | [PV](http://simp.ly/p/CcGjBx) | *Teams* |
 | 21.04.2022 | [Agenda](http://simp.ly/p/tYJF10) | [PV](http://simp.ly/p/zdYbGJ) | Salle 4/A12 |
 | 17.03.2022 | [Agenda](http://simp.ly/p/mLbhkG) | [PV](http://simp.ly/p/1rpGdm) | Salle 4/A12 |
