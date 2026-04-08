@@ -3,6 +3,8 @@
 ---
 # Agenda - Staff S25 - 2026-04-07
 
+#tosync 
+
 **PERMALINK:** [https://newdevprojects.github.io/S2/S25/Agenda_StaffS25_2026-03-11.html](https://newdevprojects.github.io/S2/S25/Agenda_StaffS25_2026-04-07.html)
 
 ---
@@ -22,7 +24,7 @@
 
 * (a) Silvia
     * ISMS (ISO27001 27002) - état des lieux / stand van zaken
-    * Procédures relatives aux accès<br>Procedure Toegangscontrole + TODO
+    * Procédure(s) relative(s) aux accès<br>Procedure(s) Toegangscontrole + TODO
     * Visite Atrium/NG (identification des problèmes de sécurité)<br>Bezoek Atrium / NG (identificatie veiligheidsproblemen) + TODO
 * (b) Laurent
     * Taux de présence réel (en ETP) dans les bâtiments<br>Bezettingsgraad (in VTE) van de gebouwen + TODO
@@ -35,7 +37,7 @@
 
 * (a) Bert (a dû quitter la réunion / heeft de vergadering moeten verlaten) 
 * (b) Martin  (excusé / verontschuldigd)
-* (c) Nicolas  (excusé / verontschuldigd)
+* (c) Nicolas
 
 -5- Items S253 (Julie, Nadia, Frédéric)
 
