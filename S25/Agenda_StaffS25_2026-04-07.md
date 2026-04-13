@@ -59,7 +59,7 @@
 -7- Divers  
 -7- Varia
 
-* (Mathias) état des lieux Corr. RH / stavaza HR-Corr + TODO
+* (Mathias) état des lieux Corr. RH / stavaza HR-Corr (NEXT MEETING)
 	* (Mathias) Besoins en formation et inventaire/cartographie des tâches / Behoeften opleidingen en takeninventaris/takencartographie
 * (Nicolas) Factures Fleet (système SAP) / Fleet facturen (SAP-systeem)
 * (Nicolas et Saïd) Anticiper les déménagements + sensibiliser le Staff S2 / Verhuizingen anticiperen + Staff S2 sensibiliseren
