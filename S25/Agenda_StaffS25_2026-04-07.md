@@ -3,8 +3,6 @@
 ---
 # Agenda - Staff S25 - 2026-04-07
 
-#tosync 
-
 **PERMALINK:** [https://newdevprojects.github.io/S2/S25/Agenda_StaffS25_2026-03-11.html](https://newdevprojects.github.io/S2/S25/Agenda_StaffS25_2026-04-07.html)
 
 ---
@@ -15,7 +13,7 @@
 -2- Suivi Top/Down (debriefing comité de direction, Staff S2, instructions nouvelles intranet éventuelles)  
 -2- Opvolging Top/Down (debriefing directiecomité, S2-stafvergadering, eventuele nieuwe instructies op het intranet)  
 
-* (a) Comité Intermédiaire de Cncertation  du 02.04.2026<br>(a) Tussenoverlegcomité van 02.04.2026
+* (a) Comité Intermédiaire de Concertation  du 02.04.2026<br>(a) Tussenoverlegcomité van 02.04.2026
     * Restaurant (état des lieux / stand van zaken)
     * Procédures d'évacuation / Evacuatieprocedures + TODO
 * (b) 20.03.2026 - réunion avec la Régie des Bâtiments<br>(b) 20.03.2026 - Vergadering met de Regie der Gebouwen + TODO
