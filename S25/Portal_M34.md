@@ -19,6 +19,14 @@
 	* [Ligne 26 - Onglet : Actieplan 2025-2029](https://newdevprojects.github.io/S2/S25/M4_Line-26-Actieplan.html)
 * Re-evaluatie (aanbod) diensten - implementatie mits goedkeuring directie
 	* [Ligne 29 - Onglet : Actieplan 2025-2029](https://newdevprojects.github.io/S2/S25/M4_Line-29-Actieplan.html)
+* Analyse van kostenrubrieken (top-down, via Finance) - Kleine kosten reduceren
+	* [Ligne 33 - Onglet : Actieplan 2025-2029](https://newdevprojects.github.io/S2/S25/M4_Line-33-Actieplan.html)
+
+
+
+
+
+
 
 
 
