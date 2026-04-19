@@ -8,7 +8,7 @@
 
 # Portal - Cartographie / M34   
 
-## Julie Lallemand (réunion du 20.04.2026)
+## <u>Julie Lallemand</u><br>(réunion du 20.04.2026)
 
 ### Cartographie des Processus
 
