@@ -9,8 +9,11 @@
 
 ## Julie Lallemand
 
+> Réunion du [[2026-04-20]]
+
 * [Ligne 7 - Onglet : Actieplan 2025-2029](https://newdevprojects.github.io/S2/S25/M4_Line-07-Actieplan.html)
 * [Ligne 23 - Onglet : Actieplan 2025-2029](https://newdevprojects.github.io/S2/S25/M4_Line-23-Actieplan.html)
+* [Ligne 24 - Onglet : Actieplan 2025-2029](https://newdevprojects.github.io/S2/S25/M4_Line-24-Actieplan.html)
 
 ---
 
