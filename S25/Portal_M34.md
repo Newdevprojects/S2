@@ -8,13 +8,12 @@
 
 # Portal - Cartographie / M34   
 
-## Julie Lallemand
+## Julie Lallemand (réunion du 20.04.2026)
 
-> Réunion du [[2026-04-20]]
-
-### Cartographie
+### Cartographie des Processus
 
 * [Cartographie - Ligne 10 - Onglet : voorstel april 2026](https://newdevprojects.github.io/S2/S25/Carto_Line-10.html)
+* [Turtle Diagram](https://newdevprojects.github.io/S2/S25/Turtle_kernproces.pdf)
 
 ### M34 Identification des gaspillages, abus et fraudes
 
