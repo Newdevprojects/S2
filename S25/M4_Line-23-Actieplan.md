@@ -1,6 +1,10 @@
 ---
 
 ---
+<link rel="stylesheet" href="https://newdevprojects.github.io/ACV-CSC/table2.css">
+
+&nbsp;  
+
 ## Ligne 23 - Onglet : Actieplan 2025-2029
 
 | Veld                                                                            | Opmerkingen                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
