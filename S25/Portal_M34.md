@@ -13,7 +13,7 @@
 ### &#9312; Crescendo (Cycle 2026)
 
 * <u>Référence :</u> Page 2 de la [Note n° 000111 du 20.03.2024](https://newdevprojects.github.io/S2/S25/Note_000111_Objectifs_2026.pdf) (chefs de cellules en copie)
-	* En particulier : "Coordonner et organiser le support administratif au sein de S25, coacher et conseiller les collaborateurs et instaurer auprès d’eux, puis renforcer, la culture de feedback (évaluation à 360°)"
+	* En particulier : "<i>Coordonner et organiser le support administratif au sein de S25, coacher et conseiller les collaborateurs et instaurer auprès d’eux, puis renforcer, la <font color="#1434a4"><b>culture de feedback (évaluation à 360°)</b></font></i>"
 
 | Objectif Robert | Nature                                                                                                                                                                                                                                                                                                                                   |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
