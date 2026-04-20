@@ -29,7 +29,7 @@
 
 **Moyen :** En collaboration avec le directeur B&B et les chefs de service, rédiger les descriptions de fonctions pour le recrutement et postes de promotions.
 
-**Moyen :** Traduire l'organigramme de S25 Facility Management vers des tâches concrètes pour chaque collaborateur/collaboratrice. Contribuer à ISO 9001 - description des tâches et fonctions de chaque agent.
+**Moyen :** <font color="#1434a4">Traduire l'organigramme de S25 Facility Management vers des tâches concrètes pour chaque collaborateur/collaboratrice</font>. Contribuer à ISO 9001 - description des tâches et fonctions de chaque agent.
 
 **Moyen :** Suivi des formations, feedback au Facility manager, intégration des connaissances acquises dans le travail.
 
