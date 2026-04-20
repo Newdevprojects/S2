@@ -7,7 +7,6 @@
 
 ## Cartographie - Ligne 10 - Onglet : voorstel april 2026
 
-* Link XLS (from Obsidian only) [[Cartografie_20260401.xlsx]]
 * Link [Cartografie_20260401.pdf](https://newdevprojects.github.io/S2/S25/Cartografie_20260401.pdf)
 
 | Veld                       | Opmerkingen                                                                                       |

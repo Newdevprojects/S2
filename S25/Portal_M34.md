@@ -32,7 +32,8 @@
 | (28.04.2026)    | Réunion avec Chloé Campenaire et Annabelle Delire ayant pour objet : Werkmeeting Facility - processus validatie                                                                                                                                                                                                                                                                         |
 | (01.04.2026)    | Réunion avec Chloé Campenaire et Annabelle Delire ayant pour objet : ISO 9001 : accords et cartographie                                                                                                                                                                                                                                                                                 |
 
-* [Cartographie - Ligne 10 - Onglet : voorstel april 2026](https://newdevprojects.github.io/S2/S25/Carto_Line-10.html)
+* [Cartographie - Ligne 11 - Onglet : voorstel april 2026](https://newdevprojects.github.io/S2/S25/Carto_Line-11.html)
+* [Cartographie - Ligne 14 - Onglet : voorstel april 2026](https://newdevprojects.github.io/S2/S25/Carto_Line-14.html)
 * [Turtle Diagram](https://newdevprojects.github.io/S2/S25/Turtle_kernproces.pdf)
 
 ### &#9314; M34 Identification des gaspillages, abus et fraudes
