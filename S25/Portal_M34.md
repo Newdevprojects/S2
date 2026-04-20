@@ -16,7 +16,7 @@
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | (en continu)    | Conseiller, soutenir et informer les collaborateurs de S25 concernant des questions liées à la gestion RH et à la communication interne (dont les nécessités de mises à jour de l’intranet).<br>**Moyen :** Traduire l'organigramme de S25 Facility Management vers des tâches concrètes pour chaque collaborateur/collaboratrice. (...) |
 
-* [[Moyens_Crescendo_Cycle_2026]]
+* [Moyens_Crescendo_Cycle_2026](https://newdevprojects.github.io/S2/S25/Moyens_Crescendo_Cycle_2026.html)
 
 ### &#9313; Cartographie des Processus
 
