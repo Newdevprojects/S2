@@ -6,11 +6,9 @@
 
 &nbsp;  
 
-# Portal - Cartographie / M34   
+# Bilatérale - Round 1 - Julie Lallemand   
 
-## [Julie Lallemand](https://newdevprojects.github.io/S2/S25/Bilateral_R1_JLallemand_20260420.html) (réunion du 20.04.2026)
-
-## <u>Nicolas Rugolo</u><br>(réunion du 21.04.2026)
+## Réunion du 20.04.2026 (10h30-12h00)
 
 ### &#9312; Crescendo (Cycle 2026)
 
@@ -68,7 +66,7 @@
 
 ---
 
-**PERMALINK:** [https://newdevprojects.github.io/S2/S25/Portal_M34.html](https://newdevprojects.github.io/S2/S25/Portal_M34.html)
+**PERMALINK:** [https://newdevprojects.github.io/S2/S25/Bilateral_R1_JLallemand_20260420.html](https://newdevprojects.github.io/S2/S25/Bilateral_R1_JLallemand_20260420.html)
 
 
 ---
