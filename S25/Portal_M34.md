@@ -12,6 +12,8 @@
 
 ### &#9312; Crescendo (Cycle 2026)
 
+* <u>Référence :</u> Page 2 de la [Note n° 000111 du 20.03.2024](https://newdevprojects.github.io/S2/S25/Note_000111_Objectifs_2026.pdf) (chefs de cellules en copie)
+
 | Objectif Robert | Nature                                                                                                                                                                                                                                                                                                                                   |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | (en continu)    | Conseiller, soutenir et informer les collaborateurs de S25 concernant des questions liées à la gestion RH et à la communication interne (dont les nécessités de mises à jour de l’intranet).<br>**Moyen :** Traduire l'organigramme de S25 Facility Management vers des tâches concrètes pour chaque collaborateur/collaboratrice. (...) |
