@@ -7,20 +7,20 @@
 
 ---
 
-| ToDo                                                | Who                   | When                |
-|-----------------------------------------------------|-----------------------|---------------------|
-| Point (a) procédures d'évacuation NG                | Robert                | Wk-17               |
-| Point (a) procédures d'évacuation Atrium            | Robert                | Wk-18               |
-| Point (b) programme de besoins                      | Mathias, Nicolas      |                     |
-| Point (b) procédures d'accès                        | Silvia, Bert          |                     |
-| Point (c) suivi visite NG/Atrium                    | Silvia, Bert, Nicolas | rapport du visiteur |
-| Point (d) taux d'occupation réel                    | Laurent, Nicolas      |                     |
-| Point (e)  archives - réunion de service S2513      | Robert                | Wk-16               |
-| Point (c) Economat NG                               | Julie, Frédéric       |                     |
-| Approche                                            | Saïd, Robert          | Wk-16               |
-| Contact S2532                                       | Saïd, Robert, Julie   | Wk-17               |
-| Contact S2522                                       | Saïd, Robert, Nicolas | Wk-17               |
-| Interim Report                                      | auprès de S21         | 28/04/2026          |
-| Point (b) Inscription Déménagements agenda Staff S2 | Mathias               | (revolving)         |
+| ToDo                                         | Who                   | When                |   # |
+| -------------------------------------------- | --------------------- | ------------------- | --: |
+| Procédures d'évacuation NG                   | Robert                | Wk-17               |   1 |
+| Procédures d'évacuation Atrium               | Robert                | Wk-18               |   2 |
+| Programme de besoins -> Master Plan Regie    | Mathias, Nicolas      |                     |   3 |
+| Procédures contrôle d'accès                  | Silvia, Bert          |                     |   4 |
+| Suivi visite NG/Atrium                       | Silvia, Bert, Nicolas | rapport du visiteur |   5 |
+| Taux d'occupation des bâtiments              | Laurent, Nicolas      |                     |   6 |
+| Archives - réunion de service S2513          | Robert                | Wk-16               |   7 |
+| Economat NG                                  | Julie, Frédéric       |                     |   8 |
+| Planning / Approche                          | Saïd, Robert          | Wk-16               |   9 |
+| Contact S2532                                | Saïd, Robert, Julie   | Wk-17               |  10 |
+| Contact S2522                                | Saïd, Robert, Nicolas | Wk-17               |  11 |
+| Interim Report                               | auprès de S21         | 28/04/2026          |  12 |
+| Discuter du Poin 'Déménagements' au Staff S2 | Mathias               | (revolving)         |  13 |
 
 ---
