@@ -25,7 +25,7 @@
     * Procédure(s) relative(s) aux accès<br>Procedure(s) Toegangscontrole + TODO
     * Visite Atrium/NG (identification des problèmes de sécurité)<br>Bezoek Atrium / NG (identificatie veiligheidsproblemen) + TODO
 * (b) Laurent
-    * Taux de présence réel (en ETP) dans les bâtiments<br>Bezettingsgraad (in VTE) van de gebouwen + TODO
+    * Taux d'occupation des bâtiments (en ETP)<br>Bezettingsgraad (in VTE) van de gebouwen + TODO
     * (point d'attention / aandachtspunt) - Processus chauffage (NEXT MEETING)
 * (c) Alex (excusé / verontschuldigd)
 * (d) Ronny (Robert)
