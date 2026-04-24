@@ -3,14 +3,6 @@
 ---
 # Structuration de l'ordre du jour du Staff S25<br>Herstruturering van de dagorde van Staff S25
 
-> (texte de l'e-mail envoyé le [[2026-04-03]])
-
-Afin de m'aider à rendre aussi efficace que possible l'utilisation des procès-verbaux, voici une proposition de structuration/systématisation des agendas de nos prochaines réunions de Staff S25. Je vous propose de commencer à tester/pratiquer cette formule dès notre réunion de mardi.
-
-Robert.
-
----
-
 -1- Suivi du PV de la réunion précédente  
 -1- Opvolging notulen van de vorige vergadering
 
@@ -30,3 +22,17 @@ Robert.
 
 -8- Date de la prochaine réunion  
 -8- Datum volgende vergadering
+
+--- 
+
+### Texte de l'e-mail de transmis envoyé par Robert le 03.04.2026
+
+Afin de m'aider à rendre aussi efficace que possible l'utilisation des procès-verbaux, voici une proposition de structuration/systématisation des agendas de nos prochaines réunions de Staff S25. Je vous propose de commencer à tester/pratiquer cette formule dès notre réunion de mardi.
+
+Robert.
+
+---
+
+**PERMALINK:** [https://newdevprojects.github.io/S2/S25/Restructuring_Agenda_Staff-S25.html](https://newdevprojects.github.io/S2/S25/Restructuring_Agenda_Staff-S25.html)
+
+---
