@@ -1,7 +1,7 @@
 ---
 
 ---
-# Structuration de l'ordre du jour du Staff S25<br>Herstruturering van de dagorde van Staff S25
+# Structuration de l'ordre du jour du Staff S25<br>Herstructurering van de dagorde van de Staff S25
 
 -1- Suivi du PV de la réunion précédente  
 -1- Opvolging notulen van de vorige vergadering
