@@ -49,7 +49,7 @@
 -6- Items S254 (Saïd, Robert, Jean-Philippe)
 
 * (a) Jean-Philippe
- * Saïd & Robert
+ * (b) Saïd & Robert
     * Certification PEB<br>PEB certificatie
     * 01.04.2026 - réunion S2 Goes ISO9001<br>01.04.2026 - vergadering S2 Goes ISO9001 + TODO
     * 30.03.2026 - réunion Art. 7 FIA (M34)<br>30.03.2026 - vergadering Art. 7 (M34)
