@@ -2,6 +2,7 @@
 
 ---
 <link rel="stylesheet" href="https://newdevprojects.github.io/S2/Projects/S2_light.css">
+<link rel="stylesheet" href="https://newdevprojects.github.io/ACV-CSC/table2.css">
 
 &nbsp;  
 
@@ -11,9 +12,17 @@
 
 ---
 
+| Supporting Docs |           | Docs                                                                                                                                                                             |
+| --------------- | :-------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11.03.2026      |    PDF    | [Guidelines dirigeants / Informatie leidinggevenden - Robert](https://newdevprojects.github.io/S2/S25/2026-03-11_DocItem1a_Organisatie_Info-RDumoulin_leidinggevenden_FR-NL.pdf) |
+| 07.04.2026      |  Projet   | [Procès-verbal Staff S25 07/04](https://newdevprojects.github.io/S2/S25/PV_StaffS25_2026-04-07_FR.html)                                                                          |
+|                 |  Ontwerp  | [Notulen Staff S25 07/04](https://newdevprojects.github.io/S2/S25/PV_StaffS25_2026-04-07_NL.html)                                                                                |
+| 05.05.2026      |   Suivi   | [Tableau de suivi (après Staff S25 07/04)](https://newdevprojects.github.io/S2/S25/20260505_Tableau_Suivi_StaffS25_FR.html)                                                      |
+|                 | Opvolging | [Opvolgingstabel (na Staff S25 07/04)](https://newdevprojects.github.io/S2/S25/20260505_Tableau_Suivi_StaffS25_NL.html)                                                          |
+
 ## -1- PV
 
-Suivi du **[PV de la réunion précédente](https://newdevprojects.github.io/S2/S25/PV_StaffS25_2026-04-07_FR.html)** / Opvolging **[Notulen vorige vergadering](https://newdevprojects.github.io/S2/S25/PV_StaffS25_2026-04-07_NL.html)**
+Suivi du [PV de la réunion précédente](https://newdevprojects.github.io/S2/S25/PV_StaffS25_2026-04-07_FR.html) / Opvolging [Notulen vorige vergadering](https://newdevprojects.github.io/S2/S25/PV_StaffS25_2026-04-07_NL.html)
 
 - (a) Commentaires et/ou amendements / Commentaar en/of wijzigingen
 - (b) [Tableau de suivi](https://newdevprojects.github.io/S2/S25/20260505_Tableau_Suivi_StaffS25_FR.html) / [Opvolgingstabel](https://newdevprojects.github.io/S2/S25/20260505_Tableau_Suivi_StaffS25_NL.html)
