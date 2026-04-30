@@ -19,7 +19,7 @@
 - Comité de direction / Directiecomité
 - Debriefing Staff S2
 - Instructions - Organisation / Instructies - Organisatie
-	- [Nouvel organigramme S25](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html) -  état des lieux / Stand van Zaken
+	- [Nouvel organigramme S25](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html) -  Etat des lieux / Stand van Zaken
 
 -3- Items S251 (Silvia, Laurent, Alex, Ronny/Robert)
 
