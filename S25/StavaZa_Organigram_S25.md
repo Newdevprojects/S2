@@ -1,6 +1,10 @@
 ---
 
 ---
+<link rel="stylesheet" href="https://newdevprojects.github.io/ACV-CSC/table2.css">
+
+&nbsp;  
+
 # Etat des lieux Organigramme S25
 
 **PERMALINK:** [https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html)
