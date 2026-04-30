@@ -37,6 +37,7 @@ Suivi du [PV de la réunion précédente](https://newdevprojects.github.io/S2/S2
 ## -3- Items S251
 
 * (a) Silvia
+	* 29.04.2026 - Bilatérale avec le DPO - [Invitation / Uitnodiging](https://hackmd.io/@_j72j31YRS6jt-ZRVrmw1Q/Sy6F0plAWg)
 * (b) Laurent
 	* [Etat des lieux - Aspects HR](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html#s2511---operationele-ondersteuning-laurent)
 * (c) Alex
@@ -47,6 +48,8 @@ Suivi du [PV de la réunion précédente](https://newdevprojects.github.io/S2/S2
 ## -4- Items S252
 
 * (a) Bert 
+	* 23.04.2026 [Evacuatieprocedures NG](https://newdevprojects.github.io/publicinfo/SPF/Portal_EvacProc.html) - Suivi `#1` du [Tableau de suivi](https://newdevprojects.github.io/S2/S25/20260505_Tableau_Suivi_StaffS25_FR.html)
+	* 27.04.2026 [Evacuatieprocedures City A](https://newdevprojects.github.io/publicinfo/SPF/Portal_EvacProc.html) - Suivi `#2` du [Tableau de suivi](https://newdevprojects.github.io/S2/S25/20260505_Tableau_Suivi_StaffS25_FR.html)
 * (b) Martin
 	* [Etat des lieux - Aspects HR](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html#s2521---administratief-beheer-martin)
 * (c) Nicolas
