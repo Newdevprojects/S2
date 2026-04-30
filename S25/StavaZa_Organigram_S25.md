@@ -48,3 +48,7 @@
 ## S254 - Project Management
 
 ![S254](https://newdevprojects.github.io/S2/S25/20260430_S254.png)
+
+# Items pour une régularisation des anomalies
+
+x

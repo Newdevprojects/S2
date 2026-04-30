@@ -25,24 +25,32 @@
 
 * (a) Silvia
 * (b) Laurent
+	* [Etat des lieux - Aspects HR](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html#s2511---operationele-ondersteuning-laurent)
 * (c) Alex
+	* [Stand van Zaken - Hr-aspecten](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html#s2512---mailroom-alex)
 * (d) Ronny (Robert)
+	* [Stand van Zaken - Hr-aspecten](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html#s2513---archief-ronny)
 
 -4- Items S252 (Bert, Martin, Nicolas)
 
 * (a) Bert 
 * (b) Martin
+	* [Etat des lieux - Aspects HR](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html#s2521---administratief-beheer-martin)
 * (c) Nicolas
+	* [Etat des lieux - Aspects HR](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html#s2522---operationeel-beheer-nicolas)
 
 -5- Items S253
 
 * (a) Julie
 * (b) Nadia
+	* [Stand van Zaken - Hr-aspecten](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html#s2531---beheer-onthaaldiensten-nadia)
 * (c) Frédéric
+	* [Stand van Zaken - Hr-aspecten](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html#s2532---beheer-bodediensten-fr%C3%A9d%C3%A9ric)
 
 -6- Items S254 (Jean-Philippe, Saïd, Robert)
 
 * (a) Jean-Philippe
+	* [Etat des lieux S254 - Aspects HR](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html#s254---project-management)
  * (b) Saïd & Robert
    
 -7- Divers  
