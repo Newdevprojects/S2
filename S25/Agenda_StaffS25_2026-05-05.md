@@ -1,6 +1,10 @@
 ---
 
 ---
+<link rel="stylesheet" href="https://newdevprojects.github.io/S2/Projects/S2_light.css">
+
+&nbsp;  
+
 # Agenda - Staff S25 - 2026-05-05
 
 **PERMALINK:** [https://newdevprojects.github.io/S2/S25/Agenda_StaffS25_2026-05-05.html](https://newdevprojects.github.io/S2/S25/Agenda_StaffS25_2026-05-05.html)
