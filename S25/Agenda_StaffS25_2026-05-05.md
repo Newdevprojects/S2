@@ -42,7 +42,7 @@ Suivi du [PV de la réunion précédente](https://newdevprojects.github.io/S2/S2
 	* [Etat des lieux - Aspects HR](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html#s2511---operationele-ondersteuning-laurent)
 * (c) Alex
 	* [Stand van Zaken - Hr-aspecten](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html#s2512---mailroom-alex)
-* (d) Ronny (Robert)
+* (d) Ronny
 	* [Stand van Zaken - Hr-aspecten](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html#s2513---archief-ronny)
 
 ## -4- Items S252
