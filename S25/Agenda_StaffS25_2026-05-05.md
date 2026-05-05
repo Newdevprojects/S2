@@ -43,7 +43,7 @@ Suivi du [PV de la réunion précédente](https://newdevprojects.github.io/S2/S2
 * (a) Silvia
 	* 29.04.2026 - Bilatérale avec le DPO - [Invitation / Uitnodiging](https://hackmd.io/@_j72j31YRS6jt-ZRVrmw1Q/Sy6F0plAWg)
 	* Operationele doelstellingen (KPI) (gesteund op het [Strategisch plan 2026 - 2029](https://economie.fgov.be/sites/default/files/Files/Publications/files/Strategisch-plan-2026-2029.pdf))
-	* Categorisatiebeleid - Reminder demo [Staff S25 11.03.2025](https://newdevprojects.github.io/S2/S25/PV_StaffS25_2026-03-11_NL.html#-4--categorisatiebeleid) - Strefdatum: juni 2026
+	* Categorisatiebeleid - Reminder demo [Staff S25 11.03.2025](https://newdevprojects.github.io/S2/S25/PV_StaffS25_2026-03-11_NL.html#-4--categorisatiebeleid) - Streefdatum: juni 2026
 * (b) Laurent
 	* [Etat des lieux - Aspects HR](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html#s2511---operationele-ondersteuning-laurent)
 * (c) Alex
