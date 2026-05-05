@@ -36,7 +36,6 @@ Suivi du [PV de la réunion précédente](https://newdevprojects.github.io/S2/S2
 	- [Nouvel organigramme S25](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html) -  Etat des lieux / Stand van Zaken
 	- Updates : Marjorie Van Onacker - Jacques Kyaboba
 		- Bureaux Facility à l'Atrium / Werkplaatsen Facility (Atrium)
-	- [[RD_Supportive_actions_Obj-2]]
 
 ## -3- Items S251
 
