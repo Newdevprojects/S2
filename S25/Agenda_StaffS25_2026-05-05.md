@@ -32,7 +32,10 @@ Suivi du [PV de la réunion précédente](https://newdevprojects.github.io/S2/S2
 - (a) Comité de direction / Directiecomité
 - (b) Debriefing Staff S2
 - (c) Instructions - Organisation / Instructies - Organisatie
+	- Au/Op 01.05.2026 : [Taille de l'effectif S2 / Aantal S2-personeelsleden](https://newdevprojects.github.io/S2/S25/Effectifs_S2_01-05-2026.html)
 	- [Nouvel organigramme S25](https://newdevprojects.github.io/S2/S25/StavaZa_Organigram_S25.html) -  Etat des lieux / Stand van Zaken
+	- Updates : Marjorie Van Onacker - Jacques Kyaboba
+	- [[RD_Supportive_actions_Obj-2]]
 
 ## -3- Items S251
 
