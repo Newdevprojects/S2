@@ -53,11 +53,11 @@ Suivi du PV de la réunion précédente / Opvolging Notulen vorige vergadering
 
 * (a) Jean-Philippe
  * (b) Saïd & Robert
-	 * (b.1) Debriefing Bilatérale - Julie Lallemand
-	 * (b.2) Debriefing Bilatérale - Nicolas Rugolo
-	 * (b.3) Debriefing Bilatérale - Alex Rembaut
-	 * (b.4) Debriefing Bilatérale - Bert Samson & Mbemba Epolo
-	 * (b.5) Debriefing Bilatérale - Jean-Philippe Bodi Wola
+	 * (b.1) Debriefing Bilatérale - Julie Lallemand - 20.04.2026
+	 * (b.2) Debriefing Bilatérale - Nicolas Rugolo - 21.04.2026
+	 * (b.3) Debriefing Bilatérale - Alex Rembaut - 12.05.2026
+	 * (b.4) Debriefing Bilatérale - Bert Samson & Mbemba Epolo - 18 et 19.05.2026
+	 * (b.5) Debriefing Bilatérale - Jean-Philippe Bodi Wola - 19.05.2026
 
 ## -7- Varia
 
