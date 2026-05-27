@@ -32,12 +32,14 @@ Suivi du PV de la réunion précédente / Opvolging Notulen vorige vergadering
 
 * (a) Silvia
 * (b) Laurent
+	* (b.1.) Intégration de Jacques Kyaboba
 * (c) Alex
 * (d) Ronny
 
 ## -4- Items S252
 
 * (a) Bert 
+	* (a.1) Intégration de Marjorie Van Onacker
 * (b) Martin
 * (c) Nicolas
 
