@@ -12,6 +12,16 @@
 
 ---
 
+| Supporting Docs |             | Docs                                                                                                                                                                             |
+| --------------- | :---------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11.03.2026      |     PDF     | [Guidelines dirigeants / Informatie leidinggevenden - Robert](https://newdevprojects.github.io/S2/S25/2026-03-11_DocItem1a_Organisatie_Info-RDumoulin_leidinggevenden_FR-NL.pdf) |
+| 05.05.2026      |   Projet    | Procès-verbal Staff S25 05/05                                                                                                                                                    |
+|                 |   Ontwerp   | Notulen Staff S25 05/05                                                                                                                                                          |
+| 02.06.2026      |    Suivi    | Tableau de suivi (après Staff S25 05/05)                                                                                                                                         |
+|                 |  Opvolging  | Opvolgingstabel (na Staff S25 05/05)                                                                                                                                             |
+|                 | Evac. Proc. | [Phases 1 -> 4 / Phases 1 -> 4](https://newdevprojects.github.io/S2/S25/Evacuatieprocedures_Avis_motive_CSC-SP.pdf)                                                              |
+
+
 ## -1- PV
 
 Suivi du PV de la réunion précédente / Opvolging Notulen vorige vergadering
@@ -25,7 +35,7 @@ Suivi du PV de la réunion précédente / Opvolging Notulen vorige vergadering
 - (b) Debriefing Staff S2
 - (c) Instructions - Organisation / Instructies - Organisatie
 	- (c.1) Bureaux Facility à l'Atrium / Werkplaatsen Facility (Atrium)
-	- (c.2) Suivi CCB1 du 26.05.2026 - Procédures d'évacuation - Phases 1 à 4<br>(c.2) Opvolging BOC1 van 26.05.2026 - Evacuatieprocedures - Fazes 1 tot 4
+	- (c.2) Follow-up CCB1 du/van 26.05.2026 - Proc. d'évacuation/Evacuatieproc. - [Phases 1 -> 4](https://newdevprojects.github.io/S2/S25/Evacuatieprocedures_Avis_motive_CSC-SP.pdf)
 	- (c.3) Catégorisation / Categorisatie - Mise en &oelig;uvre / Implementatie
 
 ## -3- Items S251
