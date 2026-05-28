@@ -19,7 +19,7 @@
 | Procédures contrôles  d'accès                            | Silvia, Bert                |                     | 8   |
 | Suivi visite NG/Atrium                                   | Silvia, Bert, Nicolas       | rapport du visiteur | 9   |
 | Taux d'occupation réel des bâtiments                     | Laurent, Nicolas            |                     | 10  |
-| Point (a) Registre des activités de traitement           | Silvia                      |                     | 11  |
+| Point (a) Registre des activités de traitement RGPD      | Silvia                      |                     | 11  |
 | Point (a) Transmettre les KPI de S2                      | Robert                      | Wk-22               | 12  |
 | Point (a) Modernisation Archibus - cahier de charges S25 |                             |                     | 13  |
 | Point (a) Politique de catégorisation                    |                             | Wk-23               | 14  |

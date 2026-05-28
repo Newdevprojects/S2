@@ -7,30 +7,30 @@
 
 ---
 
-| ToDo                                                     | Who                         | When                | #   |
-| -------------------------------------------------------- | --------------------------- | ------------------- | --- |
-| Point (b) Répartition des charges locatives NG           | Mathias                     |                     | 1   |
-| Point (c) Réintégration de Vincent Danckaert             |                             |                     | 2   |
-| Point (c) Intégration de Marjorie Van Onacker            |                             |                     | 3   |
-| Point (c) Intégration de Jacques Kyaboba                 |                             |                     | 4   |
-| Procédures d'évacuation NG                               | CCB2                        | Wk-20               | 5   |
-| Procédures d'évacuation Atrium                           | CCB1                        | Wk-22               | 6   |
-| Programme de besoins -> Masterplan de la Régie           | Mathias, Nicolas            |                     | 7   |
-| Procédures contrôles  d'accès                            | Silvia, Bert                |                     | 8   |
-| Suivi visite NG/Atrium                                   | Silvia, Bert, Nicolas       | rapport du visiteur | 9   |
-| Taux d'occupation réel des bâtiments                     | Laurent, Nicolas            |                     | 10  |
-| Point (a) Registre des activités de traitement           | Silvia                      |                     | 11  |
-| Point (a) Transmettre les KPI de S2                      | Robert                      | Wk-22               | 12  |
-| Point (a) Modernisation Archibus - cahier de charges S25 |                             |                     | 13  |
-| Point (a) Politique de catégorisation                    |                             | Wk-23               | 14  |
-| Point (s) Liste de tâches - Correspondants Archives      | Ronny                       |                     | 15  |
-| Point (a) Suivi du CCB2 du 11/05                         | Bert, Martin                |                     | 16  |
-| Point (a) Suivi du CCB1 du 26/05                         | Bert, Martin                |                     | 17  |
-| Economat NG - quid après la pension de Fanny             | Julie, Frédéric             |                     | 18  |
-| Point (a) Clarification rôle de Rym Zid                  | Mathias                     |                     | 19  |
-| Contact S2521                                            | Saïd, Robert, Bert, Martin  | Wk-21               | 20  |
-| Contact S2522                                            | Saïd, Robert, Alex          | Wk-21               | 21  |
-| Contact S254                                             | Saïd, Robert, Jean-Philippe | Wk-21               | 22  |
-| Inscription Déménagements à l'agenda du Staff S2         | Mathias                     | (revolving)         | 23  |
+| ToDo                                            | Who                         | When                    | #   |
+| ----------------------------------------------- | --------------------------- | ----------------------- | --- |
+| Punt (b) Verdeling huurkosten NG                | Mathias                     |                         | 1   |
+| Punt (c) Herintegratie van Vincent Danckaert    |                             |                         | 2   |
+| Punt (c) Integrate van Marjorie Van Onacker     |                             |                         | 3   |
+| Punt (c) Integratie van Jacques Kyaboba         |                             |                         | 4   |
+| Evacuatieprocedures NG                          | BOC2                        | Wk-20                   | 5   |
+| Evacuatieprocedures Atrium                      | BOC1                        | Wk-22                   | 6   |
+| Behoefteprogramma -> Masterplan Regie           | Mathias, Nicolas            |                         | 7   |
+| Procedures toegangscontroles                    | Silvia, Bert                |                         | 8   |
+| Follow-up bezoek NG/Atrium                      | Silvia, Bert, Nicolas       | rapport van de bezoeker | 9   |
+| Bezettingsgraag gebouwen                        | Laurent, Nicolas            |                         | 10  |
+| Punt (a) Invullen verwerkingsregister GDPR      | Silvia                      |                         | 11  |
+| Punt (a) Sturen KPI voor S2                     | Robert                      | Wk-22                   | 12  |
+| Punt (a) Modernisatie Archibus - lastenboek S25 |                             |                         | 13  |
+| Punt (a) Categorisatiebeleid                    |                             | Wk-23                   | 14  |
+| Punt (s) Takenlijst - Archieven Correspondenten | Ronny                       |                         | 15  |
+| Punt (a) Follow-up BOC2 van 11/05               | Bert, Martin                |                         | 16  |
+| Punt (a) Follow-sup BOC1 van 26/05              | Bert, Martin                |                         | 17  |
+| Economaat NG - Verderzetting na pensioen Fanny  | Julie, Frédéric             |                         | 18  |
+| Punt (a) Rol van Rym Zid verduidelijken         | Mathias                     |                         | 19  |
+| Contact S2521                                   | Saïd, Robert, Bert, Martin  | Wk-21                   | 20  |
+| Contact S2522                                   | Saïd, Robert, Alex          | Wk-21                   | 21  |
+| Contact S254                                    | Saïd, Robert, Jean-Philippe | Wk-21                   | 22  |
+| Punt 'Verhuis' bespreken op Staff S2            | Mathias                     | (revolving)             | 23  |
 
 ---
