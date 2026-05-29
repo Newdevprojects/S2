@@ -35,7 +35,7 @@ Suivi du [PV de la réunion précédente](https://newdevprojects.github.io/S2/S2
 - (b) Debriefing Staff S2
 - (c) Instructions - Organisation / Instructies - Organisatie
 	- (c.1) Bureaux Facility à l'Atrium / Werkplaatsen Facility (Atrium)
-	- (c.2) Follow-up CCB1 du/van 26.05.2026 - Proc. d'évacuation/Evacuatieproc. - [Phases 1 -> 4](https://newdevprojects.github.io/S2/S25/Evacuatieprocedures_Avis_motive_CSC-SP.pdf)
+	- (c.2) Follow-up CCB1 du/van 26.05.2026 - Procédures d'évacuation/Evacuatieprocedure - [Phases/Fasen 1 -> 4](https://newdevprojects.github.io/S2/S25/Evacuatieprocedures_Avis_motive_CSC-SP.pdf)
 	- (c.3) Catégorisation / Categorisatie - Changement de date de mise en &oelig;uvre / [Wijziging datum implementatie](https://newdevprojects.github.io/S2/S25/20260526_Mail_SLacatus_Categorisatiebeleid.pdf)
 
 ## -3- Items S251
