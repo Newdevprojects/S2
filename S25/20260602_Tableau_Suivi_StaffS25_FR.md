@@ -16,7 +16,7 @@
 | Procédures d'évacuation NG                               | CCB2                        | Wk-20               | 5   |
 | Procédures d'évacuation Atrium                           | CCB1                        | Wk-22               | 6   |
 | Programme de besoins -> Masterplan de la Régie           | Mathias, Nicolas            |                     | 7   |
-| Procédures contrôles  d'accès                            | Silvia, Bert                |                     | 8   |
+| Procédures contrôle  d'accès                             | Silvia, Bert                |                     | 8   |
 | Suivi visite NG/Atrium                                   | Silvia, Bert, Nicolas       | rapport du visiteur | 9   |
 | Taux d'occupation réel des bâtiments                     | Laurent, Nicolas            |                     | 10  |
 | Point (a) Registre des activités de traitement RGPD      | Silvia                      |                     | 11  |
