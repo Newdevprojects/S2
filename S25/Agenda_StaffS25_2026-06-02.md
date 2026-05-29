@@ -16,7 +16,7 @@
 | --------------- | :---------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 11.03.2026      |     PDF     | [Guidelines dirigeants / Informatie leidinggevenden - Robert](https://newdevprojects.github.io/S2/S25/2026-03-11_DocItem1a_Organisatie_Info-RDumoulin_leidinggevenden_FR-NL.pdf)   |
 | 05.05.2026      |   Projet    | [Procès-verbal Staff S25 05/05](https://newdevprojects.github.io/S2/S25/PV_StaffS25_2026-05-05_FR.html)                                                                            |
-|                 |   Ontwerp   | [Notulen Staff S25 05/05](https://newdevprojects.github.io/S2/S25/PV_StaffS25_2026-05-05_FR.html)                                                                                  |
+|                 |   Ontwerp   | [Notulen Staff S25 05/05](https://newdevprojects.github.io/S2/S25/PV_StaffS25_2026-05-05_NL.html)                                                                                  |
 | 02.06.2026      |    Suivi    | [Tableau de suivi](https://newdevprojects.github.io/S2/S25/20260602_Tableau_Suivi_StaffS25_FR.html) (après Staff S25 05/05)                                                        |
 |                 |  Opvolging  | [Opvolgingstabel](https://newdevprojects.github.io/S2/S25/20260602_Tableau_Suivi_StaffS25_NL.html) (na Staff S25 05/05)                                                            |
 |                 | Evac. Proc. | [Phases 1 -> 4 / Phases 1 -> 4](https://newdevprojects.github.io/S2/S25/Evacuatieprocedures_Avis_motive_CSC-SP.pdf)                                                                |
